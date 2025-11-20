@@ -1,0 +1,2960 @@
+{
+  "letter": "ο",
+  "count": 211,
+  "entries": [
+    {
+      "n": "οἶδα | 1492",
+      "orth": "οἶδα",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I know, remember"
+        },
+        {
+          "role": "full",
+          "text": "I know, remember, appreciate."
+        }
+      ]
+    },
+    {
+      "n": "ὁμείρομαι | 2442",
+      "orth": "ὁμείρομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I long for, love fervently"
+        },
+        {
+          "role": "full",
+          "text": "I desire earnestly, long for; I have a strong affection for, love\n                  fervently."
+        }
+      ]
+    },
+    {
+      "n": "ὁ | 3588",
+      "orth": "ὁ, ἡ, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the"
+        },
+        {
+          "role": "full",
+          "text": "the, the definite article."
+        }
+      ]
+    },
+    {
+      "n": "ὀγδοήκοντα | 3589",
+      "orth": "ὀγδοήκοντα",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "eighty"
+        },
+        {
+          "role": "full",
+          "text": "eighty."
+        }
+      ]
+    },
+    {
+      "n": "ὄγδοος | 3590",
+      "orth": "ὄγδοος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "eighth"
+        },
+        {
+          "role": "full",
+          "text": "the eighth, one of eight, with seven others."
+        }
+      ]
+    },
+    {
+      "n": "ὄγκος | 3591",
+      "orth": "ὄγκος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a weight, burden"
+        },
+        {
+          "role": "full",
+          "text": "(properly: bulk, mass, hence) a weight, burden, encumbrance."
+        }
+      ]
+    },
+    {
+      "n": "ὅδε | 3592",
+      "orth": "ὅδε, ἥδε, τόδε",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "this here, this"
+        },
+        {
+          "role": "full",
+          "text": "this here, this, that, he, she, it."
+        }
+      ]
+    },
+    {
+      "n": "ὁδεύω | 3593",
+      "orth": "ὁδεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I journey, travel"
+        },
+        {
+          "role": "full",
+          "text": "I journey, travel."
+        }
+      ]
+    },
+    {
+      "n": "ὁδηγέω | 3594",
+      "orth": "ὁδηγέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I lead, guide"
+        },
+        {
+          "role": "full",
+          "text": "I lead, guide; met: I instruct, teach."
+        }
+      ]
+    },
+    {
+      "n": "ὁδηγός | 3595",
+      "orth": "ὁδηγός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a leader, guide"
+        },
+        {
+          "role": "full",
+          "text": "a leader, guide; met: an instructor, teacher."
+        }
+      ]
+    },
+    {
+      "n": "ὁδοιπορέω | 3596",
+      "orth": "ὁδοιπορέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I travel, pursue a way"
+        },
+        {
+          "role": "full",
+          "text": "I travel, pursue a way, journey."
+        }
+      ]
+    },
+    {
+      "n": "ὁδοιπορία | 3597",
+      "orth": "ὁδοιπορία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a journey, travel"
+        },
+        {
+          "role": "full",
+          "text": "a journey, journeying, travel."
+        }
+      ]
+    },
+    {
+      "n": "ὁδός | 3598",
+      "orth": "ὁδός, οῦ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a way, road, journey"
+        },
+        {
+          "role": "full",
+          "text": "a way, road, journey, path."
+        }
+      ]
+    },
+    {
+      "n": "ὀδούς | 3599",
+      "orth": "ὀδούς, όντος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a tooth"
+        },
+        {
+          "role": "full",
+          "text": "a tooth."
+        }
+      ]
+    },
+    {
+      "n": "ὀδυνάω | 3600",
+      "orth": "ὀδυνάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I torment, pain"
+        },
+        {
+          "role": "full",
+          "text": "I torment, pain; mid. and pass: I am tormented, pained; I suffer acute\n                  pain, physical or mental."
+        }
+      ]
+    },
+    {
+      "n": "ὀδύνη | 3601",
+      "orth": "ὀδύνη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "pain, distress"
+        },
+        {
+          "role": "full",
+          "text": "pain, sorrow, distress, of body or mind."
+        }
+      ]
+    },
+    {
+      "n": "ὀδυρμός | 3602",
+      "orth": "ὀδυρμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "lamentation, wailing"
+        },
+        {
+          "role": "full",
+          "text": "lamentation, wailing, mourning, sorrow."
+        }
+      ]
+    },
+    {
+      "n": "Ὀζίας | 3604",
+      "orth": "Ὀζίας, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Uzziah"
+        },
+        {
+          "role": "full",
+          "text": "Uzziah, son of Joram and father of Jotham, and king of Judah from about\n                  785 to 746 B.C., an ancestor of Jesus."
+        }
+      ]
+    },
+    {
+      "n": "ὄζω | 3605",
+      "orth": "ὄζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I stink, am offensive"
+        },
+        {
+          "role": "full",
+          "text": "I stink, am offensive."
+        }
+      ]
+    },
+    {
+      "n": "ὅθεν | 3606",
+      "orth": "ὅθεν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "whence, wherefore"
+        },
+        {
+          "role": "full",
+          "text": "(a) whence, from which place, (b) wherefore."
+        }
+      ]
+    },
+    {
+      "n": "ὀθόνη | 3607",
+      "orth": "ὀθόνη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a linen cloth, sheet"
+        },
+        {
+          "role": "full",
+          "text": "a linen cloth, a sheet, sail."
+        }
+      ]
+    },
+    {
+      "n": "ὀθόνιον | 3608",
+      "orth": "ὀθόνιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a linen bandage"
+        },
+        {
+          "role": "full",
+          "text": "a linen bandage, a wrapping."
+        }
+      ]
+    },
+    {
+      "n": "οἰκεῖος | 3609",
+      "orth": "οἰκεῖος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of one's family, domestic"
+        },
+        {
+          "role": "full",
+          "text": "of one's family, domestic, intimate."
+        }
+      ]
+    },
+    {
+      "n": "οἰκέτης | 3610",
+      "orth": "οἰκέτης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a household servant"
+        },
+        {
+          "role": "full",
+          "text": "a household servant."
+        }
+      ]
+    },
+    {
+      "n": "οἰκέω | 3611",
+      "orth": "οἰκέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I inhabit, dwell"
+        },
+        {
+          "role": "full",
+          "text": "I inhabit, dwell, indwell."
+        }
+      ]
+    },
+    {
+      "n": "οἴκημα | 3612",
+      "orth": "οἴκημα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a prison"
+        },
+        {
+          "role": "full",
+          "text": "a prison cell."
+        }
+      ]
+    },
+    {
+      "n": "οἰκητήριον | 3613",
+      "orth": "οἰκητήριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a dwelling-place, habitation"
+        },
+        {
+          "role": "full",
+          "text": "a dwelling-place, habitation, abode."
+        }
+      ]
+    },
+    {
+      "n": "οἰκία | 3614",
+      "orth": "οἰκία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a house, household"
+        },
+        {
+          "role": "full",
+          "text": "a house, household, dwelling; meton: goods, property, means."
+        }
+      ]
+    },
+    {
+      "n": "οἰκειακός | 3615",
+      "orth": "οἰκειακός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "one of a family"
+        },
+        {
+          "role": "full",
+          "text": "one of a family, whether child or servant."
+        }
+      ]
+    },
+    {
+      "n": "οἰκοδεσποτέω | 3616",
+      "orth": "οἰκοδεσποτέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I manage a household"
+        },
+        {
+          "role": "full",
+          "text": "I manage a household."
+        }
+      ]
+    },
+    {
+      "n": "οἰκοδεσπότης | 3617",
+      "orth": "οἰκοδεσπότης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a head of a household"
+        },
+        {
+          "role": "full",
+          "text": "a head of a household."
+        }
+      ]
+    },
+    {
+      "n": "οἰκοδομέω | 3618",
+      "orth": "οἰκοδομέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I build, build up, edify"
+        },
+        {
+          "role": "full",
+          "text": "I erect a building, build; fig. of the building up of character: I\n                  build up, edify, encourage."
+        }
+      ]
+    },
+    {
+      "n": "οἰκοδομή | 3619",
+      "orth": "οἰκοδομή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the act of building, a building, edification"
+        },
+        {
+          "role": "full",
+          "text": "(a) the act of building, (b) a building, (c) met: spiritual\n                  advancement, edification."
+        }
+      ]
+    },
+    {
+      "n": "οἰκονομέω | 3621",
+      "orth": "οἰκονομέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am a steward"
+        },
+        {
+          "role": "full",
+          "text": "I am a steward, manage a household."
+        }
+      ]
+    },
+    {
+      "n": "οἰκονομία | 3622",
+      "orth": "οἰκονομία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "stewardship"
+        },
+        {
+          "role": "full",
+          "text": "management of household affairs, stewardship, administration."
+        }
+      ]
+    },
+    {
+      "n": "οἰκονόμος | 3623",
+      "orth": "οἰκονόμος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a steward"
+        },
+        {
+          "role": "full",
+          "text": "a household manager, a steward, guardian."
+        }
+      ]
+    },
+    {
+      "n": "οἶκος | 3624",
+      "orth": "οἶκος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a house, household"
+        },
+        {
+          "role": "full",
+          "text": "(a) a house, the material building, (b) a household, family, lineage,\n                  nation."
+        }
+      ]
+    },
+    {
+      "n": "οἰκουμένη | 3625",
+      "orth": "οἰκουμένη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the inhabited (Roman) world"
+        },
+        {
+          "role": "full",
+          "text": "(properly: the land that is being inhabited, the land in a state of\n                  habitation), the inhabited world, that is, the Roman world, for all outside it was\n                  regarded as of no account."
+        }
+      ]
+    },
+    {
+      "n": "οὐκουρός | 3626",
+      "orth": "οὐκουρός, οῦ, ὁ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a housekeeper"
+        },
+        {
+          "role": "full",
+          "text": "a keeper-at-home, a housekeeper."
+        }
+      ]
+    },
+    {
+      "n": "οἰκτείρω | 3627",
+      "orth": "οἰκτείρω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I pity, have compassion on"
+        },
+        {
+          "role": "full",
+          "text": "I pity, have compassion on."
+        }
+      ]
+    },
+    {
+      "n": "οἰκτιρμός | 3628",
+      "orth": "οἰκτιρμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "pity, compassion"
+        },
+        {
+          "role": "full",
+          "text": "pity, compassion, favor, grace, mercy."
+        }
+      ]
+    },
+    {
+      "n": "οἰκτίρμων | 3629",
+      "orth": "οἰκτίρμων, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "compassionate, merciful"
+        },
+        {
+          "role": "full",
+          "text": "compassionate, merciful."
+        }
+      ]
+    },
+    {
+      "n": "οἰνοπότης | 3630",
+      "orth": "οἰνοπότης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an excessive wine-drinker"
+        },
+        {
+          "role": "full",
+          "text": "an excessive wine-drinker."
+        }
+      ]
+    },
+    {
+      "n": "οἶνος | 3631",
+      "orth": "οἶνος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "wine"
+        },
+        {
+          "role": "full",
+          "text": "wine."
+        }
+      ]
+    },
+    {
+      "n": "οἰνοφλυγία | 3632",
+      "orth": "οἰνοφλυγία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "drunkenness"
+        },
+        {
+          "role": "full",
+          "text": "drunkenness, debauchery."
+        }
+      ]
+    },
+    {
+      "n": "οἴμαι | 3633",
+      "orth": "οἴμαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I think, suppose"
+        },
+        {
+          "role": "full",
+          "text": "I think, suppose, expect, imagine."
+        }
+      ]
+    },
+    {
+      "n": "οἵος | 3634",
+      "orth": "οἵος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of what kind, such as"
+        },
+        {
+          "role": "full",
+          "text": "of what kind, such as."
+        }
+      ]
+    },
+    {
+      "n": "ὀκνέω | 3635",
+      "orth": "ὀκνέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I delay, hesitate, am slow"
+        },
+        {
+          "role": "full",
+          "text": "I delay, hesitate, am slow."
+        }
+      ]
+    },
+    {
+      "n": "ὀκνηρός | 3636",
+      "orth": "ὀκνηρός, ά, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "slothful, backward"
+        },
+        {
+          "role": "full",
+          "text": "slothful, backward, hesitating; of things: irksome."
+        }
+      ]
+    },
+    {
+      "n": "ὀκταήμερος | 3637",
+      "orth": "ὀκταήμερος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "belonging to the eighth day"
+        },
+        {
+          "role": "full",
+          "text": "of or belonging to the eighth day, eight days old."
+        }
+      ]
+    },
+    {
+      "n": "ὀκτώ | 3638",
+      "orth": "ὀκτώ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "eight"
+        },
+        {
+          "role": "full",
+          "text": "eight."
+        }
+      ]
+    },
+    {
+      "n": "ὄλεθρος | 3639",
+      "orth": "ὄλεθρος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "ruin, doom, destruction"
+        },
+        {
+          "role": "full",
+          "text": "ruin, doom, destruction, death."
+        }
+      ]
+    },
+    {
+      "n": "ὀλιγόπιστος | 3640",
+      "orth": "ὀλιγόπιστος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of little faith"
+        },
+        {
+          "role": "full",
+          "text": "of little faith."
+        }
+      ]
+    },
+    {
+      "n": "ὀλίγος | 3641",
+      "orth": "ὀλίγος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "small, brief, few, soon"
+        },
+        {
+          "role": "full",
+          "text": "(a) especially in plur: few, (b) in sing: small; hence, of time: short,\n                  of degree: light, slight, little."
+        }
+      ]
+    },
+    {
+      "n": "ὀλιγόψυχος | 3642",
+      "orth": "ὀλιγόψυχος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "faint-hearted"
+        },
+        {
+          "role": "full",
+          "text": "faint-hearted, of small courage."
+        }
+      ]
+    },
+    {
+      "n": "ὀλιγωρέω | 3643",
+      "orth": "ὀλιγωρέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I despise, make light of"
+        },
+        {
+          "role": "full",
+          "text": "I despise, hold in low esteem, make light of."
+        }
+      ]
+    },
+    {
+      "n": "ὀλοθρευτής | 3644",
+      "orth": "ὀλοθρευτής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a destroyer"
+        },
+        {
+          "role": "full",
+          "text": "a destroyer."
+        }
+      ]
+    },
+    {
+      "n": "ὀλοθρεύω | 3645",
+      "orth": "ὀλοθρεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I destroy"
+        },
+        {
+          "role": "full",
+          "text": "I destroy, cause to perish."
+        }
+      ]
+    },
+    {
+      "n": "ὁλοκαύτωμα | 3646",
+      "orth": "ὁλοκαύτωμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a whole burnt offering"
+        },
+        {
+          "role": "full",
+          "text": "a whole burnt offering."
+        }
+      ]
+    },
+    {
+      "n": "ὁλοκληρία | 3647",
+      "orth": "ὁλοκληρία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "perfect soundness"
+        },
+        {
+          "role": "full",
+          "text": "perfect soundness, completeness."
+        }
+      ]
+    },
+    {
+      "n": "ὁλόκληρος | 3648",
+      "orth": "ὁλόκληρος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "complete in every part, sound, perfect"
+        },
+        {
+          "role": "full",
+          "text": "complete in every part, sound, perfect, entire."
+        }
+      ]
+    },
+    {
+      "n": "ὀλολύζω | 3649",
+      "orth": "ὀλολύζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I howl, lament loudly"
+        },
+        {
+          "role": "full",
+          "text": "I howl, lament loudly, cry aloud, bewail."
+        }
+      ]
+    },
+    {
+      "n": "ὅλος | 3650",
+      "orth": "ὅλος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "all, the whole, entire"
+        },
+        {
+          "role": "full",
+          "text": "all, the whole, entire, complete."
+        }
+      ]
+    },
+    {
+      "n": "ὁλοτελής | 3651",
+      "orth": "ὁλοτελής, ές",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "perfect, complete"
+        },
+        {
+          "role": "full",
+          "text": "perfect, complete, all."
+        }
+      ]
+    },
+    {
+      "n": "Ὀλυμπᾶς | 3652",
+      "orth": "Ὀλυμπᾶς, ᾶ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Olympas"
+        },
+        {
+          "role": "full",
+          "text": "Olympas, a Christian man in Rome."
+        }
+      ]
+    },
+    {
+      "n": "ὄλυνθος | 3653",
+      "orth": "ὄλυνθος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an unripe fig"
+        },
+        {
+          "role": "full",
+          "text": "an unripe fig, one which, not ripening in due time, grows through the\n                  winter and falls off in the spring."
+        }
+      ]
+    },
+    {
+      "n": "ὅλως | 3654",
+      "orth": "ὅλως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "wholly, altogether, not at all"
+        },
+        {
+          "role": "full",
+          "text": "wholly, altogether, actually, really; with negative: not at all."
+        }
+      ]
+    },
+    {
+      "n": "ὄμβρος | 3655",
+      "orth": "ὄμβρος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a violent rain"
+        },
+        {
+          "role": "full",
+          "text": "a violent rain, a shower."
+        }
+      ]
+    },
+    {
+      "n": "ὁμιλέω | 3656",
+      "orth": "ὁμιλέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I associate with, talk with"
+        },
+        {
+          "role": "full",
+          "text": "I consort with, associate with, commune with; particularly, I talk\n                  (converse) with."
+        }
+      ]
+    },
+    {
+      "n": "ὁμιλία | 3657",
+      "orth": "ὁμιλία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "intercourse, companionship, conversation"
+        },
+        {
+          "role": "full",
+          "text": "intercourse, companionship, conversation, association."
+        }
+      ]
+    },
+    {
+      "n": "ὄμμα | 3659",
+      "orth": "ὄμμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an eye"
+        },
+        {
+          "role": "full",
+          "text": "an eye."
+        }
+      ]
+    },
+    {
+      "n": "ὀμνύω | 3660",
+      "orth": "ὀμνύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I swear, take an oath"
+        },
+        {
+          "role": "full",
+          "text": "I swear, take an oath, promise with an oath."
+        }
+      ]
+    },
+    {
+      "n": "ὁμοθυμαδόν | 3661",
+      "orth": "ὁμοθυμαδόν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "with one mind, unanimously"
+        },
+        {
+          "role": "full",
+          "text": "with one mind, unanimously, with one accord, at the same time."
+        }
+      ]
+    },
+    {
+      "n": "ὁμοιάζω | 3662",
+      "orth": "ὁμοιάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am like, resemble"
+        },
+        {
+          "role": "full",
+          "text": "I am like, resemble."
+        }
+      ]
+    },
+    {
+      "n": "ὁμοιοπαθής | 3663",
+      "orth": "ὁμοιοπαθής, ές",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of like feelings"
+        },
+        {
+          "role": "full",
+          "text": "of like feelings, having similar passions and feelings, of like\n                  infirmities."
+        }
+      ]
+    },
+    {
+      "n": "ὅμοιος | 3664",
+      "orth": "ὅμοιος, οία, οιον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "like, similar to"
+        },
+        {
+          "role": "full",
+          "text": "like, similar to, resembling, of equal rank."
+        }
+      ]
+    },
+    {
+      "n": "ὁμοιότης | 3665",
+      "orth": "ὁμοιότης, τητος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "likeness, resemblance"
+        },
+        {
+          "role": "full",
+          "text": "likeness, resemblance."
+        }
+      ]
+    },
+    {
+      "n": "ὁμοιόω | 3666",
+      "orth": "ὁμοιόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make like, liken, compare"
+        },
+        {
+          "role": "full",
+          "text": "I make like, liken; I compare."
+        }
+      ]
+    },
+    {
+      "n": "ὁμοίωμα | 3667",
+      "orth": "ὁμοίωμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a likeness, form, similitude"
+        },
+        {
+          "role": "full",
+          "text": "(originally: a thing made like something else), a likeness, or rather:\n                  form; a similitude."
+        }
+      ]
+    },
+    {
+      "n": "ὁμοίως | 3668",
+      "orth": "ὁμοίως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "in like manner"
+        },
+        {
+          "role": "full",
+          "text": "in like manner, similarly, in the same way, equally."
+        }
+      ]
+    },
+    {
+      "n": "ὁμοίωσις | 3669",
+      "orth": "ὁμοίωσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "making like, likeness"
+        },
+        {
+          "role": "full",
+          "text": "making like, likeness, resemblance."
+        }
+      ]
+    },
+    {
+      "n": "ὁμολογέω | 3670",
+      "orth": "ὁμολογέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I confess, profess, acknowledge, praise"
+        },
+        {
+          "role": "full",
+          "text": "(a) I promise, agree, (b) I confess, (c) I publicly declare, (d) a\n                  Hebraism, I praise, celebrate."
+        }
+      ]
+    },
+    {
+      "n": "ὁμολογία | 3671",
+      "orth": "ὁμολογία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a profession, confession"
+        },
+        {
+          "role": "full",
+          "text": "a profession, confession."
+        }
+      ]
+    },
+    {
+      "n": "ὁμολογουμένως | 3672",
+      "orth": "ὁμολογουμένως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "admittedly"
+        },
+        {
+          "role": "full",
+          "text": "admittedly, without controversy."
+        }
+      ]
+    },
+    {
+      "n": "ὁμότεχνος | 3673",
+      "orth": "ὁμότεχνος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of the same trade or craft"
+        },
+        {
+          "role": "full",
+          "text": "of the same trade or craft."
+        }
+      ]
+    },
+    {
+      "n": "ὁμοῦ | 3674",
+      "orth": "ὁμοῦ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "together"
+        },
+        {
+          "role": "full",
+          "text": "together, at the same place and time."
+        }
+      ]
+    },
+    {
+      "n": "ὁμόφρων | 3675",
+      "orth": "ὁμόφρων, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of one mind"
+        },
+        {
+          "role": "full",
+          "text": "of one mind (intent, purpose), like-minded."
+        }
+      ]
+    },
+    {
+      "n": "ὅμως | 3676",
+      "orth": "ὅμως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "yet, nevertheless"
+        },
+        {
+          "role": "full",
+          "text": "yet, nevertheless, even."
+        }
+      ]
+    },
+    {
+      "n": "ὄναρ | 3677",
+      "orth": "ὄναρ, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a dream"
+        },
+        {
+          "role": "full",
+          "text": "a dream."
+        }
+      ]
+    },
+    {
+      "n": "ὀνάριον | 3678",
+      "orth": "ὀνάριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a young ass"
+        },
+        {
+          "role": "full",
+          "text": "a young ass."
+        }
+      ]
+    },
+    {
+      "n": "ὀνειδίζω | 3679",
+      "orth": "ὀνειδίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I reproach, revile, upbraid"
+        },
+        {
+          "role": "full",
+          "text": "I reproach, revile, upbraid."
+        }
+      ]
+    },
+    {
+      "n": "ὀνειδισμός | 3680",
+      "orth": "ὀνειδισμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "reproach, reviling"
+        },
+        {
+          "role": "full",
+          "text": "reproach, reviling."
+        }
+      ]
+    },
+    {
+      "n": "ὄνειδος | 3681",
+      "orth": "ὄνειδος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "reproach, disgrace"
+        },
+        {
+          "role": "full",
+          "text": "reproach, disgrace."
+        }
+      ]
+    },
+    {
+      "n": "Ὀνήσιμος | 3682",
+      "orth": "Ὀνήσιμος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Onesimus"
+        },
+        {
+          "role": "full",
+          "text": "(originally adj: useful, hence the play upon words in Philemon 10, 11,\n                  and very common as slave name), Onesimus, a slave of Philemon, a Christian of\n                  Colossae."
+        }
+      ]
+    },
+    {
+      "n": "Ὀνησίφορος | 3683",
+      "orth": "Ὀνησίφορος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Onesiphorus"
+        },
+        {
+          "role": "full",
+          "text": "Onesiphorus, a Christian of the province of Asia."
+        }
+      ]
+    },
+    {
+      "n": "ὀνικός | 3684",
+      "orth": "ὀνικός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "pertaining to an ass"
+        },
+        {
+          "role": "full",
+          "text": "pertaining to an ass."
+        }
+      ]
+    },
+    {
+      "n": "ὀνίνημι | 3685",
+      "orth": "ὀνίνημι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I help, profit, have joy of"
+        },
+        {
+          "role": "full",
+          "text": "I profit, benefit, help; mid: I have profit, derive benefit."
+        }
+      ]
+    },
+    {
+      "n": "ὄνομα | 3686",
+      "orth": "ὄνομα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "name, character, reputation"
+        },
+        {
+          "role": "full",
+          "text": "name, character, fame, reputation."
+        }
+      ]
+    },
+    {
+      "n": "ὀνομάζω | 3687",
+      "orth": "ὀνομάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I give a name to, mention"
+        },
+        {
+          "role": "full",
+          "text": "I give a name to, mention, call upon the name of."
+        }
+      ]
+    },
+    {
+      "n": "ὄνος | 3688",
+      "orth": "ὄνος, ου, ὁ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a donkey, an ass"
+        },
+        {
+          "role": "full",
+          "text": "a donkey, an ass."
+        }
+      ]
+    },
+    {
+      "n": "ὄντως | 3689",
+      "orth": "ὄντως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "really, truly"
+        },
+        {
+          "role": "full",
+          "text": "really, truly, actually."
+        }
+      ]
+    },
+    {
+      "n": "ὄξος | 3690",
+      "orth": "ὄξος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "vinegar, sour wine"
+        },
+        {
+          "role": "full",
+          "text": "vinegar, sour wine mixed with water, a common drink of Roman\n                  soldiers."
+        }
+      ]
+    },
+    {
+      "n": "ὀξύς | 3691",
+      "orth": "ὀξύς, εῖα, ύ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "sharp, swift, eager"
+        },
+        {
+          "role": "full",
+          "text": "(a) sharp, (b) swift, eager."
+        }
+      ]
+    },
+    {
+      "n": "ὀπή | 3692",
+      "orth": "ὀπή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a crevice, cave"
+        },
+        {
+          "role": "full",
+          "text": "a crevice (in a rock), a cave, an opening, hole."
+        }
+      ]
+    },
+    {
+      "n": "ὄπισθεν | 3693",
+      "orth": "ὄπισθεν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "from behind, after"
+        },
+        {
+          "role": "full",
+          "text": "from behind, after."
+        }
+      ]
+    },
+    {
+      "n": "ὀπίσω | 3694",
+      "orth": "ὀπίσω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "behind, after"
+        },
+        {
+          "role": "full",
+          "text": "behind, after; back, backwards."
+        }
+      ]
+    },
+    {
+      "n": "ὁπλίζω | 3695",
+      "orth": "ὁπλίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I arm, equip"
+        },
+        {
+          "role": "full",
+          "text": "I make ready, arm, equip."
+        }
+      ]
+    },
+    {
+      "n": "ὅπλον | 3696",
+      "orth": "ὅπλον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an instrument, arms, weapons"
+        },
+        {
+          "role": "full",
+          "text": "an instrument; plur: arms, weapons."
+        }
+      ]
+    },
+    {
+      "n": "ὁποῖος | 3697",
+      "orth": "ὁποῖος, οία, οῖον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of what kind or manner"
+        },
+        {
+          "role": "full",
+          "text": "of what kind or manner, of what sort."
+        }
+      ]
+    },
+    {
+      "n": "ὁπότε | 3698",
+      "orth": "ὁπότε",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "when"
+        },
+        {
+          "role": "full",
+          "text": "when."
+        }
+      ]
+    },
+    {
+      "n": "ὅπου | 3699",
+      "orth": "ὅπου",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "where, whither"
+        },
+        {
+          "role": "full",
+          "text": "where, whither, in what place."
+        }
+      ]
+    },
+    {
+      "n": "ὀπτάνομαι | 3700",
+      "orth": "ὀπτάνομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I appear, am seen"
+        },
+        {
+          "role": "full",
+          "text": "I appear, am seen (by), let myself be seen (by)."
+        }
+      ]
+    },
+    {
+      "n": "ὀπτασία | 3701",
+      "orth": "ὀπτασία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a vision, supernatural appearance"
+        },
+        {
+          "role": "full",
+          "text": "a vision, supernatural appearance."
+        }
+      ]
+    },
+    {
+      "n": "ὀπτός | 3702",
+      "orth": "ὀπτός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "roasted, broiled"
+        },
+        {
+          "role": "full",
+          "text": "roasted, broiled."
+        }
+      ]
+    },
+    {
+      "n": "ὀπώρα | 3703",
+      "orth": "ὀπώρα, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "autumn, autumnal fruits"
+        },
+        {
+          "role": "full",
+          "text": "autumn, autumnal fruits."
+        }
+      ]
+    },
+    {
+      "n": "ὅπως | 3704",
+      "orth": "ὅπως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "how, in order that, so that"
+        },
+        {
+          "role": "full",
+          "text": "how, in order that, so that, that."
+        }
+      ]
+    },
+    {
+      "n": "ὅραμα | 3705",
+      "orth": "ὅραμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a spectacle, vision"
+        },
+        {
+          "role": "full",
+          "text": "a spectacle, vision, that which is seen."
+        }
+      ]
+    },
+    {
+      "n": "ὅρασις | 3706",
+      "orth": "ὅρασις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a sight, vision, appearance"
+        },
+        {
+          "role": "full",
+          "text": "a sight, vision, appearance."
+        }
+      ]
+    },
+    {
+      "n": "ὁρατός | 3707",
+      "orth": "ὁρατός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "visible"
+        },
+        {
+          "role": "full",
+          "text": "visible."
+        }
+      ]
+    },
+    {
+      "n": "ὁράω | 3708",
+      "orth": "ὁράω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I see, look upon, experience"
+        },
+        {
+          "role": "full",
+          "text": "I see, look upon, experience, perceive, discern, beware."
+        }
+      ]
+    },
+    {
+      "n": "ὀργή | 3709",
+      "orth": "ὀργή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "anger, wrath, passion"
+        },
+        {
+          "role": "full",
+          "text": "anger, wrath, passion; punishment, vengeance."
+        }
+      ]
+    },
+    {
+      "n": "ὀργίζω | 3710",
+      "orth": "ὀργίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I irritate, provoke, am angry"
+        },
+        {
+          "role": "full",
+          "text": "I irritate, provoke, am angry."
+        }
+      ]
+    },
+    {
+      "n": "ὀργίλος | 3711",
+      "orth": "ὀργίλος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "prone to anger"
+        },
+        {
+          "role": "full",
+          "text": "prone to anger, passionate."
+        }
+      ]
+    },
+    {
+      "n": "ὀργυιά | 3712",
+      "orth": "ὀργυιά, ᾶς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a fathom, about five or six feet"
+        },
+        {
+          "role": "full",
+          "text": "a fathom, about five or six feet."
+        }
+      ]
+    },
+    {
+      "n": "ὀρέγω | 3713",
+      "orth": "ὀρέγω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I stretch forth, long for"
+        },
+        {
+          "role": "full",
+          "text": "I stretch forth, mid: I hanker after, long for, am eager for, aspire\n                  to."
+        }
+      ]
+    },
+    {
+      "n": "ὀρεινός | 3714",
+      "orth": "ὀρεινός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "mountainous, hilly"
+        },
+        {
+          "role": "full",
+          "text": "mountainous, hilly, the hill-country."
+        }
+      ]
+    },
+    {
+      "n": "ὄρεξις | 3715",
+      "orth": "ὄρεξις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "strong desire, lust"
+        },
+        {
+          "role": "full",
+          "text": "strong desire, lust, appetite."
+        }
+      ]
+    },
+    {
+      "n": "ὀρθοποδέω | 3716",
+      "orth": "ὀρθοποδέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I walk in a straight course, walk uprightly"
+        },
+        {
+          "role": "full",
+          "text": "I walk in a straight course, walk uprightly."
+        }
+      ]
+    },
+    {
+      "n": "ὀρθός | 3717",
+      "orth": "ὀρθός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "upright, straight"
+        },
+        {
+          "role": "full",
+          "text": "upright, straight, direct."
+        }
+      ]
+    },
+    {
+      "n": "ὀρθοτομέω | 3718",
+      "orth": "ὀρθοτομέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I cut straight, handle correctly"
+        },
+        {
+          "role": "full",
+          "text": "I cut straight; met: I handle correctly, teach rightly."
+        }
+      ]
+    },
+    {
+      "n": "ὀρθρίζω | 3719",
+      "orth": "ὀρθρίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I rise early, come in the morning"
+        },
+        {
+          "role": "full",
+          "text": "I rise early, come in the morning."
+        }
+      ]
+    },
+    {
+      "n": "ὄρθριος | 3721",
+      "orth": "ὄρθριος, ία, ιον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "early in the morning"
+        },
+        {
+          "role": "full",
+          "text": "early in the morning."
+        }
+      ]
+    },
+    {
+      "n": "ὄρθρος | 3722",
+      "orth": "ὄρθρος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "early dawn, day-break"
+        },
+        {
+          "role": "full",
+          "text": "early dawn, day-break."
+        }
+      ]
+    },
+    {
+      "n": "ὀρθῶς | 3723",
+      "orth": "ὀρθῶς",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "rightly"
+        },
+        {
+          "role": "full",
+          "text": "rightly."
+        }
+      ]
+    },
+    {
+      "n": "ὁρίζω | 3724",
+      "orth": "ὁρίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I define, determine, appoint, decree"
+        },
+        {
+          "role": "full",
+          "text": "I separate, mark off by boundaries; I determine, appoint,\n                  designate."
+        }
+      ]
+    },
+    {
+      "n": "ὅριον | 3725",
+      "orth": "ὅριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "districts, territory"
+        },
+        {
+          "role": "full",
+          "text": "the boundaries of a place, hence: districts, territory."
+        }
+      ]
+    },
+    {
+      "n": "ὁρκίζω | 3726",
+      "orth": "ὁρκίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I adjure by, charge solemnly by"
+        },
+        {
+          "role": "full",
+          "text": "I adjure by, charge solemnly by."
+        }
+      ]
+    },
+    {
+      "n": "ὅρκος | 3727",
+      "orth": "ὅρκος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an oath"
+        },
+        {
+          "role": "full",
+          "text": "an oath."
+        }
+      ]
+    },
+    {
+      "n": "ὁρκωμοσία | 3728",
+      "orth": "ὁρκωμοσία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the taking of an oath, an oath"
+        },
+        {
+          "role": "full",
+          "text": "the taking of an oath, an oath."
+        }
+      ]
+    },
+    {
+      "n": "ὁρμάω | 3729",
+      "orth": "ὁρμάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I rush"
+        },
+        {
+          "role": "full",
+          "text": "I rush, hasten on."
+        }
+      ]
+    },
+    {
+      "n": "ὁρμή | 3730",
+      "orth": "ὁρμή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a rush, violent assault"
+        },
+        {
+          "role": "full",
+          "text": "a rush, violent assault, impulse."
+        }
+      ]
+    },
+    {
+      "n": "ὅρμημα | 3731",
+      "orth": "ὅρμημα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a rushing on, impulse"
+        },
+        {
+          "role": "full",
+          "text": "a rushing on, impulse, violence."
+        }
+      ]
+    },
+    {
+      "n": "ὄρνεον | 3732",
+      "orth": "ὄρνεον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a bird"
+        },
+        {
+          "role": "full",
+          "text": "a bird, fowl."
+        }
+      ]
+    },
+    {
+      "n": "ὄρνις | 3733",
+      "orth": "ὄρνις, ιθος, ὁ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a bird, fowl, hen"
+        },
+        {
+          "role": "full",
+          "text": "a bird, fowl, hen."
+        }
+      ]
+    },
+    {
+      "n": "ὁροθεσία | 3734",
+      "orth": "ὁροθεσία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a setting of boundaries, definite limit"
+        },
+        {
+          "role": "full",
+          "text": "a setting of boundaries, definite limit; plur: bounds."
+        }
+      ]
+    },
+    {
+      "n": "ὄρος | 3735",
+      "orth": "ὄρος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a mountain"
+        },
+        {
+          "role": "full",
+          "text": "a mountain, hill."
+        }
+      ]
+    },
+    {
+      "n": "ὀρύσσω | 3736",
+      "orth": "ὀρύσσω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I dig, dig out"
+        },
+        {
+          "role": "full",
+          "text": "I dig, dig out, excavate."
+        }
+      ]
+    },
+    {
+      "n": "ὀρφανός | 3737",
+      "orth": "ὀρφανός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "bereaved, an orphan"
+        },
+        {
+          "role": "full",
+          "text": "bereaved, an orphan, fatherless, desolate."
+        }
+      ]
+    },
+    {
+      "n": "ὀρχέομαι | 3738",
+      "orth": "ὀρχέομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I dance"
+        },
+        {
+          "role": "full",
+          "text": "I dance."
+        }
+      ]
+    },
+    {
+      "n": "ὅς | 3739",
+      "orth": "ὅς, ἥ, ὅ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "who, which, what, that"
+        },
+        {
+          "role": "full",
+          "text": "who, which, what, that."
+        }
+      ]
+    },
+    {
+      "n": "ὁσάκις | 3740",
+      "orth": "ὁσάκις",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "as often as"
+        },
+        {
+          "role": "full",
+          "text": "as often as, as many times as."
+        }
+      ]
+    },
+    {
+      "n": "ὅσιος | 3741",
+      "orth": "ὅσιος, ία, ιον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "holy, pious"
+        },
+        {
+          "role": "full",
+          "text": "holy, pious, godly, beloved of God."
+        }
+      ]
+    },
+    {
+      "n": "ὁσιότης | 3742",
+      "orth": "ὁσιότης, τητος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "holiness, godliness, piety"
+        },
+        {
+          "role": "full",
+          "text": "holiness, godliness, piety."
+        }
+      ]
+    },
+    {
+      "n": "ὁσίως | 3743",
+      "orth": "ὁσίως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "piously"
+        },
+        {
+          "role": "full",
+          "text": "religiously, piously."
+        }
+      ]
+    },
+    {
+      "n": "ὀσμή | 3744",
+      "orth": "ὀσμή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an odor"
+        },
+        {
+          "role": "full",
+          "text": "a smell, odor, savor."
+        }
+      ]
+    },
+    {
+      "n": "ὅσος | 3745",
+      "orth": "ὅσος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "how much, how great, how many"
+        },
+        {
+          "role": "full",
+          "text": "how much, how great, how many, as great as, as much."
+        }
+      ]
+    },
+    {
+      "n": "ὅσπερ | 3746",
+      "orth": "ὅσπερ, ἥπερ, ὅπερ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the very one who"
+        },
+        {
+          "role": "full",
+          "text": "the very one who."
+        }
+      ]
+    },
+    {
+      "n": "ὀστέον | 3747",
+      "orth": "ὀστέον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a bone"
+        },
+        {
+          "role": "full",
+          "text": "a bone."
+        }
+      ]
+    },
+    {
+      "n": "ὅστις | 3748",
+      "orth": "ὅστις, ἥτις, ὅτι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "whosoever, whichsoever, whatsoever"
+        },
+        {
+          "role": "full",
+          "text": "whosoever, whichsoever, whatsoever."
+        }
+      ]
+    },
+    {
+      "n": "ὀστράκινος | 3749",
+      "orth": "ὀστράκινος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "made of earth"
+        },
+        {
+          "role": "full",
+          "text": "made of clay, earthen."
+        }
+      ]
+    },
+    {
+      "n": "ὄσφρησις | 3750",
+      "orth": "ὄσφρησις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the sense of smell"
+        },
+        {
+          "role": "full",
+          "text": "the sense of smell, smelling."
+        }
+      ]
+    },
+    {
+      "n": "ὀσφύς | 3751",
+      "orth": "ὀσφύς, ύος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the loins"
+        },
+        {
+          "role": "full",
+          "text": "the loins."
+        }
+      ]
+    },
+    {
+      "n": "ὅταν | 3752",
+      "orth": "ὅταν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "when, whensoever"
+        },
+        {
+          "role": "full",
+          "text": "when, whenever."
+        }
+      ]
+    },
+    {
+      "n": "ὅτε | 3753",
+      "orth": "ὅτε",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "when"
+        },
+        {
+          "role": "full",
+          "text": "when, at which time."
+        }
+      ]
+    },
+    {
+      "n": "ὅτι | 3754",
+      "orth": "ὅτι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "that, since, because"
+        },
+        {
+          "role": "full",
+          "text": "that, since, because; may introduce direct discourse."
+        }
+      ]
+    },
+    {
+      "n": "ὅτου | 3755",
+      "orth": "ὅτου",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "until"
+        },
+        {
+          "role": "full",
+          "text": "until."
+        }
+      ]
+    },
+    {
+      "n": "οὐ | 3756",
+      "orth": "οὐ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "no, not"
+        },
+        {
+          "role": "full",
+          "text": "no, not."
+        }
+      ]
+    },
+    {
+      "n": "οὗ | 3757",
+      "orth": "οὗ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "where, whither, when"
+        },
+        {
+          "role": "full",
+          "text": "where, whither, when, in what place."
+        }
+      ]
+    },
+    {
+      "n": "οὐά | 3758",
+      "orth": "οὐά",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "ah!, aha!"
+        },
+        {
+          "role": "full",
+          "text": "ah!, aha!, derisive."
+        }
+      ]
+    },
+    {
+      "n": "οὐαί | 3759",
+      "orth": "οὐαί",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "woe!, alas!"
+        },
+        {
+          "role": "full",
+          "text": "woe!, alas!, uttered in grief or denunciation."
+        }
+      ]
+    },
+    {
+      "n": "οὐδαμῶς | 3760",
+      "orth": "οὐδαμῶς",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "by no means"
+        },
+        {
+          "role": "full",
+          "text": "by no means, not at all."
+        }
+      ]
+    },
+    {
+      "n": "οὐδέ | 3761",
+      "orth": "οὐδέ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "neither, nor, not even"
+        },
+        {
+          "role": "full",
+          "text": "neither, nor, not even, and not."
+        }
+      ]
+    },
+    {
+      "n": "οὐδείς | 3762",
+      "orth": "οὐδείς, οὐδεμία, οὐδέν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "no one, none, nothing"
+        },
+        {
+          "role": "full",
+          "text": "no one, none, nothing."
+        }
+      ]
+    },
+    {
+      "n": "οὐδέποτε | 3763",
+      "orth": "οὐδέποτε",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "never"
+        },
+        {
+          "role": "full",
+          "text": "never."
+        }
+      ]
+    },
+    {
+      "n": "οὐδέπω | 3764",
+      "orth": "οὐδέπω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "not yet, never before"
+        },
+        {
+          "role": "full",
+          "text": "not yet, never before."
+        }
+      ]
+    },
+    {
+      "n": "οὐκέτι | 3765",
+      "orth": "οὐκέτι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "no longer, no more"
+        },
+        {
+          "role": "full",
+          "text": "no longer, no more."
+        }
+      ]
+    },
+    {
+      "n": "οὐκοῦν | 3766",
+      "orth": "οὐκοῦν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "not therefore"
+        },
+        {
+          "role": "full",
+          "text": "therefore, so then."
+        }
+      ]
+    },
+    {
+      "n": "οὖν | 3767",
+      "orth": "οὖν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "therefore, then"
+        },
+        {
+          "role": "full",
+          "text": "therefore, then."
+        }
+      ]
+    },
+    {
+      "n": "οὔπω | 3768",
+      "orth": "οὔπω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "not yet"
+        },
+        {
+          "role": "full",
+          "text": "not yet."
+        }
+      ]
+    },
+    {
+      "n": "οὐρά | 3769",
+      "orth": "οὐρά, ᾶς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a tail"
+        },
+        {
+          "role": "full",
+          "text": "a tail."
+        }
+      ]
+    },
+    {
+      "n": "οὐράνιος | 3770",
+      "orth": "οὐράνιος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "heavenly"
+        },
+        {
+          "role": "full",
+          "text": "in heaven, belonging to heaven, heavenly, from heaven."
+        }
+      ]
+    },
+    {
+      "n": "οὐρανόθεν | 3771",
+      "orth": "οὐρανόθεν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "from heaven"
+        },
+        {
+          "role": "full",
+          "text": "from heaven, from the sky."
+        }
+      ]
+    },
+    {
+      "n": "οὐρανός | 3772",
+      "orth": "οὐρανός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the sky, the heaven"
+        },
+        {
+          "role": "full",
+          "text": "heaven, (a) the visible heavens: the atmosphere, the sky, the starry\n                  heavens, (b) the spiritual heavens."
+        }
+      ]
+    },
+    {
+      "n": "Οὐρβανός | 3773",
+      "orth": "Οὐρβανός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Urbanus"
+        },
+        {
+          "role": "full",
+          "text": "Urbanus, a Christian in Rome, fellow-worker of Paul."
+        }
+      ]
+    },
+    {
+      "n": "Οὐρίας | 3774",
+      "orth": "Οὐρίας, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Uriah"
+        },
+        {
+          "role": "full",
+          "text": "Uriah, husband of Bathsheba the mother of Solomon."
+        }
+      ]
+    },
+    {
+      "n": "οὖς | 3775",
+      "orth": "οὖς, ὠτός, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the ear"
+        },
+        {
+          "role": "full",
+          "text": "(a) the ear, (b) met: the faculty of perception."
+        }
+      ]
+    },
+    {
+      "n": "οὐσία | 3776",
+      "orth": "οὐσία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "property, wealth"
+        },
+        {
+          "role": "full",
+          "text": "property, wealth, substance."
+        }
+      ]
+    },
+    {
+      "n": "οὔτε | 3777",
+      "orth": "οὔτε",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "and not, neither, nor"
+        },
+        {
+          "role": "full",
+          "text": "and not, neither, nor."
+        }
+      ]
+    },
+    {
+      "n": "οὗτος | 3778",
+      "orth": "οὗτος, αὕτη, τοῦτο",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "this, he, she, it"
+        },
+        {
+          "role": "full",
+          "text": "this; he, she, it."
+        }
+      ]
+    },
+    {
+      "n": "οὕτως | 3779",
+      "orth": "οὕτως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "thus, so, in this manner"
+        },
+        {
+          "role": "full",
+          "text": "thus, so, in this manner."
+        }
+      ]
+    },
+    {
+      "n": "οὐχί | 3780",
+      "orth": "οὐχί",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "by no means, not at all"
+        },
+        {
+          "role": "full",
+          "text": "by no means, not at all."
+        }
+      ]
+    },
+    {
+      "n": "ὀφειλέτης | 3781",
+      "orth": "ὀφειλέτης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a debtor, sinner"
+        },
+        {
+          "role": "full",
+          "text": "(a) a debtor, one who owes, one who is indebted, (b) one who has sinned\n                  against another (an Aramaism), a sinner."
+        }
+      ]
+    },
+    {
+      "n": "ὀφειλή | 3782",
+      "orth": "ὀφειλή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a debt, duty"
+        },
+        {
+          "role": "full",
+          "text": "a debt, a duty, what is due."
+        }
+      ]
+    },
+    {
+      "n": "ὀφείλημα | 3783",
+      "orth": "ὀφείλημα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a debt, offense, sin"
+        },
+        {
+          "role": "full",
+          "text": "a debt, offense, sin."
+        }
+      ]
+    },
+    {
+      "n": "ὀφείλω | 3784",
+      "orth": "ὀφείλω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I owe, ought"
+        },
+        {
+          "role": "full",
+          "text": "I owe, ought."
+        }
+      ]
+    },
+    {
+      "n": "ὄφελον | 3785",
+      "orth": "ὄφελον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "O that! I wish! Would that!"
+        },
+        {
+          "role": "full",
+          "text": "O that! I wish! Would that!, followed by indicative."
+        }
+      ]
+    },
+    {
+      "n": "ὄφελος | 3786",
+      "orth": "ὄφελος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "advantage, gain, profit"
+        },
+        {
+          "role": "full",
+          "text": "advantage, gain, profit, help."
+        }
+      ]
+    },
+    {
+      "n": "ὀφθαλμοδουλεία | 3787",
+      "orth": "ὀφθαλμοδουλεία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "service rendered only while the master watches"
+        },
+        {
+          "role": "full",
+          "text": "eye-service; service rendered only while the master watches."
+        }
+      ]
+    },
+    {
+      "n": "ὀφθαλμός | 3788",
+      "orth": "ὀφθαλμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the eye"
+        },
+        {
+          "role": "full",
+          "text": "the eye; fig: the mind's eye."
+        }
+      ]
+    },
+    {
+      "n": "ὄφις | 3789",
+      "orth": "ὄφις, εως, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a serpent"
+        },
+        {
+          "role": "full",
+          "text": "a serpent, snake; used of the devil or Satan."
+        }
+      ]
+    },
+    {
+      "n": "ὀφρῦς | 3790",
+      "orth": "ὀφρῦς, ύος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the brow, a ridge"
+        },
+        {
+          "role": "full",
+          "text": "the brow, a ridge (of a mountain)."
+        }
+      ]
+    },
+    {
+      "n": "ὀχλέω | 3791",
+      "orth": "ὀχλέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I trouble, torment, worry"
+        },
+        {
+          "role": "full",
+          "text": "I trouble, torment, worry, vex."
+        }
+      ]
+    },
+    {
+      "n": "ὀχλοποιέω | 3792",
+      "orth": "ὀχλοποιέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I gather a crowd"
+        },
+        {
+          "role": "full",
+          "text": "I gather a crowd, make a riot."
+        }
+      ]
+    },
+    {
+      "n": "ὄχλος | 3793",
+      "orth": "ὄχλος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a crowd"
+        },
+        {
+          "role": "full",
+          "text": "a crowd, mob, the common people."
+        }
+      ]
+    },
+    {
+      "n": "ὀχύρωμα | 3794",
+      "orth": "ὀχύρωμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a fortress, strong defense"
+        },
+        {
+          "role": "full",
+          "text": "a fortress, strong defense, stronghold."
+        }
+      ]
+    },
+    {
+      "n": "ὀψάριον | 3795",
+      "orth": "ὀψάριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a little fish"
+        },
+        {
+          "role": "full",
+          "text": "a little fish."
+        }
+      ]
+    },
+    {
+      "n": "ὀψέ | 3796",
+      "orth": "ὀψέ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "late, in the evening"
+        },
+        {
+          "role": "full",
+          "text": "late, in the evening."
+        }
+      ]
+    },
+    {
+      "n": "ὄψιμος | 3797",
+      "orth": "ὄψιμος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "late in the year"
+        },
+        {
+          "role": "full",
+          "text": "late, latter."
+        }
+      ]
+    },
+    {
+      "n": "ὄψιος | 3798",
+      "orth": "ὄψιος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "late"
+        },
+        {
+          "role": "full",
+          "text": "late, evening."
+        }
+      ]
+    },
+    {
+      "n": "ὄψις | 3799",
+      "orth": "ὄψις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the features, outward appearance"
+        },
+        {
+          "role": "full",
+          "text": "(a) the face, countenance, (b) the features, outward appearance."
+        }
+      ]
+    },
+    {
+      "n": "ὀψώνιον | 3800",
+      "orth": "ὀψώνιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "pay, wages"
+        },
+        {
+          "role": "full",
+          "text": "pay, wages, salary, reward."
+        }
+      ]
+    }
+  ]
+}

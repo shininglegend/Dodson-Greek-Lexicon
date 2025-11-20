@@ -1,0 +1,1644 @@
+{
+  "letter": "λ",
+  "count": 117,
+  "entries": [
+    {
+      "n": "λαγχάνω | 2975",
+      "orth": "λαγχάνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I obtain by lot, cast lots"
+        },
+        {
+          "role": "full",
+          "text": "(a) I obtain (receive) by lot, my lot (turn) is, (b) I draw lots."
+        }
+      ]
+    },
+    {
+      "n": "Λάζαρος | 2976",
+      "orth": "Λάζαρος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lazarus, Eliezer"
+        },
+        {
+          "role": "full",
+          "text": "Lazarus, Eliezer, (a) the beggar, (b) the brother of Martha and Mary,\n                  of Bethany."
+        }
+      ]
+    },
+    {
+      "n": "λάθρᾳ | 2977",
+      "orth": "λάθρᾳ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "secretly"
+        },
+        {
+          "role": "full",
+          "text": "secretly, privately."
+        }
+      ]
+    },
+    {
+      "n": "λαῖλαψ | 2978",
+      "orth": "λαῖλαψ, απος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a sudden storm, squall"
+        },
+        {
+          "role": "full",
+          "text": "a sudden storm, squall, whirlwind, hurricane."
+        }
+      ]
+    },
+    {
+      "n": "λακτίζω | 2979",
+      "orth": "λακτίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I kick"
+        },
+        {
+          "role": "full",
+          "text": "I kick."
+        }
+      ]
+    },
+    {
+      "n": "λαλέω | 2980",
+      "orth": "λαλέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I speak, say"
+        },
+        {
+          "role": "full",
+          "text": "(I talk, chatter in classical Greek, but in NT a more dignified word) I\n                  speak, say."
+        }
+      ]
+    },
+    {
+      "n": "λαλιά | 2981",
+      "orth": "λαλιά, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "speech, talk, dialect"
+        },
+        {
+          "role": "full",
+          "text": "(in classical Greek: babble, chattering) speech, talk; manner of\n                  speech, dialect."
+        }
+      ]
+    },
+    {
+      "n": "λιμά | 2982",
+      "orth": "λιμά",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "why"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), why."
+        }
+      ]
+    },
+    {
+      "n": "λαμβάνω | 2983",
+      "orth": "λαμβάνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I receive, take"
+        },
+        {
+          "role": "full",
+          "text": "(a) I receive, get, (b) I take, lay hold of."
+        }
+      ]
+    },
+    {
+      "n": "Λάμεχ | 2984",
+      "orth": "Λάμεχ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lamech"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), Lamech, son of Methuselah and father of Noah."
+        }
+      ]
+    },
+    {
+      "n": "λαμπάς | 2985",
+      "orth": "λαμπάς, άδος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a torch, lamp, lantern"
+        },
+        {
+          "role": "full",
+          "text": "a torch, lamp, lantern."
+        }
+      ]
+    },
+    {
+      "n": "λαμπρός | 2986",
+      "orth": "λαμπρός, ά, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "shining, magnificent, bright"
+        },
+        {
+          "role": "full",
+          "text": "shining, magnificent, bright, splendid."
+        }
+      ]
+    },
+    {
+      "n": "λαμπρότης | 2987",
+      "orth": "λαμπρότης, τητος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "splendor, brightness"
+        },
+        {
+          "role": "full",
+          "text": "splendor, brightness, brilliancy."
+        }
+      ]
+    },
+    {
+      "n": "λαμπρῶς | 2988",
+      "orth": "λαμπρῶς",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "magnificently, sumptuously"
+        },
+        {
+          "role": "full",
+          "text": "magnificently, sumptuously, splendidly."
+        }
+      ]
+    },
+    {
+      "n": "λάμπω | 2989",
+      "orth": "λάμπω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I shine"
+        },
+        {
+          "role": "full",
+          "text": "I shine, give light."
+        }
+      ]
+    },
+    {
+      "n": "λανθάνω | 2990",
+      "orth": "λανθάνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am hidden, escape notice"
+        },
+        {
+          "role": "full",
+          "text": "I am hidden (concealed), lie hid, escape notice, sometimes with acc. of\n                  person from whom concealment takes place; I do so and so unconsciously, unknown to\n                  myself, I shut my eyes to so and so."
+        }
+      ]
+    },
+    {
+      "n": "λαξευτός | 2991",
+      "orth": "λαξευτός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "hewn out of the rock"
+        },
+        {
+          "role": "full",
+          "text": "hewn out of the rock."
+        }
+      ]
+    },
+    {
+      "n": "λαός | 2992",
+      "orth": "λαός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a people, the crowd"
+        },
+        {
+          "role": "full",
+          "text": "(a) a people, characteristically of God's chosen people, first the\n                  Jews, then the Christians, (b) sometimes, but rarely, the people, the crowd."
+        }
+      ]
+    },
+    {
+      "n": "Λαοδικεία | 2993",
+      "orth": "Λαοδικεία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Laodicea"
+        },
+        {
+          "role": "full",
+          "text": "Laodicea, a city in the Lycos valley in the Roman province Asia, near\n                  Colossae and Hierapolis."
+        }
+      ]
+    },
+    {
+      "n": "Λαοδικεύς | 2994",
+      "orth": "Λαοδικεύς, έως, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a Laodicean"
+        },
+        {
+          "role": "full",
+          "text": "a Laodicean, an inhabitant of Laodicea."
+        }
+      ]
+    },
+    {
+      "n": "λάρυγξ | 2995",
+      "orth": "λάρυγξ, υγγος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the throat"
+        },
+        {
+          "role": "full",
+          "text": "the throat, gullet."
+        }
+      ]
+    },
+    {
+      "n": "Λασαία | 2996",
+      "orth": "Λασαία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lasea"
+        },
+        {
+          "role": "full",
+          "text": "Lasea, a city in Crete, about the middle of the south coast."
+        }
+      ]
+    },
+    {
+      "n": "λάσκω | 2997",
+      "orth": "λάσκω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I burst asunder with a loud noise"
+        },
+        {
+          "role": "full",
+          "text": "I burst asunder with a loud noise."
+        }
+      ]
+    },
+    {
+      "n": "λατομέω | 2998",
+      "orth": "λατομέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I hew stones"
+        },
+        {
+          "role": "full",
+          "text": "I hew stones, cut stones."
+        }
+      ]
+    },
+    {
+      "n": "λατρεία | 2999",
+      "orth": "λατρεία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "service, worship"
+        },
+        {
+          "role": "full",
+          "text": "service rendered to God, perhaps simply: worship."
+        }
+      ]
+    },
+    {
+      "n": "λατρεύω | 3000",
+      "orth": "λατρεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I serve, worship"
+        },
+        {
+          "role": "full",
+          "text": "I serve, especially God, perhaps simply: I worship."
+        }
+      ]
+    },
+    {
+      "n": "λάχανον | 3001",
+      "orth": "λάχανον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an herb, garden plant"
+        },
+        {
+          "role": "full",
+          "text": "an herb, garden plant, vegetable."
+        }
+      ]
+    },
+    {
+      "n": "Λεββαῖος | 3002",
+      "orth": "Λεββαῖος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lebbaeus"
+        },
+        {
+          "role": "full",
+          "text": "Lebbaeus, a pet-name for Thaddaeus, one of the twelve apostles of\n                  Jesus; the full form of the name is not known."
+        }
+      ]
+    },
+    {
+      "n": "λεγεών | 3003",
+      "orth": "λεγεών, ῶνος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a legion, very large number"
+        },
+        {
+          "role": "full",
+          "text": "properly: a division of the Roman army, numbering about 6,000 infantry\n                  with additional cavalry; hence: a very large number; a legion."
+        }
+      ]
+    },
+    {
+      "n": "λέγω | 3004",
+      "orth": "λέγω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I say, speak"
+        },
+        {
+          "role": "full",
+          "text": "(denoting speech in progress), (a) I say, speak; I mean, mention, tell,\n                  (b) I call, name, especially in the pass., (c) I tell, command."
+        }
+      ]
+    },
+    {
+      "n": "λεῖμμα | 3005",
+      "orth": "λεῖμμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a remnant, remainder"
+        },
+        {
+          "role": "full",
+          "text": "a remnant, remainder."
+        }
+      ]
+    },
+    {
+      "n": "λεῖος | 3006",
+      "orth": "λεῖος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "smooth, level"
+        },
+        {
+          "role": "full",
+          "text": "smooth, level, plain."
+        }
+      ]
+    },
+    {
+      "n": "λείπω | 3007",
+      "orth": "λείπω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am wanting, am left behind"
+        },
+        {
+          "role": "full",
+          "text": "(earlier: I leave behind, abandon), (a) I am wanting, (b) mid: e.g.\n                  with gen: I come behind (in a race), am left behind in, fall short of (some\n                  standard), am wanting in."
+        }
+      ]
+    },
+    {
+      "n": "λειτουργέω | 3008",
+      "orth": "λειτουργέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I minister, serve publicly"
+        },
+        {
+          "role": "full",
+          "text": "I act in the public service, render service, minister, in the widest\n                  sense, of some special public religious service, but also of the service of\n                  priests and Levites."
+        }
+      ]
+    },
+    {
+      "n": "λειτουργία | 3009",
+      "orth": "λειτουργία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a charitable gift, public service"
+        },
+        {
+          "role": "full",
+          "text": "a charitable gift, public service in the widest sense; service as of\n                  priest or Levite ritual."
+        }
+      ]
+    },
+    {
+      "n": "λειτουργικός | 3010",
+      "orth": "λειτουργικός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "ministering"
+        },
+        {
+          "role": "full",
+          "text": "given to serving (ministration), ministering."
+        }
+      ]
+    },
+    {
+      "n": "λειτουργός | 3011",
+      "orth": "λειτουργός, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a minister, servant"
+        },
+        {
+          "role": "full",
+          "text": "a minister, servant, of an official character; of priests and\n                  Levites."
+        }
+      ]
+    },
+    {
+      "n": "λέντιον | 3012",
+      "orth": "λέντιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a towel, apron"
+        },
+        {
+          "role": "full",
+          "text": "a towel, apron, coarse cloth."
+        }
+      ]
+    },
+    {
+      "n": "λεπίς | 3013",
+      "orth": "λεπίς, ίδος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a scale, scaly substance"
+        },
+        {
+          "role": "full",
+          "text": "a scale, a scaly substance thrown off from the body."
+        }
+      ]
+    },
+    {
+      "n": "λέπρα | 3014",
+      "orth": "λέπρα, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "leprosy"
+        },
+        {
+          "role": "full",
+          "text": "leprosy."
+        }
+      ]
+    },
+    {
+      "n": "λεπρός | 3015",
+      "orth": "λεπρός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a leper"
+        },
+        {
+          "role": "full",
+          "text": "a leprous person, a leper."
+        }
+      ]
+    },
+    {
+      "n": "λεπτόν | 3016",
+      "orth": "λεπτόν, οῦ, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a small piece of money"
+        },
+        {
+          "role": "full",
+          "text": "a small piece of money, probably the smallest piece of money."
+        }
+      ]
+    },
+    {
+      "n": "Λευΐ | 3017",
+      "orth": "Λευΐ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Levi"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), Levi, (a) an ancestor of Jesus, (b) another ancestor of\n                  Jesus, (c) third son of Jacob, the patriarch, and founder of a tribe named after\n                  him, (d) son of Alphaeus, and called Matthew, a revenue officer and one of the\n                  twelve apostles of Jesus."
+        }
+      ]
+    },
+    {
+      "n": "Λευΐς | 3018",
+      "orth": "Λευΐς, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Levi"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), Levi, son of Alphaeus, the publican."
+        }
+      ]
+    },
+    {
+      "n": "Λευΐτης | 3019",
+      "orth": "Λευΐτης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a Levite"
+        },
+        {
+          "role": "full",
+          "text": "a Levite, properly a man of the tribe of Levi; hence: a priest's\n                  assistant, an under priest, as the members of that tribe were charged with this\n                  duty."
+        }
+      ]
+    },
+    {
+      "n": "Λευϊτικός | 3020",
+      "orth": "Λευϊτικός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Levitical"
+        },
+        {
+          "role": "full",
+          "text": "belonging to the tribe of Levi; Levitical."
+        }
+      ]
+    },
+    {
+      "n": "λευκαίνω | 3021",
+      "orth": "λευκαίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I whiten"
+        },
+        {
+          "role": "full",
+          "text": "I whiten, make white."
+        }
+      ]
+    },
+    {
+      "n": "λευκός | 3022",
+      "orth": "λευκός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "white, bright"
+        },
+        {
+          "role": "full",
+          "text": "white, bright, brilliant."
+        }
+      ]
+    },
+    {
+      "n": "λέων | 3023",
+      "orth": "λέων, οντος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a lion"
+        },
+        {
+          "role": "full",
+          "text": "a lion."
+        }
+      ]
+    },
+    {
+      "n": "λήθη | 3024",
+      "orth": "λήθη, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "forgetfulness"
+        },
+        {
+          "role": "full",
+          "text": "forgetfulness, oblivion."
+        }
+      ]
+    },
+    {
+      "n": "ληνός | 3025",
+      "orth": "ληνός, οῦ, ὁ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a winepress"
+        },
+        {
+          "role": "full",
+          "text": "a trough, vat, winepress."
+        }
+      ]
+    },
+    {
+      "n": "λῆρος | 3026",
+      "orth": "λῆρος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "folly, nonsense, idle talk"
+        },
+        {
+          "role": "full",
+          "text": "folly, nonsense, idle talk."
+        }
+      ]
+    },
+    {
+      "n": "λῃστής | 3027",
+      "orth": "λῃστής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a robber, brigand, bandit"
+        },
+        {
+          "role": "full",
+          "text": "a robber, brigand, bandit."
+        }
+      ]
+    },
+    {
+      "n": "λῆψις | 3028",
+      "orth": "λῆψις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a receiving"
+        },
+        {
+          "role": "full",
+          "text": "a receiving."
+        }
+      ]
+    },
+    {
+      "n": "λίαν | 3029",
+      "orth": "λίαν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "very, very much, exceedingly"
+        },
+        {
+          "role": "full",
+          "text": "very; very much, exceedingly, greatly."
+        }
+      ]
+    },
+    {
+      "n": "λίβανος | 3030",
+      "orth": "λίβανος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "incense"
+        },
+        {
+          "role": "full",
+          "text": "(Semitic word), frankincense, incense."
+        }
+      ]
+    },
+    {
+      "n": "λιβανωτός | 3031",
+      "orth": "λιβανωτός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a censer"
+        },
+        {
+          "role": "full",
+          "text": "a censer."
+        }
+      ]
+    },
+    {
+      "n": "Λιβερτῖνος | 3032",
+      "orth": "Λιβερτῖνος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a freedman"
+        },
+        {
+          "role": "full",
+          "text": "a freedman, one of the class of manumitted slaves; a synagogue at\n                  Jerusalem appears to have been reserved for them."
+        }
+      ]
+    },
+    {
+      "n": "Λιβύη | 3033",
+      "orth": "Λιβύη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Libya, Africa"
+        },
+        {
+          "role": "full",
+          "text": "Libya, Africa (in the modern sense)."
+        }
+      ]
+    },
+    {
+      "n": "λιθάζω | 3034",
+      "orth": "λιθάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I stone"
+        },
+        {
+          "role": "full",
+          "text": "I stone, pelt with stones."
+        }
+      ]
+    },
+    {
+      "n": "λίθινος | 3035",
+      "orth": "λίθινος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "made of stone"
+        },
+        {
+          "role": "full",
+          "text": "made of stone."
+        }
+      ]
+    },
+    {
+      "n": "λιθοβολέω | 3036",
+      "orth": "λιθοβολέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I stone, cast stones at"
+        },
+        {
+          "role": "full",
+          "text": "I stone, cast stones (at), kill by stoning."
+        }
+      ]
+    },
+    {
+      "n": "λίθος | 3037",
+      "orth": "λίθος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a stone"
+        },
+        {
+          "role": "full",
+          "text": "a stone; met: of Jesus as the chief stone in a building."
+        }
+      ]
+    },
+    {
+      "n": "λιθόστρωτον | 3038",
+      "orth": "λιθόστρωτον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a mosaic pavement"
+        },
+        {
+          "role": "full",
+          "text": "(adj: paved with stone), a mosaic pavement."
+        }
+      ]
+    },
+    {
+      "n": "λικμάω | 3039",
+      "orth": "λικμάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I crush to powder"
+        },
+        {
+          "role": "full",
+          "text": "I crush to powder, scatter like chaff."
+        }
+      ]
+    },
+    {
+      "n": "λιμήν | 3040",
+      "orth": "λιμήν, ένος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a harbor, port"
+        },
+        {
+          "role": "full",
+          "text": "a harbor, port, haven."
+        }
+      ]
+    },
+    {
+      "n": "λίμνη | 3041",
+      "orth": "λίμνη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a lake"
+        },
+        {
+          "role": "full",
+          "text": "a lake."
+        }
+      ]
+    },
+    {
+      "n": "λιμός | 3042",
+      "orth": "λιμός, οῦ, ὁ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a famine, hunger"
+        },
+        {
+          "role": "full",
+          "text": "a famine, hunger."
+        }
+      ]
+    },
+    {
+      "n": "λίνον | 3043",
+      "orth": "λίνον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "flax, linen"
+        },
+        {
+          "role": "full",
+          "text": "flax, linen."
+        }
+      ]
+    },
+    {
+      "n": "Λῖνος | 3044",
+      "orth": "Λῖνος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Linus"
+        },
+        {
+          "role": "full",
+          "text": "Linus, a Christian in Rome."
+        }
+      ]
+    },
+    {
+      "n": "λιπαρός | 3045",
+      "orth": "λιπαρός, ά, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "rich, sumptuous"
+        },
+        {
+          "role": "full",
+          "text": "(lit: fat), rich, sumptuous."
+        }
+      ]
+    },
+    {
+      "n": "λίτρα | 3046",
+      "orth": "λίτρα, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a Roman pound"
+        },
+        {
+          "role": "full",
+          "text": "a Roman pound, of about twelve ounces."
+        }
+      ]
+    },
+    {
+      "n": "λίψ | 3047",
+      "orth": "λίψ, λιβός, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the south-west wind"
+        },
+        {
+          "role": "full",
+          "text": "the south-west wind, and thus the quarter from which it comes."
+        }
+      ]
+    },
+    {
+      "n": "λογία | 3048",
+      "orth": "λογία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a collection, collecting"
+        },
+        {
+          "role": "full",
+          "text": "a collection, collecting (of money), particularly of an irregular local\n                  contribution for religious purposes."
+        }
+      ]
+    },
+    {
+      "n": "λογίζομαι | 3049",
+      "orth": "λογίζομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I reckon, count, decide"
+        },
+        {
+          "role": "full",
+          "text": "I reckon, count, charge with; reason, decide, conclude; think,\n                  suppose."
+        }
+      ]
+    },
+    {
+      "n": "λογικός | 3050",
+      "orth": "λογικός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "reasonable, rational, metaphorical"
+        },
+        {
+          "role": "full",
+          "text": "(a) reasonable, rational, (b) metaphorical, as contrasted with the\n                  literal."
+        }
+      ]
+    },
+    {
+      "n": "λόγιον | 3051",
+      "orth": "λόγιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "divine communication"
+        },
+        {
+          "role": "full",
+          "text": "plur: oracles, divine responses or utterances (it can include the\n                  entire Old Testament)."
+        }
+      ]
+    },
+    {
+      "n": "λόγιος | 3052",
+      "orth": "λόγιος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "eloquent"
+        },
+        {
+          "role": "full",
+          "text": "eloquent, gifted with learning."
+        }
+      ]
+    },
+    {
+      "n": "λογισμός | 3053",
+      "orth": "λογισμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "reasoning, thinking"
+        },
+        {
+          "role": "full",
+          "text": "reasoning, thinking; a conception, device."
+        }
+      ]
+    },
+    {
+      "n": "λογομαχέω | 3054",
+      "orth": "λογομαχέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I contend about words"
+        },
+        {
+          "role": "full",
+          "text": "I contend about words."
+        }
+      ]
+    },
+    {
+      "n": "λογομαχία | 3055",
+      "orth": "λογομαχία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "contention about words"
+        },
+        {
+          "role": "full",
+          "text": "contention about words, an unprofitable controversy."
+        }
+      ]
+    },
+    {
+      "n": "λόγος | 3056",
+      "orth": "λόγος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a word, speech, divine utterance, analogy"
+        },
+        {
+          "role": "full",
+          "text": "a word, speech, divine utterance, analogy."
+        }
+      ]
+    },
+    {
+      "n": "λόγχη | 3057",
+      "orth": "λόγχη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a lance, spear"
+        },
+        {
+          "role": "full",
+          "text": "a lance, spear."
+        }
+      ]
+    },
+    {
+      "n": "λοιδορέω | 3058",
+      "orth": "λοιδορέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I revile, abuse"
+        },
+        {
+          "role": "full",
+          "text": "I revile a person to his face, abuse insultingly."
+        }
+      ]
+    },
+    {
+      "n": "λοιδορία | 3059",
+      "orth": "λοιδορία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "reviling, abuse"
+        },
+        {
+          "role": "full",
+          "text": "reviling, abuse."
+        }
+      ]
+    },
+    {
+      "n": "λοίδορος | 3060",
+      "orth": "λοίδορος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a railer, reviler, abuser"
+        },
+        {
+          "role": "full",
+          "text": "a railer, reviler, abuser."
+        }
+      ]
+    },
+    {
+      "n": "λοιμός | 3061",
+      "orth": "λοιμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a pestilence"
+        },
+        {
+          "role": "full",
+          "text": "(a) a pestilence, (b) a pestilent fellow."
+        }
+      ]
+    },
+    {
+      "n": "λοιπός | 3062",
+      "orth": "λοιπός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "left, left behind, the remainder"
+        },
+        {
+          "role": "full",
+          "text": "left, left behind, the remainder, the rest, the others."
+        }
+      ]
+    },
+    {
+      "n": "λοιπόν | 3063",
+      "orth": "λοιπόν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "finally, from now on, henceforth, beyond that"
+        },
+        {
+          "role": "full",
+          "text": "finally, from now on, henceforth, beyond that."
+        }
+      ]
+    },
+    {
+      "n": "λοιποῦ | 3064",
+      "orth": "λοιποῦ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "from now on, henceforth, finally"
+        },
+        {
+          "role": "full",
+          "text": "from now on, henceforth, finally."
+        }
+      ]
+    },
+    {
+      "n": "Λουκᾶς | 3065",
+      "orth": "Λουκᾶς, ᾶ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lucas, Luke"
+        },
+        {
+          "role": "full",
+          "text": "Lucas, Luke, Christian physician and writer of the Third Gospel and\n                  Acts."
+        }
+      ]
+    },
+    {
+      "n": "Λούκιος | 3066",
+      "orth": "Λούκιος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lucius"
+        },
+        {
+          "role": "full",
+          "text": "Lucius, (a) of Cyrene, an early Christian, in the church of Antioch, by\n                  some identified with the evangelist Luke, (b) a Christian with Paul at Corinth, by\n                  some identified with (a)."
+        }
+      ]
+    },
+    {
+      "n": "λουτρόν | 3067",
+      "orth": "λουτρόν, οῦ, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a bath, washing, baptism"
+        },
+        {
+          "role": "full",
+          "text": "a bath (of water, not the vessel), water for washing, washing."
+        }
+      ]
+    },
+    {
+      "n": "λούω | 3068",
+      "orth": "λούω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I wash, bathe"
+        },
+        {
+          "role": "full",
+          "text": "(lit. or merely ceremonially), I wash, bathe (the body); mid: of\n                  washing, bathing one's self; met: I cleanse from sin."
+        }
+      ]
+    },
+    {
+      "n": "Λύδδα | 3069",
+      "orth": "Λύδδα, Λύδδης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lydda, Diospolis, Lod"
+        },
+        {
+          "role": "full",
+          "text": "Lydda, Diospolis, Lod (modern Ludd), a city on the way to Joppa within\n                  a day's journey of Jerusalem."
+        }
+      ]
+    },
+    {
+      "n": "Λυδία | 3070",
+      "orth": "Λυδία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lydia"
+        },
+        {
+          "role": "full",
+          "text": "Lydia, a lady resident of Philippi, native of Thyatira in Lydia (Asia\n                  Minor), and engaged in the clothing trade."
+        }
+      ]
+    },
+    {
+      "n": "Λυκαονία | 3071",
+      "orth": "Λυκαονία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lycaonia"
+        },
+        {
+          "role": "full",
+          "text": "Lycaonia, the country of the Lykaones, a district of Asia Minor,\n                  comprised within the Roman province Galatia and including the cities of Derbe and\n                  Lystra."
+        }
+      ]
+    },
+    {
+      "n": "Λυκαονιστί | 3072",
+      "orth": "Λυκαονιστί",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "in the Lycaonian language"
+        },
+        {
+          "role": "full",
+          "text": "in the Lycaonian language."
+        }
+      ]
+    },
+    {
+      "n": "Λυκία | 3073",
+      "orth": "Λυκία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lycia"
+        },
+        {
+          "role": "full",
+          "text": "Lycia, a small Roman province on the south coast of Asia Minor."
+        }
+      ]
+    },
+    {
+      "n": "λύκος | 3074",
+      "orth": "λύκος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a wolf, jackal"
+        },
+        {
+          "role": "full",
+          "text": "a wolf, of perhaps a jackal; often applied to persons of wolfish\n                  proclivities."
+        }
+      ]
+    },
+    {
+      "n": "λυμαίνομαι | 3075",
+      "orth": "λυμαίνομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I ravage, harry, devastate"
+        },
+        {
+          "role": "full",
+          "text": "I outrage, maltreat, corrupt, defile."
+        }
+      ]
+    },
+    {
+      "n": "λυπέω | 3076",
+      "orth": "λυπέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I pain, grieve, vex"
+        },
+        {
+          "role": "full",
+          "text": "I pain, grieve, vex."
+        }
+      ]
+    },
+    {
+      "n": "λύπη | 3077",
+      "orth": "λύπη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "pain, grief"
+        },
+        {
+          "role": "full",
+          "text": "pain, grief, sorrow, affliction."
+        }
+      ]
+    },
+    {
+      "n": "Λυσανίας | 3078",
+      "orth": "Λυσανίας, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lysanias"
+        },
+        {
+          "role": "full",
+          "text": "Lysanias, tetrarch of Abilene."
+        }
+      ]
+    },
+    {
+      "n": "Λυσίας | 3079",
+      "orth": "Λυσίας, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Claudius Lysias"
+        },
+        {
+          "role": "full",
+          "text": "Claudius Lysias, a Roman tribune of the soldiers in Jerusalem."
+        }
+      ]
+    },
+    {
+      "n": "λύσις | 3080",
+      "orth": "λύσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "dissolution, release"
+        },
+        {
+          "role": "full",
+          "text": "dissolution, release; a loosing, divorce."
+        }
+      ]
+    },
+    {
+      "n": "λυσιτελέω | 3081",
+      "orth": "λυσιτελέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "it profits"
+        },
+        {
+          "role": "full",
+          "text": "it is advantageous to, it profits."
+        }
+      ]
+    },
+    {
+      "n": "Λύστρα | 3082",
+      "orth": "Λύστρα, ας, ἡ, ων, τά",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lystra"
+        },
+        {
+          "role": "full",
+          "text": "Lystra, a Lycaonian city in the southern part of the Roman province\n                  Galatia."
+        }
+      ]
+    },
+    {
+      "n": "λύτρον | 3083",
+      "orth": "λύτρον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a ransom, an offering of expiation"
+        },
+        {
+          "role": "full",
+          "text": "the purchasing money for manumitting slaves, a ransom, the price of\n                  ransoming; especially the sacrifice by which expiation is effected, an offering of\n                  expiation."
+        }
+      ]
+    },
+    {
+      "n": "λυτρόω | 3084",
+      "orth": "λυτρόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I ransom, liberate, deliver"
+        },
+        {
+          "role": "full",
+          "text": "I release on receipt of ransom; mid: I redeem, release by paying\n                  ransom, liberate."
+        }
+      ]
+    },
+    {
+      "n": "λύτρωσις | 3085",
+      "orth": "λύτρωσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "liberation, deliverance, release"
+        },
+        {
+          "role": "full",
+          "text": "(in the Old Testament: ransoming from imprisonment for debt, or from\n                  slavery, release from national misfortune, etc.), liberation, deliverance,\n                  release."
+        }
+      ]
+    },
+    {
+      "n": "λυτρωτής | 3086",
+      "orth": "λυτρωτής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a redeemer, liberator"
+        },
+        {
+          "role": "full",
+          "text": "a redeemer, liberator, deliverer."
+        }
+      ]
+    },
+    {
+      "n": "λυχνία | 3087",
+      "orth": "λυχνία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a lamp-stand"
+        },
+        {
+          "role": "full",
+          "text": "a lamp-stand."
+        }
+      ]
+    },
+    {
+      "n": "λύχνος | 3088",
+      "orth": "λύχνος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a lamp"
+        },
+        {
+          "role": "full",
+          "text": "a lamp."
+        }
+      ]
+    },
+    {
+      "n": "λύω | 3089",
+      "orth": "λύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I loose, untie, release, destroy"
+        },
+        {
+          "role": "full",
+          "text": "(a) I loose, untie, release, (b) met: I break, destroy, set at naught,\n                  contravene; I break up a meeting, annul."
+        }
+      ]
+    },
+    {
+      "n": "Λωΐς | 3090",
+      "orth": "Λωΐς, ΐδος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lois"
+        },
+        {
+          "role": "full",
+          "text": "Lois, grandmother of Timothy."
+        }
+      ]
+    },
+    {
+      "n": "Λώτ | 3091",
+      "orth": "Λώτ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Lot"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), Lot, nephew of Abraham."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "letter": "ψ",
+  "count": 31,
+  "entries": [
+    {
+      "n": "ψάλλω | 5567",
+      "orth": "ψάλλω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I sing psalms"
+        },
+        {
+          "role": "full",
+          "text": "I sing, sing psalms; earlier: I play on a stringed instrument."
+        }
+      ]
+    },
+    {
+      "n": "ψαλμός | 5568",
+      "orth": "ψαλμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a psalm"
+        },
+        {
+          "role": "full",
+          "text": "a psalm, song of praise, the Hebrew book of Psalms."
+        }
+      ]
+    },
+    {
+      "n": "ψευδάδελφος | 5569",
+      "orth": "ψευδάδελφος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a false brother"
+        },
+        {
+          "role": "full",
+          "text": "a false brother, pretend Christian."
+        }
+      ]
+    },
+    {
+      "n": "ψευδαπόστολος | 5570",
+      "orth": "ψευδαπόστολος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a false apostle"
+        },
+        {
+          "role": "full",
+          "text": "a false or pretended apostle."
+        }
+      ]
+    },
+    {
+      "n": "ψευδής | 5571",
+      "orth": "ψευδής, ές",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "false, deceitful, lying"
+        },
+        {
+          "role": "full",
+          "text": "false, deceitful, lying, untrue."
+        }
+      ]
+    },
+    {
+      "n": "ψευδοδιδάσκαλος | 5572",
+      "orth": "ψευδοδιδάσκαλος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a false teacher"
+        },
+        {
+          "role": "full",
+          "text": "a false teacher, teacher of false things."
+        }
+      ]
+    },
+    {
+      "n": "ψευδολόγος | 5573",
+      "orth": "ψευδολόγος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "speaking lies"
+        },
+        {
+          "role": "full",
+          "text": "false-speaking, speaking lies."
+        }
+      ]
+    },
+    {
+      "n": "ψεύδομαι | 5574",
+      "orth": "ψεύδομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I lie"
+        },
+        {
+          "role": "full",
+          "text": "I deceive, lie, speak falsely."
+        }
+      ]
+    },
+    {
+      "n": "ψευδόμαρτυς | 5575",
+      "orth": "ψευδόμαρτυς, υρος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a false witness"
+        },
+        {
+          "role": "full",
+          "text": "a false witness."
+        }
+      ]
+    },
+    {
+      "n": "ψευδομαρτυρέω | 5576",
+      "orth": "ψευδομαρτυρέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I testify falsely"
+        },
+        {
+          "role": "full",
+          "text": "I testify falsely, bear false witness."
+        }
+      ]
+    },
+    {
+      "n": "ψευδομαρτυρία | 5577",
+      "orth": "ψευδομαρτυρία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "false testimony"
+        },
+        {
+          "role": "full",
+          "text": "false testimony, false witness."
+        }
+      ]
+    },
+    {
+      "n": "ψευδοπροφήτης | 5578",
+      "orth": "ψευδοπροφήτης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a false prophet"
+        },
+        {
+          "role": "full",
+          "text": "a false prophet; one who in God's name teaches what is false."
+        }
+      ]
+    },
+    {
+      "n": "ψεῦδος | 5579",
+      "orth": "ψεῦδος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a lie"
+        },
+        {
+          "role": "full",
+          "text": "a lie, falsehood, untruth; false religion."
+        }
+      ]
+    },
+    {
+      "n": "ψευδόχριστος | 5580",
+      "orth": "ψευδόχριστος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a false Christ"
+        },
+        {
+          "role": "full",
+          "text": "a false Christ, pretended Messiah."
+        }
+      ]
+    },
+    {
+      "n": "ψευδώνυμος | 5581",
+      "orth": "ψευδώνυμος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "falsely named"
+        },
+        {
+          "role": "full",
+          "text": "falsely named, under a false name."
+        }
+      ]
+    },
+    {
+      "n": "ψεῦσμα | 5582",
+      "orth": "ψεῦσμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a falsehood, lie"
+        },
+        {
+          "role": "full",
+          "text": "a falsehood, lie, untruthfulness."
+        }
+      ]
+    },
+    {
+      "n": "ψεύστης | 5583",
+      "orth": "ψεύστης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a liar, deceiver"
+        },
+        {
+          "role": "full",
+          "text": "a liar, deceiver."
+        }
+      ]
+    },
+    {
+      "n": "ψηλαφάω | 5584",
+      "orth": "ψηλαφάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I feel, touch, handle, grope for"
+        },
+        {
+          "role": "full",
+          "text": "I feel, touch, handle; I feel after, grope for."
+        }
+      ]
+    },
+    {
+      "n": "ψηφίζω | 5585",
+      "orth": "ψηφίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I reckon, compute"
+        },
+        {
+          "role": "full",
+          "text": "I reckon, compute, calculate."
+        }
+      ]
+    },
+    {
+      "n": "ψῆφος | 5586",
+      "orth": "ψῆφος, ου, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a pebble, a vote"
+        },
+        {
+          "role": "full",
+          "text": "(a) a pebble, small stone, (b) hence, from their use in voting: a\n                  vote."
+        }
+      ]
+    },
+    {
+      "n": "ψιθυρισμός | 5587",
+      "orth": "ψιθυρισμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a whispering, secret slandering"
+        },
+        {
+          "role": "full",
+          "text": "a whispering, secret slandering."
+        }
+      ]
+    },
+    {
+      "n": "ψιθυριστής | 5588",
+      "orth": "ψιθυριστής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a whisperer, secret slanderer"
+        },
+        {
+          "role": "full",
+          "text": "a whisperer, secret slanderer."
+        }
+      ]
+    },
+    {
+      "n": "ψιχίον | 5589",
+      "orth": "ψιχίον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a crumb"
+        },
+        {
+          "role": "full",
+          "text": "a crumb."
+        }
+      ]
+    },
+    {
+      "n": "ψυχή | 5590",
+      "orth": "ψυχή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the soul, life, self"
+        },
+        {
+          "role": "full",
+          "text": "(a) the vital breath, breath of life, (b) the human soul, (c) the soul\n                  as the seat of affections and will, (d) the self, (e) a human person, an\n                  individual."
+        }
+      ]
+    },
+    {
+      "n": "ψυχικός | 5591",
+      "orth": "ψυχικός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "animal, natural, sensuous"
+        },
+        {
+          "role": "full",
+          "text": "animal, natural, sensuous."
+        }
+      ]
+    },
+    {
+      "n": "ψῦχος | 5592",
+      "orth": "ψῦχος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "cold"
+        },
+        {
+          "role": "full",
+          "text": "cold."
+        }
+      ]
+    },
+    {
+      "n": "ψυχρός | 5593",
+      "orth": "ψυχρός, ά, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "cold, cold-hearted"
+        },
+        {
+          "role": "full",
+          "text": "cool, cold; fig: cold-hearted."
+        }
+      ]
+    },
+    {
+      "n": "ψύχω | 5594",
+      "orth": "ψύχω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I cool, grow cold"
+        },
+        {
+          "role": "full",
+          "text": "I cool, pass: I grow cold."
+        }
+      ]
+    },
+    {
+      "n": "ψωμίζω | 5595",
+      "orth": "ψωμίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I feed, dole out"
+        },
+        {
+          "role": "full",
+          "text": "I feed, dole out."
+        }
+      ]
+    },
+    {
+      "n": "ψωμίον | 5596",
+      "orth": "ψωμίον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a bit, morsel"
+        },
+        {
+          "role": "full",
+          "text": "a bit, morsel."
+        }
+      ]
+    },
+    {
+      "n": "ψώχω | 5597",
+      "orth": "ψώχω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I rub, rub to pieces"
+        },
+        {
+          "role": "full",
+          "text": "I rub, rub to pieces."
+        }
+      ]
+    }
+  ]
+}

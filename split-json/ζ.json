@@ -1,0 +1,468 @@
+{
+  "letter": "ζ",
+  "count": 33,
+  "entries": [
+    {
+      "n": "Ζαβουλών | 2194",
+      "orth": "Ζαβουλών, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Zebulon"
+        },
+        {
+          "role": "full",
+          "text": "Zebulon, one of the sons of Jacob, and founder of one of the twelve\n                  tribes."
+        }
+      ]
+    },
+    {
+      "n": "Ζακχαῖος | 2195",
+      "orth": "Ζακχαῖος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Zacchaeus"
+        },
+        {
+          "role": "full",
+          "text": "Zacchaeus, a Jewish tax-gatherer."
+        }
+      ]
+    },
+    {
+      "n": "Ζαρά | 2196",
+      "orth": "Ζαρά, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Zerah"
+        },
+        {
+          "role": "full",
+          "text": "Zerah, son of Judah and Tamar."
+        }
+      ]
+    },
+    {
+      "n": "Ζαχαρίας | 2197",
+      "orth": "Ζαχαρίας, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Zechariah"
+        },
+        {
+          "role": "full",
+          "text": "Zechariah, (a) a priest referred to as a son of Jehoiada, (b) another\n                  priest, father of John the Baptist."
+        }
+      ]
+    },
+    {
+      "n": "ζάω | 2198",
+      "orth": "ζάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I live"
+        },
+        {
+          "role": "full",
+          "text": "I live, am alive."
+        }
+      ]
+    },
+    {
+      "n": "Ζεβεδαῖος | 2199",
+      "orth": "Ζεβεδαῖος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Zebedee"
+        },
+        {
+          "role": "full",
+          "text": "Zebedee, father of the apostles James and John."
+        }
+      ]
+    },
+    {
+      "n": "ζεστός | 2200",
+      "orth": "ζεστός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "boiling hot"
+        },
+        {
+          "role": "full",
+          "text": "boiling hot; met: fervent."
+        }
+      ]
+    },
+    {
+      "n": "ζεῦγος | 2201",
+      "orth": "ζεῦγος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a yoke, team, pair"
+        },
+        {
+          "role": "full",
+          "text": "a yoke, team; hence: a pair."
+        }
+      ]
+    },
+    {
+      "n": "ζευκτηρία | 2202",
+      "orth": "ζευκτηρία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a band, fastening"
+        },
+        {
+          "role": "full",
+          "text": "a band, fastening."
+        }
+      ]
+    },
+    {
+      "n": "Ζεύς | 2203",
+      "orth": "Ζεύς, Διός, Δία (acc.), ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Zeus"
+        },
+        {
+          "role": "full",
+          "text": "Zeus, the Greek god of the sky in all its manifestations, corresponding\n                  to the Roman Jupiter and to the leading god of the native Lycaonians."
+        }
+      ]
+    },
+    {
+      "n": "ζέω | 2204",
+      "orth": "ζέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I burn in spirit"
+        },
+        {
+          "role": "full",
+          "text": "(lit: I boil, am boiling), I burn (in spirit), am fervent."
+        }
+      ]
+    },
+    {
+      "n": "ζῆλος | 2205",
+      "orth": "ζῆλος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "eagerness, zeal, rivalry"
+        },
+        {
+          "role": "full",
+          "text": "(a) eagerness, zeal, enthusiasm, (b) jealousy, rivalry."
+        }
+      ]
+    },
+    {
+      "n": "ζηλόω | 2206",
+      "orth": "ζηλόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am jealous, eager for"
+        },
+        {
+          "role": "full",
+          "text": "(a) intrans: I am jealous, (b) trans: I am jealous of, with acc. of a\n                  person; I am eager for, am eager to possess, with acc. of a thing."
+        }
+      ]
+    },
+    {
+      "n": "ζηλωτής | 2207",
+      "orth": "ζηλωτής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a zealot"
+        },
+        {
+          "role": "full",
+          "text": "one who is eagerly devoted to a person or a thing, a zealot."
+        }
+      ]
+    },
+    {
+      "n": "ζημία | 2209",
+      "orth": "ζημία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "damage, loss"
+        },
+        {
+          "role": "full",
+          "text": "damage, loss, detriment."
+        }
+      ]
+    },
+    {
+      "n": "ζημιόω | 2210",
+      "orth": "ζημιόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I inflict loss upon, punish"
+        },
+        {
+          "role": "full",
+          "text": "I inflict loss (damage) upon, fine, punish, sometimes with the acc. of\n                  the penalty, even when the verb is passive."
+        }
+      ]
+    },
+    {
+      "n": "Ζηνᾶς | 2211",
+      "orth": "Ζηνᾶς, ᾶν, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Zenas"
+        },
+        {
+          "role": "full",
+          "text": "Zenas, a lawyer in Rome."
+        }
+      ]
+    },
+    {
+      "n": "ζητέω | 2212",
+      "orth": "ζητέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I seek, search for, desire"
+        },
+        {
+          "role": "full",
+          "text": "I seek, search for, desire, require, demand."
+        }
+      ]
+    },
+    {
+      "n": "ζήτημα | 2213",
+      "orth": "ζήτημα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a question, dispute"
+        },
+        {
+          "role": "full",
+          "text": "a question, subject of inquiry, dispute."
+        }
+      ]
+    },
+    {
+      "n": "ζήτησις | 2214",
+      "orth": "ζήτησις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a question, debate, controversy"
+        },
+        {
+          "role": "full",
+          "text": "a question, debate, controversy; a seeking, search."
+        }
+      ]
+    },
+    {
+      "n": "ζιζάνιον | 2215",
+      "orth": "ζιζάνιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "spurious wheat, darnel"
+        },
+        {
+          "role": "full",
+          "text": "spurious wheat, darnel; a plant that grows in Palestine which resembles\n                  wheat in many ways but is worthless."
+        }
+      ]
+    },
+    {
+      "n": "Ζοροβάβελ | 2216",
+      "orth": "Ζοροβάβελ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Zerubbabel"
+        },
+        {
+          "role": "full",
+          "text": "Zerubbabel, son of Shealtiel (Salathiel) and father of Abiud and\n                  Rhesa."
+        }
+      ]
+    },
+    {
+      "n": "ζόφος | 2217",
+      "orth": "ζόφος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "darkness, murkiness"
+        },
+        {
+          "role": "full",
+          "text": "darkness, murkiness, gloom."
+        }
+      ]
+    },
+    {
+      "n": "ζυγός | 2218",
+      "orth": "ζυγός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a yoke, heavy burden, pair of scales"
+        },
+        {
+          "role": "full",
+          "text": "a yoke; hence met: (a Jewish idea) of a heavy burden, comparable to the\n                  heavy yokes resting on the bullocks' necks; a balance, pair of scales."
+        }
+      ]
+    },
+    {
+      "n": "ζύμη | 2219",
+      "orth": "ζύμη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "leaven, ferment"
+        },
+        {
+          "role": "full",
+          "text": "leaven, ferment, both lit. and met."
+        }
+      ]
+    },
+    {
+      "n": "ζυμόω | 2220",
+      "orth": "ζυμόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I leaven, ferment"
+        },
+        {
+          "role": "full",
+          "text": "I leaven, ferment."
+        }
+      ]
+    },
+    {
+      "n": "ζωγρέω | 2221",
+      "orth": "ζωγρέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I capture alive"
+        },
+        {
+          "role": "full",
+          "text": "I capture alive, capture for life, enthrall."
+        }
+      ]
+    },
+    {
+      "n": "ζωή | 2222",
+      "orth": "ζωή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "life"
+        },
+        {
+          "role": "full",
+          "text": "life, both of physical (present) and of spiritual (particularly future)\n                  existence."
+        }
+      ]
+    },
+    {
+      "n": "ζώνη | 2223",
+      "orth": "ζώνη, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a girdle, belt, purse"
+        },
+        {
+          "role": "full",
+          "text": "a girdle, belt, waistband; because the purse was kept there, also: a\n                  purse."
+        }
+      ]
+    },
+    {
+      "n": "ζώννυμι | 2224",
+      "orth": "ζώννυμι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I gird"
+        },
+        {
+          "role": "full",
+          "text": "I gird, put on the girdle, especially as preparatory to active\n                  work."
+        }
+      ]
+    },
+    {
+      "n": "ζωογονέω | 2225",
+      "orth": "ζωογονέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I preserve alive"
+        },
+        {
+          "role": "full",
+          "text": "I preserve alive (lit: bring to birth), save."
+        }
+      ]
+    },
+    {
+      "n": "ζῷον | 2226",
+      "orth": "ζῷον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an animal"
+        },
+        {
+          "role": "full",
+          "text": "an animal, living creature."
+        }
+      ]
+    },
+    {
+      "n": "ζῳοποιέω | 2227",
+      "orth": "ζῳοποιέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make to live"
+        },
+        {
+          "role": "full",
+          "text": "I make that which was dead to live, cause to live, quicken."
+        }
+      ]
+    }
+  ]
+}

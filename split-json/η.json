@@ -1,0 +1,636 @@
+{
+  "letter": "η",
+  "count": 45,
+  "entries": [
+    {
+      "n": "ἤ | 2228",
+      "orth": "ἤ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "or, than"
+        },
+        {
+          "role": "full",
+          "text": "or, than."
+        }
+      ]
+    },
+    {
+      "n": "ἦ | 2229",
+      "orth": "ἦ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "truly, surely"
+        },
+        {
+          "role": "full",
+          "text": "truly, surely."
+        }
+      ]
+    },
+    {
+      "n": "ἡγεμονεύω | 2230",
+      "orth": "ἡγεμονεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I govern"
+        },
+        {
+          "role": "full",
+          "text": "I govern."
+        }
+      ]
+    },
+    {
+      "n": "ἡγεμονία | 2231",
+      "orth": "ἡγεμονία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "rule, authority"
+        },
+        {
+          "role": "full",
+          "text": "rule, authority, sovereignty; a reign."
+        }
+      ]
+    },
+    {
+      "n": "ἡγεμών | 2232",
+      "orth": "ἡγεμών, όνος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a governor"
+        },
+        {
+          "role": "full",
+          "text": "a leader, guide; a commander; a governor (of a province); plur:\n                  leaders."
+        }
+      ]
+    },
+    {
+      "n": "ἡγέομαι | 2233",
+      "orth": "ἡγέομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I lead, think"
+        },
+        {
+          "role": "full",
+          "text": "(a) I lead, (b) I think, am of opinion, suppose, consider."
+        }
+      ]
+    },
+    {
+      "n": "ἡδέως | 2234",
+      "orth": "ἡδέως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "gladly, pleasantly"
+        },
+        {
+          "role": "full",
+          "text": "gladly, pleasantly, with pleasure."
+        }
+      ]
+    },
+    {
+      "n": "ἤδη | 2235",
+      "orth": "ἤδη",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "now, already"
+        },
+        {
+          "role": "full",
+          "text": "already; now at length, now after all this waiting."
+        }
+      ]
+    },
+    {
+      "n": "ἥδιστα | 2236",
+      "orth": "ἥδιστα",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "most gladly, pleasantly"
+        },
+        {
+          "role": "full",
+          "text": "most gladly, most pleasantly."
+        }
+      ]
+    },
+    {
+      "n": "ἡδονή | 2237",
+      "orth": "ἡδονή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "pleasure, lust, strong desire"
+        },
+        {
+          "role": "full",
+          "text": "pleasure, a pleasure, especially sensuous pleasure; a strong desire,\n                  passion."
+        }
+      ]
+    },
+    {
+      "n": "ἡδύοσμον | 2238",
+      "orth": "ἡδύοσμον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "mint, peppermint"
+        },
+        {
+          "role": "full",
+          "text": "mint, peppermint."
+        }
+      ]
+    },
+    {
+      "n": "ἦθος | 2239",
+      "orth": "ἦθος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "habit, manner, custom, morals"
+        },
+        {
+          "role": "full",
+          "text": "habit, manner, custom, morals."
+        }
+      ]
+    },
+    {
+      "n": "ἥκω | 2240",
+      "orth": "ἥκω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I have come, am present"
+        },
+        {
+          "role": "full",
+          "text": "I have come, am present, have arrived."
+        }
+      ]
+    },
+    {
+      "n": "Ἠλί | 2241",
+      "orth": "Ἠλί",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Eli"
+        },
+        {
+          "role": "full",
+          "text": "Eli, my God (Hebrew)."
+        }
+      ]
+    },
+    {
+      "n": "Ἡλί | 2242",
+      "orth": "Ἡλί, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Heli"
+        },
+        {
+          "role": "full",
+          "text": "Heli, an ancestor of Jesus."
+        }
+      ]
+    },
+    {
+      "n": "Ἠλίας | 2243",
+      "orth": "Ἠλίας, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Elijah"
+        },
+        {
+          "role": "full",
+          "text": "Elijah, the prophet."
+        }
+      ]
+    },
+    {
+      "n": "ἡλικία | 2244",
+      "orth": "ἡλικία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "age, stature"
+        },
+        {
+          "role": "full",
+          "text": "age, term of life; full age, maturity; stature."
+        }
+      ]
+    },
+    {
+      "n": "ἡλίκος | 2245",
+      "orth": "ἡλίκος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of what size, how much"
+        },
+        {
+          "role": "full",
+          "text": "of which size, of what size, how small, how much."
+        }
+      ]
+    },
+    {
+      "n": "ἥλιος | 2246",
+      "orth": "ἥλιος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the sun, sunlight"
+        },
+        {
+          "role": "full",
+          "text": "the sun, sunlight."
+        }
+      ]
+    },
+    {
+      "n": "ἧλος | 2247",
+      "orth": "ἧλος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a nail"
+        },
+        {
+          "role": "full",
+          "text": "a nail."
+        }
+      ]
+    },
+    {
+      "n": "ἡμέρα | 2250",
+      "orth": "ἡμέρα, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a day"
+        },
+        {
+          "role": "full",
+          "text": "a day, the period from sunrise to sunset."
+        }
+      ]
+    },
+    {
+      "n": "ἡμέτερος | 2251",
+      "orth": "ἡμέτερος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "our, our own"
+        },
+        {
+          "role": "full",
+          "text": "our, our own."
+        }
+      ]
+    },
+    {
+      "n": "ἡμιθανής | 2253",
+      "orth": "ἡμιθανής, ές",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "half-dead"
+        },
+        {
+          "role": "full",
+          "text": "half-dead."
+        }
+      ]
+    },
+    {
+      "n": "ἥμισυς | 2255",
+      "orth": "ἥμισυς, εια, υ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "half"
+        },
+        {
+          "role": "full",
+          "text": "half."
+        }
+      ]
+    },
+    {
+      "n": "ἡμιώριον | 2256",
+      "orth": "ἡμιώριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "half an hour"
+        },
+        {
+          "role": "full",
+          "text": "half an hour."
+        }
+      ]
+    },
+    {
+      "n": "ἡνίκα | 2259",
+      "orth": "ἡνίκα",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "when, whenever"
+        },
+        {
+          "role": "full",
+          "text": "when, whenever, at which time."
+        }
+      ]
+    },
+    {
+      "n": "ἤπερ | 2260",
+      "orth": "ἤπερ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "than"
+        },
+        {
+          "role": "full",
+          "text": "than."
+        }
+      ]
+    },
+    {
+      "n": "ἤπιος | 2261",
+      "orth": "ἤπιος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "placid, gentle"
+        },
+        {
+          "role": "full",
+          "text": "placid, gentle, mild."
+        }
+      ]
+    },
+    {
+      "n": "Ἤρ | 2262",
+      "orth": "Ἤρ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Er"
+        },
+        {
+          "role": "full",
+          "text": "Er, son of Joshua and father of Elmadam."
+        }
+      ]
+    },
+    {
+      "n": "ἤρεμος | 2263",
+      "orth": "ἤρεμος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "quiet, tranquil"
+        },
+        {
+          "role": "full",
+          "text": "quiet, tranquil."
+        }
+      ]
+    },
+    {
+      "n": "Ἡρῴδης | 2264",
+      "orth": "Ἡρῴδης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Herod"
+        },
+        {
+          "role": "full",
+          "text": "Herod; four persons are called by this name: Herod the Great, Herod\n                  Antipas, Herod Agrippa, and Herod Agrippa the younger."
+        }
+      ]
+    },
+    {
+      "n": "Ἡρῳδιανοί | 2265",
+      "orth": "Ἡρῳδιανοί, ῶν, οἱ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the Herodians, the partisans of Herod Antipas"
+        },
+        {
+          "role": "full",
+          "text": "the Herodians, the partisans of Herod (Antipas)."
+        }
+      ]
+    },
+    {
+      "n": "Ἡρῳδιάς | 2266",
+      "orth": "Ἡρῳδιάς, άδος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Herodias"
+        },
+        {
+          "role": "full",
+          "text": "Herodias (died after A.D. 40), daughter of Aristobulus and\n                  granddaughter of Herod I, wife, first, of her uncle Herod, second, of his\n                  half-brother, her uncle Herod Antipas."
+        }
+      ]
+    },
+    {
+      "n": "Ἡρῳδίων | 2267",
+      "orth": "Ἡρῳδίων, ωνος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Herodion"
+        },
+        {
+          "role": "full",
+          "text": "Herodion, a Christian in Rome, a relative of Paul."
+        }
+      ]
+    },
+    {
+      "n": "Ἠσαΐας | 2268",
+      "orth": "Ἠσαΐας, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Isaiah"
+        },
+        {
+          "role": "full",
+          "text": "Isaiah, the prophet."
+        }
+      ]
+    },
+    {
+      "n": "Ἠσαῦ | 2269",
+      "orth": "Ἠσαῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Esau"
+        },
+        {
+          "role": "full",
+          "text": "Esau, elder son of Isaac the patriarch, brother of Jacob."
+        }
+      ]
+    },
+    {
+      "n": "ἡσυχάζω | 2270",
+      "orth": "ἡσυχάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I rest, am silent, live quietly"
+        },
+        {
+          "role": "full",
+          "text": "I rest from work, cease from altercation, am silent, live\n                  quietly."
+        }
+      ]
+    },
+    {
+      "n": "ἡσυχία | 2271",
+      "orth": "ἡσυχία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "quietness, silence"
+        },
+        {
+          "role": "full",
+          "text": "quietness, stillness, silence."
+        }
+      ]
+    },
+    {
+      "n": "ἡσύχιος | 2272",
+      "orth": "ἡσύχιος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "quiet, tranquil"
+        },
+        {
+          "role": "full",
+          "text": "quiet, tranquil, peaceful."
+        }
+      ]
+    },
+    {
+      "n": "ἤτοι | 2273",
+      "orth": "ἤτοι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "or of course"
+        },
+        {
+          "role": "full",
+          "text": "whether."
+        }
+      ]
+    },
+    {
+      "n": "ἡττάομαι | 2274",
+      "orth": "ἡττάομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am defeated, made inferior"
+        },
+        {
+          "role": "full",
+          "text": "I am defeated, am overcome, am made inferior."
+        }
+      ]
+    },
+    {
+      "n": "ἥττημα | 2275",
+      "orth": "ἥττημα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a defeat, failure"
+        },
+        {
+          "role": "full",
+          "text": "defect, loss, defeat, failure, shortcoming."
+        }
+      ]
+    },
+    {
+      "n": "ἧττων | 2276",
+      "orth": "ἧττων, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "lesser, inferior, weaker"
+        },
+        {
+          "role": "full",
+          "text": "lesser, inferior, weaker."
+        }
+      ]
+    },
+    {
+      "n": "ἠχέω | 2278",
+      "orth": "ἠχέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make a sound, sound when struck"
+        },
+        {
+          "role": "full",
+          "text": "I make a sound, give forth a sound, sound (when struck); I roar (as the\n                  sea)."
+        }
+      ]
+    },
+    {
+      "n": "ἦχος | 2279",
+      "orth": "ἦχος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a sound, rumor"
+        },
+        {
+          "role": "full",
+          "text": "(a) a sound, noise, (b) a rumor, report."
+        }
+      ]
+    }
+  ]
+}

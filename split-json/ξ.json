@@ -1,0 +1,146 @@
+{
+  "letter": "ξ",
+  "count": 10,
+  "entries": [
+    {
+      "n": "ξενία | 3578",
+      "orth": "ξενία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "lodging, hospitality"
+        },
+        {
+          "role": "full",
+          "text": "lodging, hospitality."
+        }
+      ]
+    },
+    {
+      "n": "ξενίζω | 3579",
+      "orth": "ξενίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I entertain a stranger, I startle"
+        },
+        {
+          "role": "full",
+          "text": "(a) I entertain a stranger, (b) I startle, bewilder."
+        }
+      ]
+    },
+    {
+      "n": "ξενοδοχέω | 3580",
+      "orth": "ξενοδοχέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I entertain strangers"
+        },
+        {
+          "role": "full",
+          "text": "I entertain strangers, practice hospitality."
+        }
+      ]
+    },
+    {
+      "n": "ξένος | 3581",
+      "orth": "ξένος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "new, novel, a foreigner"
+        },
+        {
+          "role": "full",
+          "text": "alien, new, novel; noun: a guest, stranger, foreigner."
+        }
+      ]
+    },
+    {
+      "n": "ξέστης | 3582",
+      "orth": "ξέστης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a Roman measure, pitcher"
+        },
+        {
+          "role": "full",
+          "text": "a Roman measure, a pitcher or cup of any size."
+        }
+      ]
+    },
+    {
+      "n": "ξηραίνω | 3583",
+      "orth": "ξηραίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I dry up, parch, ripen"
+        },
+        {
+          "role": "full",
+          "text": "I dry up, parch, am ripened, wither, waste away."
+        }
+      ]
+    },
+    {
+      "n": "ξηρός | 3584",
+      "orth": "ξηρός, ά, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "dry, withered, dry land"
+        },
+        {
+          "role": "full",
+          "text": "dry, withered; noun: dry land."
+        }
+      ]
+    },
+    {
+      "n": "ξύλινος | 3585",
+      "orth": "ξύλινος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "wooden"
+        },
+        {
+          "role": "full",
+          "text": "wooden."
+        }
+      ]
+    },
+    {
+      "n": "ξύλον | 3586",
+      "orth": "ξύλον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a staff, cross, anything made of wood"
+        },
+        {
+          "role": "full",
+          "text": "anything made of wood, a piece of wood, a club, staff; the trunk of a\n                  tree, used to support the cross-bar of a cross in crucifixion."
+        }
+      ]
+    },
+    {
+      "n": "ξυράω | 3587",
+      "orth": "ξυράω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I shave"
+        },
+        {
+          "role": "full",
+          "text": "I shave, shear, cut off the hair."
+        }
+      ]
+    }
+  ]
+}

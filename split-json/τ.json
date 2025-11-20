@@ -1,0 +1,2498 @@
+{
+  "letter": "τ",
+  "count": 178,
+  "entries": [
+    {
+      "n": "ταβέρναι | 4999",
+      "orth": "ταβέρναι, ῶν, αἱ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "taverns"
+        },
+        {
+          "role": "full",
+          "text": "taverns; Three Taverns, the name of a village or town on the Appian\n                  Way, about thirty-three miles from Rome."
+        }
+      ]
+    },
+    {
+      "n": "Ταβηθά | 5000",
+      "orth": "Ταβηθά, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Tabitha, antelope"
+        },
+        {
+          "role": "full",
+          "text": "antelope; Tabitha, a Christian woman at Joppa."
+        }
+      ]
+    },
+    {
+      "n": "τάγμα | 5001",
+      "orth": "τάγμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "rank, division"
+        },
+        {
+          "role": "full",
+          "text": "rank, division, an ordered series."
+        }
+      ]
+    },
+    {
+      "n": "τακτός | 5002",
+      "orth": "τακτός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "appointed, arranged, fixed"
+        },
+        {
+          "role": "full",
+          "text": "appointed, arranged, fixed."
+        }
+      ]
+    },
+    {
+      "n": "ταλαιπωρέω | 5003",
+      "orth": "ταλαιπωρέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am miserable, distressed"
+        },
+        {
+          "role": "full",
+          "text": "I endure severe hardship, am harassed, complain."
+        }
+      ]
+    },
+    {
+      "n": "ταλαιπωρία | 5004",
+      "orth": "ταλαιπωρία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "hardship, misery"
+        },
+        {
+          "role": "full",
+          "text": "hardship, misery, distress, toil."
+        }
+      ]
+    },
+    {
+      "n": "ταλαίπωρος | 5005",
+      "orth": "ταλαίπωρος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "wretched, afflicted, miserable"
+        },
+        {
+          "role": "full",
+          "text": "wretched, afflicted, miserable."
+        }
+      ]
+    },
+    {
+      "n": "ταλαντιαῖος | 5006",
+      "orth": "ταλαντιαῖος, αία, αῖον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a talent in weight"
+        },
+        {
+          "role": "full",
+          "text": "a talent in weight."
+        }
+      ]
+    },
+    {
+      "n": "τάλαντον | 5007",
+      "orth": "τάλαντον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a talent of silver or gold"
+        },
+        {
+          "role": "full",
+          "text": "a talent of silver or gold."
+        }
+      ]
+    },
+    {
+      "n": "ταλιθά | 5008",
+      "orth": "ταλιθά",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "little girl"
+        },
+        {
+          "role": "full",
+          "text": "(Aramaic), girl, little girl."
+        }
+      ]
+    },
+    {
+      "n": "ταμεῖον | 5009",
+      "orth": "ταμεῖον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a secret chamber"
+        },
+        {
+          "role": "full",
+          "text": "a store-chamber, secret chamber, closet; a granary, barn."
+        }
+      ]
+    },
+    {
+      "n": "τάξις | 5010",
+      "orth": "τάξις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "order, position, rank"
+        },
+        {
+          "role": "full",
+          "text": "order, (a) regular arrangement, (b) appointed succession, (c) position,\n                  rank."
+        }
+      ]
+    },
+    {
+      "n": "ταπεινός | 5011",
+      "orth": "ταπεινός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "humble, lowly"
+        },
+        {
+          "role": "full",
+          "text": "humble, lowly, in position or spirit (in a good sense)."
+        }
+      ]
+    },
+    {
+      "n": "ταπεινοφροσύνη | 5012",
+      "orth": "ταπεινοφροσύνη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "humility"
+        },
+        {
+          "role": "full",
+          "text": "humility, lowliness of mind, modesty."
+        }
+      ]
+    },
+    {
+      "n": "ταπεινόω | 5013",
+      "orth": "ταπεινόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I humble, humiliate"
+        },
+        {
+          "role": "full",
+          "text": "I make or bring low, humble, humiliate; pass: I am humbled."
+        }
+      ]
+    },
+    {
+      "n": "ταπείνωσις | 5014",
+      "orth": "ταπείνωσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "abasement, low condition"
+        },
+        {
+          "role": "full",
+          "text": "abasement (in spirit), low condition (in circumstances)."
+        }
+      ]
+    },
+    {
+      "n": "ταράσσω | 5015",
+      "orth": "ταράσσω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I agitate, stir up, trouble"
+        },
+        {
+          "role": "full",
+          "text": "I disturb, agitate, stir up, trouble."
+        }
+      ]
+    },
+    {
+      "n": "ταραχή | 5016",
+      "orth": "ταραχή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a disturbance, tumult, sedition"
+        },
+        {
+          "role": "full",
+          "text": "a disturbance, tumult, sedition, trouble."
+        }
+      ]
+    },
+    {
+      "n": "τάραχος | 5017",
+      "orth": "τάραχος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a disturbance, commotion"
+        },
+        {
+          "role": "full",
+          "text": "a disturbance, commotion, trouble."
+        }
+      ]
+    },
+    {
+      "n": "Ταρσεύς | 5018",
+      "orth": "Ταρσεύς, έως, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "belonging to Tarsus"
+        },
+        {
+          "role": "full",
+          "text": "belonging to Tarsus, a Tarsian."
+        }
+      ]
+    },
+    {
+      "n": "Ταρσός | 5019",
+      "orth": "Ταρσός, οῦ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Tarsus"
+        },
+        {
+          "role": "full",
+          "text": "Tarsus, the capital of the Roman province Cilicia."
+        }
+      ]
+    },
+    {
+      "n": "ταρταρόω | 5020",
+      "orth": "ταρταρόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I thrust down to Tartarus"
+        },
+        {
+          "role": "full",
+          "text": "I thrust down to Tartarus or Gehenna."
+        }
+      ]
+    },
+    {
+      "n": "τάσσω | 5021",
+      "orth": "τάσσω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I assign, arrange"
+        },
+        {
+          "role": "full",
+          "text": "(a) I assign, arrange, (b) I determine; mid: I appoint."
+        }
+      ]
+    },
+    {
+      "n": "ταῦρος | 5022",
+      "orth": "ταῦρος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a bull, an ox"
+        },
+        {
+          "role": "full",
+          "text": "a bull, an ox."
+        }
+      ]
+    },
+    {
+      "n": "ταφή | 5027",
+      "orth": "ταφή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a burial"
+        },
+        {
+          "role": "full",
+          "text": "a burial, burial place."
+        }
+      ]
+    },
+    {
+      "n": "τάφος | 5028",
+      "orth": "τάφος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a tomb, burial-place"
+        },
+        {
+          "role": "full",
+          "text": "a burial-place, sepulcher, tomb, grave."
+        }
+      ]
+    },
+    {
+      "n": "τάχα | 5029",
+      "orth": "τάχα",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "quickly, perhaps"
+        },
+        {
+          "role": "full",
+          "text": "quickly, presently, perhaps."
+        }
+      ]
+    },
+    {
+      "n": "ταχέως | 5030",
+      "orth": "ταχέως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "soon, quickly, hastily"
+        },
+        {
+          "role": "full",
+          "text": "soon, quickly, hastily."
+        }
+      ]
+    },
+    {
+      "n": "ταχινός | 5031",
+      "orth": "ταχινός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "swift, quick"
+        },
+        {
+          "role": "full",
+          "text": "swift, quick, impending."
+        }
+      ]
+    },
+    {
+      "n": "τάχιον | 5032",
+      "orth": "τάχιον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "more swiftly"
+        },
+        {
+          "role": "full",
+          "text": "more swiftly, more quickly."
+        }
+      ]
+    },
+    {
+      "n": "τάχιστα | 5033",
+      "orth": "τάχιστα",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "most swiftly"
+        },
+        {
+          "role": "full",
+          "text": "most swiftly, most quickly, as quickly as possible."
+        }
+      ]
+    },
+    {
+      "n": "τάχος | 5034",
+      "orth": "τάχος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "quickness, speed"
+        },
+        {
+          "role": "full",
+          "text": "quickness, speed; hastily, immediately."
+        }
+      ]
+    },
+    {
+      "n": "ταχύ | 5035",
+      "orth": "ταχύ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "quickly, speedily"
+        },
+        {
+          "role": "full",
+          "text": "quickly, speedily."
+        }
+      ]
+    },
+    {
+      "n": "ταχύς | 5036",
+      "orth": "ταχύς, εῖα, ύ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "quick, swift"
+        },
+        {
+          "role": "full",
+          "text": "quick, swift, speedy, ready, prompt."
+        }
+      ]
+    },
+    {
+      "n": "τέ | 5037",
+      "orth": "τέ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "and, both"
+        },
+        {
+          "role": "full",
+          "text": "and, both."
+        }
+      ]
+    },
+    {
+      "n": "τεῖχος | 5038",
+      "orth": "τεῖχος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a wall"
+        },
+        {
+          "role": "full",
+          "text": "a wall, especially of a city."
+        }
+      ]
+    },
+    {
+      "n": "τεκμήριον | 5039",
+      "orth": "τεκμήριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a sign, certain proof"
+        },
+        {
+          "role": "full",
+          "text": "a sign, certain proof."
+        }
+      ]
+    },
+    {
+      "n": "τεκνίον | 5040",
+      "orth": "τεκνίον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a little child"
+        },
+        {
+          "role": "full",
+          "text": "a little child."
+        }
+      ]
+    },
+    {
+      "n": "τεκνογονέω | 5041",
+      "orth": "τεκνογονέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bear children"
+        },
+        {
+          "role": "full",
+          "text": "I bear children, beget, rear a family."
+        }
+      ]
+    },
+    {
+      "n": "τεκνογονία | 5042",
+      "orth": "τεκνογονία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "child bearing"
+        },
+        {
+          "role": "full",
+          "text": "child bearing, the rearing of a family."
+        }
+      ]
+    },
+    {
+      "n": "τέκνον | 5043",
+      "orth": "τέκνον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a child, descendent, inhabitant"
+        },
+        {
+          "role": "full",
+          "text": "a child, descendent, inhabitant."
+        }
+      ]
+    },
+    {
+      "n": "τεκνοτροφέω | 5044",
+      "orth": "τεκνοτροφέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bring up children"
+        },
+        {
+          "role": "full",
+          "text": "I bring up children, rear young."
+        }
+      ]
+    },
+    {
+      "n": "τέκτων | 5045",
+      "orth": "τέκτων, ονος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a carpenter"
+        },
+        {
+          "role": "full",
+          "text": "a carpenter, an artisan."
+        }
+      ]
+    },
+    {
+      "n": "τέλειος | 5046",
+      "orth": "τέλειος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "perfect, full-grown"
+        },
+        {
+          "role": "full",
+          "text": "perfect, (a) complete in all its parts, (b) full grown, of full age,\n                  (c) specially of the completeness of Christian character."
+        }
+      ]
+    },
+    {
+      "n": "τελειότης | 5047",
+      "orth": "τελειότης, τητος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "perfectness, perfection"
+        },
+        {
+          "role": "full",
+          "text": "perfectness, perfection, maturity."
+        }
+      ]
+    },
+    {
+      "n": "τελειόω | 5048",
+      "orth": "τελειόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I complete, accomplish, make perfect"
+        },
+        {
+          "role": "full",
+          "text": "(a) as a course, a race, or the like: I complete, finish (b) as of time\n                  or prediction: I accomplish, (c) I make perfect; pass: I am perfected."
+        }
+      ]
+    },
+    {
+      "n": "τελείως | 5049",
+      "orth": "τελείως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "perfectly"
+        },
+        {
+          "role": "full",
+          "text": "perfectly, completely, without wavering."
+        }
+      ]
+    },
+    {
+      "n": "τελείωσις | 5050",
+      "orth": "τελείωσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "completion, fulfillment, perfection"
+        },
+        {
+          "role": "full",
+          "text": "completion, fulfillment, perfection."
+        }
+      ]
+    },
+    {
+      "n": "τελειωτής | 5051",
+      "orth": "τελειωτής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a perfecter, completer"
+        },
+        {
+          "role": "full",
+          "text": "a perfecter, completer, finisher."
+        }
+      ]
+    },
+    {
+      "n": "τελεσφορέω | 5052",
+      "orth": "τελεσφορέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bring to maturity"
+        },
+        {
+          "role": "full",
+          "text": "I bring to maturity."
+        }
+      ]
+    },
+    {
+      "n": "τελευτάω | 5053",
+      "orth": "τελευτάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I end, finish, die"
+        },
+        {
+          "role": "full",
+          "text": "I end, finish, die, complete."
+        }
+      ]
+    },
+    {
+      "n": "τελευτή | 5054",
+      "orth": "τελευτή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "end of life, death"
+        },
+        {
+          "role": "full",
+          "text": "end of life, death."
+        }
+      ]
+    },
+    {
+      "n": "τελέω | 5055",
+      "orth": "τελέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I end, accomplish, pay"
+        },
+        {
+          "role": "full",
+          "text": "(a) I end, finish, (b) I fulfill, accomplish, (c) I pay."
+        }
+      ]
+    },
+    {
+      "n": "τέλος | 5056",
+      "orth": "τέλος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an end, purpose, tax"
+        },
+        {
+          "role": "full",
+          "text": "(a) an end, (b) event or issue, (c) the principal end, aim, purpose,\n                  (d) a tax."
+        }
+      ]
+    },
+    {
+      "n": "τελώνης | 5057",
+      "orth": "τελώνης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a collector of taxes"
+        },
+        {
+          "role": "full",
+          "text": "a publican, collector of taxes."
+        }
+      ]
+    },
+    {
+      "n": "τελώνιον | 5058",
+      "orth": "τελώνιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a tax-collector's office"
+        },
+        {
+          "role": "full",
+          "text": "a tax-collector's office, toll-house."
+        }
+      ]
+    },
+    {
+      "n": "τέρας | 5059",
+      "orth": "τέρας, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a wonder, portent"
+        },
+        {
+          "role": "full",
+          "text": "a wonder, portent, marvel."
+        }
+      ]
+    },
+    {
+      "n": "Τέρτιος | 5060",
+      "orth": "Τέρτιος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Tertius"
+        },
+        {
+          "role": "full",
+          "text": "Tertius, who wrote the Epistle to the Romans at Paul's dictation."
+        }
+      ]
+    },
+    {
+      "n": "Τέρτυλλος | 5061",
+      "orth": "Τέρτυλλος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Tertullus"
+        },
+        {
+          "role": "full",
+          "text": "Tertullus, a barrister acting as professional prosecutor of Paul at\n                  Caesarea."
+        }
+      ]
+    },
+    {
+      "n": "τεσσαράκοντα | 5062",
+      "orth": "τεσσαράκοντα",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "forty"
+        },
+        {
+          "role": "full",
+          "text": "forty."
+        }
+      ]
+    },
+    {
+      "n": "τεσσαρακονταετής | 5063",
+      "orth": "τεσσαρακονταετής, ές",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "forty years of age"
+        },
+        {
+          "role": "full",
+          "text": "forty years of age."
+        }
+      ]
+    },
+    {
+      "n": "τέσσαρες | 5064",
+      "orth": "τέσσαρες, τέσσαρα",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "four"
+        },
+        {
+          "role": "full",
+          "text": "four."
+        }
+      ]
+    },
+    {
+      "n": "τεσσαρεσκαιδέκατος | 5065",
+      "orth": "τεσσαρεσκαιδέκατος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "fourteenth"
+        },
+        {
+          "role": "full",
+          "text": "fourteenth."
+        }
+      ]
+    },
+    {
+      "n": "τεταρταῖος | 5066",
+      "orth": "τεταρταῖος, αία, αῖον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "four days since"
+        },
+        {
+          "role": "full",
+          "text": "of the fourth day, four days since."
+        }
+      ]
+    },
+    {
+      "n": "τέταρτος | 5067",
+      "orth": "τέταρτος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "fourth"
+        },
+        {
+          "role": "full",
+          "text": "fourth."
+        }
+      ]
+    },
+    {
+      "n": "τετράγωνος | 5068",
+      "orth": "τετράγωνος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "square"
+        },
+        {
+          "role": "full",
+          "text": "square, four-cornered."
+        }
+      ]
+    },
+    {
+      "n": "τετράδιον | 5069",
+      "orth": "τετράδιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a group of four soldiers"
+        },
+        {
+          "role": "full",
+          "text": "a quaternion, a group of four soldiers."
+        }
+      ]
+    },
+    {
+      "n": "τετρακισχίλιοι | 5070",
+      "orth": "τετρακισχίλιοι, αι, α",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "four thousand"
+        },
+        {
+          "role": "full",
+          "text": "four thousand."
+        }
+      ]
+    },
+    {
+      "n": "τετρακόσιοι | 5071",
+      "orth": "τετρακόσιοι, αι, α",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "four hundred"
+        },
+        {
+          "role": "full",
+          "text": "four hundred."
+        }
+      ]
+    },
+    {
+      "n": "τετράμηνος | 5072",
+      "orth": "τετράμηνος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of four months"
+        },
+        {
+          "role": "full",
+          "text": "of four months, a period of four months."
+        }
+      ]
+    },
+    {
+      "n": "τετραπλοῦς | 5073",
+      "orth": "τετραπλοῦς, ῆ, οῦν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "four-fold"
+        },
+        {
+          "role": "full",
+          "text": "four-fold, four times as much."
+        }
+      ]
+    },
+    {
+      "n": "τετράπους | 5074",
+      "orth": "τετράπους, ουν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "four-footed"
+        },
+        {
+          "role": "full",
+          "text": "four-footed."
+        }
+      ]
+    },
+    {
+      "n": "τετραρχέω | 5075",
+      "orth": "τετραρχέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I rule over as a tetrarch"
+        },
+        {
+          "role": "full",
+          "text": "I rule over as a tetrarch."
+        }
+      ]
+    },
+    {
+      "n": "τετράρχης | 5076",
+      "orth": "τετράρχης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a tetrarch"
+        },
+        {
+          "role": "full",
+          "text": "a tetrarch, ruler over a fourth part of a region."
+        }
+      ]
+    },
+    {
+      "n": "τεφρόω | 5077",
+      "orth": "τεφρόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I reduce to ashes"
+        },
+        {
+          "role": "full",
+          "text": "I reduce to ashes, consume, destroy."
+        }
+      ]
+    },
+    {
+      "n": "τέχνη | 5078",
+      "orth": "τέχνη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "art, skill, trade"
+        },
+        {
+          "role": "full",
+          "text": "art, skill, trade, craft."
+        }
+      ]
+    },
+    {
+      "n": "τεχνίτης | 5079",
+      "orth": "τεχνίτης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a craftsman, artisan"
+        },
+        {
+          "role": "full",
+          "text": "a craftsman, artisan, architect, builder."
+        }
+      ]
+    },
+    {
+      "n": "τήκω | 5080",
+      "orth": "τήκω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make liquid, melt"
+        },
+        {
+          "role": "full",
+          "text": "I make liquid; pass: I melt (away)."
+        }
+      ]
+    },
+    {
+      "n": "τηλαυγῶς | 5081",
+      "orth": "τηλαυγῶς",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "clearly, distinctly"
+        },
+        {
+          "role": "full",
+          "text": "clearly, distinctly, plainly."
+        }
+      ]
+    },
+    {
+      "n": "τηλικοῦτος | 5082",
+      "orth": "τηλικοῦτος, αύτη, οῦτο",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "so great"
+        },
+        {
+          "role": "full",
+          "text": "so great, so large, important."
+        }
+      ]
+    },
+    {
+      "n": "τηρέω | 5083",
+      "orth": "τηρέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I keep, guard, observe"
+        },
+        {
+          "role": "full",
+          "text": "I keep, guard, observe, watch over."
+        }
+      ]
+    },
+    {
+      "n": "τήρησις | 5084",
+      "orth": "τήρησις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a prison, observance"
+        },
+        {
+          "role": "full",
+          "text": "a prison; observance (as of precepts)."
+        }
+      ]
+    },
+    {
+      "n": "Τιβεριάς | 5085",
+      "orth": "Τιβεριάς, άδος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Tiberias"
+        },
+        {
+          "role": "full",
+          "text": "Tiberias, a town in Galilee on the western border of the sea called\n                  after it."
+        }
+      ]
+    },
+    {
+      "n": "Τιβέριος | 5086",
+      "orth": "Τιβέριος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Tiberius"
+        },
+        {
+          "role": "full",
+          "text": "Tiberius, the second Roman emperor (died A.D. 37)."
+        }
+      ]
+    },
+    {
+      "n": "τίθημι | 5087",
+      "orth": "τίθημι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I put, place"
+        },
+        {
+          "role": "full",
+          "text": "I put, place, lay, set, fix, establish."
+        }
+      ]
+    },
+    {
+      "n": "τίκτω | 5088",
+      "orth": "τίκτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bear, bring forth, produce"
+        },
+        {
+          "role": "full",
+          "text": "I bear, bring forth, produce, beget, yield."
+        }
+      ]
+    },
+    {
+      "n": "τίλλω | 5089",
+      "orth": "τίλλω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I pluck, pluck off"
+        },
+        {
+          "role": "full",
+          "text": "I pluck, pluck off."
+        }
+      ]
+    },
+    {
+      "n": "Τιμαῖος | 5090",
+      "orth": "Τιμαῖος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Timaeus"
+        },
+        {
+          "role": "full",
+          "text": "Timaeus, father of the blind beggar Bartimaeus."
+        }
+      ]
+    },
+    {
+      "n": "τιμάω | 5091",
+      "orth": "τιμάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I value at a price, honor"
+        },
+        {
+          "role": "full",
+          "text": "(a) I value at a price, estimate, (b) I honor, reverence."
+        }
+      ]
+    },
+    {
+      "n": "τιμή | 5092",
+      "orth": "τιμή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a price, honor"
+        },
+        {
+          "role": "full",
+          "text": "a price, honor."
+        }
+      ]
+    },
+    {
+      "n": "τίμιος | 5093",
+      "orth": "τίμιος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of great price, precious, honored"
+        },
+        {
+          "role": "full",
+          "text": "of great price, precious, honored."
+        }
+      ]
+    },
+    {
+      "n": "τιμιότης | 5094",
+      "orth": "τιμιότης, τητος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "preciousness, costliness"
+        },
+        {
+          "role": "full",
+          "text": "preciousness, costliness, worth."
+        }
+      ]
+    },
+    {
+      "n": "Τιμόθεος | 5095",
+      "orth": "Τιμόθεος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Timothy"
+        },
+        {
+          "role": "full",
+          "text": "Timothy, a Christian of Lystra, helper of Paul."
+        }
+      ]
+    },
+    {
+      "n": "Τίμων | 5096",
+      "orth": "Τίμων, ωνος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Timon"
+        },
+        {
+          "role": "full",
+          "text": "Timon, one of the seven original deacons at Jerusalem."
+        }
+      ]
+    },
+    {
+      "n": "τιμωρέω | 5097",
+      "orth": "τιμωρέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I punish"
+        },
+        {
+          "role": "full",
+          "text": "I punish, avenge myself on."
+        }
+      ]
+    },
+    {
+      "n": "τιμωρία | 5098",
+      "orth": "τιμωρία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "punishment, penalty"
+        },
+        {
+          "role": "full",
+          "text": "punishment, penalty."
+        }
+      ]
+    },
+    {
+      "n": "τίνω | 5099",
+      "orth": "τίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I pay"
+        },
+        {
+          "role": "full",
+          "text": "I pay (penalty)."
+        }
+      ]
+    },
+    {
+      "n": "τις | 5100",
+      "orth": "τις, τι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "any one, some one"
+        },
+        {
+          "role": "full",
+          "text": "any one, some one, a certain one or thing."
+        }
+      ]
+    },
+    {
+      "n": "τίς | 5101",
+      "orth": "τίς, τί",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "who, which, what"
+        },
+        {
+          "role": "full",
+          "text": "who, which, what, why."
+        }
+      ]
+    },
+    {
+      "n": "τίτλος | 5102",
+      "orth": "τίτλος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a title, inscription"
+        },
+        {
+          "role": "full",
+          "text": "a title, inscription."
+        }
+      ]
+    },
+    {
+      "n": "Τίτος | 5103",
+      "orth": "Τίτος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Titus"
+        },
+        {
+          "role": "full",
+          "text": "Titus, a Greek Christian, helper of Paul, perhaps also brother of\n                  Luke."
+        }
+      ]
+    },
+    {
+      "n": "τοιγαροῦν | 5105",
+      "orth": "τοιγαροῦν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "consequently, therefore"
+        },
+        {
+          "role": "full",
+          "text": "consequently, therefore, well then, so then."
+        }
+      ]
+    },
+    {
+      "n": "τοίνυν | 5106",
+      "orth": "τοίνυν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "indeed now, therefore"
+        },
+        {
+          "role": "full",
+          "text": "indeed now, therefore, accordingly, well then."
+        }
+      ]
+    },
+    {
+      "n": "τοιόσδε | 5107",
+      "orth": "τοιόσδε, τοιάδε, τοιόνδε",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of this kind, such"
+        },
+        {
+          "role": "full",
+          "text": "of this kind, such, such as follows."
+        }
+      ]
+    },
+    {
+      "n": "τοιοῦτος | 5108",
+      "orth": "τοιοῦτος, τοιαύτη, τοιοῦτο",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of such a kind, such"
+        },
+        {
+          "role": "full",
+          "text": "of such a kind, such."
+        }
+      ]
+    },
+    {
+      "n": "τοῖχος | 5109",
+      "orth": "τοῖχος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a wall"
+        },
+        {
+          "role": "full",
+          "text": "a wall."
+        }
+      ]
+    },
+    {
+      "n": "τόκος | 5110",
+      "orth": "τόκος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "interest, usury"
+        },
+        {
+          "role": "full",
+          "text": "interest, usury."
+        }
+      ]
+    },
+    {
+      "n": "τολμάω | 5111",
+      "orth": "τολμάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I dare, endure, am bold"
+        },
+        {
+          "role": "full",
+          "text": "I dare, endure, am bold, have courage, make up the mind."
+        }
+      ]
+    },
+    {
+      "n": "τολμηρότερον | 5112",
+      "orth": "τολμηρότερον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "more boldly"
+        },
+        {
+          "role": "full",
+          "text": "more boldly, more freely, with more confidence."
+        }
+      ]
+    },
+    {
+      "n": "τολμητής | 5113",
+      "orth": "τολμητής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a daring, presumptuous man"
+        },
+        {
+          "role": "full",
+          "text": "a daring, bold man."
+        }
+      ]
+    },
+    {
+      "n": "τομώτερος | 5114",
+      "orth": "τομώτερος",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "sharper, keener"
+        },
+        {
+          "role": "full",
+          "text": "sharper, keener."
+        }
+      ]
+    },
+    {
+      "n": "τόξον | 5115",
+      "orth": "τόξον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a bow"
+        },
+        {
+          "role": "full",
+          "text": "a bow."
+        }
+      ]
+    },
+    {
+      "n": "τοπάζιον | 5116",
+      "orth": "τοπάζιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "topaz"
+        },
+        {
+          "role": "full",
+          "text": "topaz."
+        }
+      ]
+    },
+    {
+      "n": "τόπος | 5117",
+      "orth": "τόπος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a place"
+        },
+        {
+          "role": "full",
+          "text": "a place, region, seat; an opportunity."
+        }
+      ]
+    },
+    {
+      "n": "τοσοῦτος | 5118",
+      "orth": "τοσοῦτος, τοσαύτη, τοσοῦτο",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "so great"
+        },
+        {
+          "role": "full",
+          "text": "so great, so large, so long, so many."
+        }
+      ]
+    },
+    {
+      "n": "τότε | 5119",
+      "orth": "τότε",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "then"
+        },
+        {
+          "role": "full",
+          "text": "then, at that time."
+        }
+      ]
+    },
+    {
+      "n": "τοὐναντίον | 5121",
+      "orth": "τοὐναντίον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "on the contrary"
+        },
+        {
+          "role": "full",
+          "text": "on the contrary, on the other hand."
+        }
+      ]
+    },
+    {
+      "n": "τοὔνομα | 5122",
+      "orth": "τοὔνομα",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "by name"
+        },
+        {
+          "role": "full",
+          "text": "by name."
+        }
+      ]
+    },
+    {
+      "n": "τράγος | 5131",
+      "orth": "τράγος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a he-goat"
+        },
+        {
+          "role": "full",
+          "text": "a he-goat."
+        }
+      ]
+    },
+    {
+      "n": "τράπεζα | 5132",
+      "orth": "τράπεζα, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a table for food or business"
+        },
+        {
+          "role": "full",
+          "text": "a table, (a) for food or banqueting, (b) for money-changing or\n                  business."
+        }
+      ]
+    },
+    {
+      "n": "τραπεζίτης | 5133",
+      "orth": "τραπεζίτης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a money-changer, banker"
+        },
+        {
+          "role": "full",
+          "text": "a money-changer, banker."
+        }
+      ]
+    },
+    {
+      "n": "τραῦμα | 5134",
+      "orth": "τραῦμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a wound"
+        },
+        {
+          "role": "full",
+          "text": "a wound."
+        }
+      ]
+    },
+    {
+      "n": "τραυματίζω | 5135",
+      "orth": "τραυματίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I wound"
+        },
+        {
+          "role": "full",
+          "text": "I wound."
+        }
+      ]
+    },
+    {
+      "n": "τραχηλίζω | 5136",
+      "orth": "τραχηλίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am laid bare, laid open"
+        },
+        {
+          "role": "full",
+          "text": "I am laid bare, laid open."
+        }
+      ]
+    },
+    {
+      "n": "τράχηλος | 5137",
+      "orth": "τράχηλος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the neck"
+        },
+        {
+          "role": "full",
+          "text": "the neck."
+        }
+      ]
+    },
+    {
+      "n": "τραχύς | 5138",
+      "orth": "τραχύς, εῖα, ύ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "rough"
+        },
+        {
+          "role": "full",
+          "text": "rough, rugged, uneven."
+        }
+      ]
+    },
+    {
+      "n": "Τραχωνῖτις | 5139",
+      "orth": "Τραχωνῖτις, ιδος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Trachonitis"
+        },
+        {
+          "role": "full",
+          "text": "Trachonitis, the north-east of the territory beyond Jordan."
+        }
+      ]
+    },
+    {
+      "n": "τρεῖς | 5140",
+      "orth": "τρεῖς, τρία",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "three"
+        },
+        {
+          "role": "full",
+          "text": "three."
+        }
+      ]
+    },
+    {
+      "n": "τρέμω | 5141",
+      "orth": "τρέμω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I tremble, am afraid"
+        },
+        {
+          "role": "full",
+          "text": "I tremble, am afraid."
+        }
+      ]
+    },
+    {
+      "n": "τρέφω | 5142",
+      "orth": "τρέφω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I feed, rear"
+        },
+        {
+          "role": "full",
+          "text": "I feed, nourish; I bring up, rear, provide for."
+        }
+      ]
+    },
+    {
+      "n": "τρέχω | 5143",
+      "orth": "τρέχω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I run, exercise myself"
+        },
+        {
+          "role": "full",
+          "text": "I run, exercise myself, make progress."
+        }
+      ]
+    },
+    {
+      "n": "τριάκοντα | 5144",
+      "orth": "τριάκοντα, οἱ, αἱ, τά",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "thirty"
+        },
+        {
+          "role": "full",
+          "text": "thirty."
+        }
+      ]
+    },
+    {
+      "n": "τριακόσιοι | 5145",
+      "orth": "τριακόσιοι, αι, α",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "three hundred"
+        },
+        {
+          "role": "full",
+          "text": "three hundred."
+        }
+      ]
+    },
+    {
+      "n": "τρίβολος | 5146",
+      "orth": "τρίβολος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a thistle"
+        },
+        {
+          "role": "full",
+          "text": "a thistle."
+        }
+      ]
+    },
+    {
+      "n": "τρίβος | 5147",
+      "orth": "τρίβος, ου, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a worn path, beaten way"
+        },
+        {
+          "role": "full",
+          "text": "a worn path, beaten way, road, highway."
+        }
+      ]
+    },
+    {
+      "n": "τριετία | 5148",
+      "orth": "τριετία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a space of three years"
+        },
+        {
+          "role": "full",
+          "text": "a space of three years."
+        }
+      ]
+    },
+    {
+      "n": "τρίζω | 5149",
+      "orth": "τρίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I grate, gnash"
+        },
+        {
+          "role": "full",
+          "text": "I grate, gnash (as the teeth)."
+        }
+      ]
+    },
+    {
+      "n": "τρίμηνος | 5150",
+      "orth": "τρίμηνος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "lasting three months"
+        },
+        {
+          "role": "full",
+          "text": "lasting three months."
+        }
+      ]
+    },
+    {
+      "n": "τρίς | 5151",
+      "orth": "τρίς",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "three times"
+        },
+        {
+          "role": "full",
+          "text": "three times."
+        }
+      ]
+    },
+    {
+      "n": "τρίστεγος | 5152",
+      "orth": "τρίστεγος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "having three stories, the third story"
+        },
+        {
+          "role": "full",
+          "text": "having three stories; subst: the third story."
+        }
+      ]
+    },
+    {
+      "n": "τρισχίλιοι | 5153",
+      "orth": "τρισχίλιοι, αι, α",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "three thousand"
+        },
+        {
+          "role": "full",
+          "text": "three thousand."
+        }
+      ]
+    },
+    {
+      "n": "τρίτος | 5154",
+      "orth": "τρίτος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "third"
+        },
+        {
+          "role": "full",
+          "text": "third."
+        }
+      ]
+    },
+    {
+      "n": "τρίχινος | 5155",
+      "orth": "τρίχινος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "made of hair"
+        },
+        {
+          "role": "full",
+          "text": "made of hair."
+        }
+      ]
+    },
+    {
+      "n": "τρόμος | 5156",
+      "orth": "τρόμος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a trembling"
+        },
+        {
+          "role": "full",
+          "text": "a trembling, quaking, fear."
+        }
+      ]
+    },
+    {
+      "n": "τροπή | 5157",
+      "orth": "τροπή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a turning"
+        },
+        {
+          "role": "full",
+          "text": "a turning, change, mutation."
+        }
+      ]
+    },
+    {
+      "n": "τρόπος | 5158",
+      "orth": "τρόπος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "way, manner, character"
+        },
+        {
+          "role": "full",
+          "text": "(a) way, manner, (b) manner of life, character."
+        }
+      ]
+    },
+    {
+      "n": "τροποφορέω | 5159",
+      "orth": "τροποφορέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I endure the ways of"
+        },
+        {
+          "role": "full",
+          "text": "I endure the ways of, put up with."
+        }
+      ]
+    },
+    {
+      "n": "τροφή | 5160",
+      "orth": "τροφή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "food, nourishment"
+        },
+        {
+          "role": "full",
+          "text": "food, nourishment, maintenance."
+        }
+      ]
+    },
+    {
+      "n": "Τρόφιμος | 5161",
+      "orth": "Τρόφιμος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Trophimus"
+        },
+        {
+          "role": "full",
+          "text": "Trophimus, a Christian of Ephesus in Asia."
+        }
+      ]
+    },
+    {
+      "n": "τροφός | 5162",
+      "orth": "τροφός, οῦ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a nurse"
+        },
+        {
+          "role": "full",
+          "text": "a nurse."
+        }
+      ]
+    },
+    {
+      "n": "τροχιά | 5163",
+      "orth": "τροχιά, ᾶς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the track of a wheel, a path"
+        },
+        {
+          "role": "full",
+          "text": "the track of a wheel, a path."
+        }
+      ]
+    },
+    {
+      "n": "τροχός | 5164",
+      "orth": "τροχός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a wheel, course"
+        },
+        {
+          "role": "full",
+          "text": "a wheel, course."
+        }
+      ]
+    },
+    {
+      "n": "τρύβλιον | 5165",
+      "orth": "τρύβλιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a platter"
+        },
+        {
+          "role": "full",
+          "text": "a deep dish, platter, bowl."
+        }
+      ]
+    },
+    {
+      "n": "τρυγάω | 5166",
+      "orth": "τρυγάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I gather"
+        },
+        {
+          "role": "full",
+          "text": "I gather (as of grapes), harvest."
+        }
+      ]
+    },
+    {
+      "n": "τρυγών | 5167",
+      "orth": "τρυγών, όνος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a turtle-dove"
+        },
+        {
+          "role": "full",
+          "text": "a turtle-dove."
+        }
+      ]
+    },
+    {
+      "n": "τρυμαλιά | 5168",
+      "orth": "τρυμαλιά, ᾶς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the eye of a needle"
+        },
+        {
+          "role": "full",
+          "text": "the eye of a needle."
+        }
+      ]
+    },
+    {
+      "n": "τρύπημα | 5169",
+      "orth": "τρύπημα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a hole, the eye of a needle"
+        },
+        {
+          "role": "full",
+          "text": "a hole; the eye of a needle."
+        }
+      ]
+    },
+    {
+      "n": "Τρύφαινα | 5170",
+      "orth": "Τρύφαινα, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Tryphaena"
+        },
+        {
+          "role": "full",
+          "text": "Tryphaena, a Christian woman in Rome."
+        }
+      ]
+    },
+    {
+      "n": "τρυφάω | 5171",
+      "orth": "τρυφάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I live a luxurious life"
+        },
+        {
+          "role": "full",
+          "text": "I live a luxurious life, live self-indulgently."
+        }
+      ]
+    },
+    {
+      "n": "τρυφή | 5172",
+      "orth": "τρυφή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "effeminate luxury"
+        },
+        {
+          "role": "full",
+          "text": "effeminate luxury, softness, indulgent living."
+        }
+      ]
+    },
+    {
+      "n": "Τρυφῶσα | 5173",
+      "orth": "Τρυφῶσα, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Tryphosa"
+        },
+        {
+          "role": "full",
+          "text": "Tryphosa, a Christian woman in Rome, perhaps a sister of\n                  Tryphaena."
+        }
+      ]
+    },
+    {
+      "n": "Τρῳάς | 5174",
+      "orth": "Τρῳάς, άδος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Troas"
+        },
+        {
+          "role": "full",
+          "text": "Troas, a harbor city of Mysia."
+        }
+      ]
+    },
+    {
+      "n": "Τρωγύλλιον | 5175",
+      "orth": "Τρωγύλλιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Trogyllium"
+        },
+        {
+          "role": "full",
+          "text": "Trogyllium, a promontory somewhat to the south of Ephesus."
+        }
+      ]
+    },
+    {
+      "n": "τρώγω | 5176",
+      "orth": "τρώγω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I eat"
+        },
+        {
+          "role": "full",
+          "text": "I eat, partake of a meal."
+        }
+      ]
+    },
+    {
+      "n": "τυγχάνω | 5177",
+      "orth": "τυγχάνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I obtain, I happen, perhaps"
+        },
+        {
+          "role": "full",
+          "text": "(a) gen: I obtain, (b) absol: I chance, happen; ordinary, everyday, it\n                  may chance, perhaps."
+        }
+      ]
+    },
+    {
+      "n": "τυμπανίζω | 5178",
+      "orth": "τυμπανίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I torture, break on the wheel"
+        },
+        {
+          "role": "full",
+          "text": "I torture, break on the wheel, beat to death."
+        }
+      ]
+    },
+    {
+      "n": "τύπος | 5179",
+      "orth": "τύπος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a figure, model, type"
+        },
+        {
+          "role": "full",
+          "text": "(originally: the mark of a blow, then a stamp struck by a die), (a) a\n                  figure; a copy, image, (b) a pattern, model, (c) a type, prefiguring something or\n                  somebody."
+        }
+      ]
+    },
+    {
+      "n": "τύπτω | 5180",
+      "orth": "τύπτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I beat, strike, wound, inflict punishment"
+        },
+        {
+          "role": "full",
+          "text": "I beat, strike, wound, inflict punishment."
+        }
+      ]
+    },
+    {
+      "n": "Τύραννος | 5181",
+      "orth": "Τύραννος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Tyrannus"
+        },
+        {
+          "role": "full",
+          "text": "Tyrannus, an inhabitant of Ephesus, probably a rhetorician."
+        }
+      ]
+    },
+    {
+      "n": "τυρβάζω | 5182",
+      "orth": "τυρβάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I agitate or disturb in mind"
+        },
+        {
+          "role": "full",
+          "text": "I agitate or disturb in mind, trouble."
+        }
+      ]
+    },
+    {
+      "n": "Τύριος | 5183",
+      "orth": "Τύριος, ου, ὁ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an inhabitant of Tyre"
+        },
+        {
+          "role": "full",
+          "text": "a Tyrian, an inhabitant of Tyre."
+        }
+      ]
+    },
+    {
+      "n": "Τύρος | 5184",
+      "orth": "Τύρος, ου, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Tyre"
+        },
+        {
+          "role": "full",
+          "text": "Tyre, an ancient city, the capital of Phoenicia."
+        }
+      ]
+    },
+    {
+      "n": "τυφλός | 5185",
+      "orth": "τυφλός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "blind"
+        },
+        {
+          "role": "full",
+          "text": "blind, physically or mentally."
+        }
+      ]
+    },
+    {
+      "n": "τυφλόω | 5186",
+      "orth": "τυφλόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make blind"
+        },
+        {
+          "role": "full",
+          "text": "I make blind, physically or mentally."
+        }
+      ]
+    },
+    {
+      "n": "τυφόω | 5187",
+      "orth": "τυφόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I puff up, make haughty"
+        },
+        {
+          "role": "full",
+          "text": "I puff up, make haughty; pass: I am puffed up, am haughty."
+        }
+      ]
+    },
+    {
+      "n": "τύφω | 5188",
+      "orth": "τύφω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I raise smoke"
+        },
+        {
+          "role": "full",
+          "text": "I raise smoke, smolder."
+        }
+      ]
+    },
+    {
+      "n": "τυφωνικός | 5189",
+      "orth": "τυφωνικός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "violent, tempestuous"
+        },
+        {
+          "role": "full",
+          "text": "violent, tempestuous, stormy."
+        }
+      ]
+    },
+    {
+      "n": "Τυχικός | 5190",
+      "orth": "Τυχικός, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Tychicus"
+        },
+        {
+          "role": "full",
+          "text": "Tychicus, a Christian of the Roman province Asia."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3814 @@
+{
+  "letter": "μ",
+  "count": 272,
+  "entries": [
+    {
+      "n": "Μαάθ | 3092",
+      "orth": "Μαάθ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Maath"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), Maath, an ancestor of Jesus."
+        }
+      ]
+    },
+    {
+      "n": "Μαγδαλά | 3093",
+      "orth": "Μαγδαλά, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Magdala"
+        },
+        {
+          "role": "full",
+          "text": "Magdala, Magadan, a proper name."
+        }
+      ]
+    },
+    {
+      "n": "Μαγδαληνή | 3094",
+      "orth": "Μαγδαληνή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Magdalene"
+        },
+        {
+          "role": "full",
+          "text": "Magdalene, a woman of Magdala."
+        }
+      ]
+    },
+    {
+      "n": "μαγεία | 3095",
+      "orth": "μαγεία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "magic"
+        },
+        {
+          "role": "full",
+          "text": "magic."
+        }
+      ]
+    },
+    {
+      "n": "μαγεύω | 3096",
+      "orth": "μαγεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I practice sorcery or magic"
+        },
+        {
+          "role": "full",
+          "text": "I practice sorcery or magic."
+        }
+      ]
+    },
+    {
+      "n": "μάγος | 3097",
+      "orth": "μάγος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a sorcerer, magician, wizard"
+        },
+        {
+          "role": "full",
+          "text": "a sorcerer, a magician, a wizard."
+        }
+      ]
+    },
+    {
+      "n": "Μαγώγ | 3098",
+      "orth": "Μαγώγ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Magog"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), Magog, sometimes as name of a people, sometimes as name of a\n                  country in the Old Testament, probably the Scythians; hence: used in apocalyptic\n                  literature."
+        }
+      ]
+    },
+    {
+      "n": "Μαδιάμ | 3099",
+      "orth": "Μαδιάμ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Midian"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), Midian, generally taken to mean or to include the peninsula\n                  of Sinai."
+        }
+      ]
+    },
+    {
+      "n": "μαθητεύω | 3100",
+      "orth": "μαθητεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make disciples, make into disciples"
+        },
+        {
+          "role": "full",
+          "text": "I make a disciple of, train in discipleship; pass: I am trained,\n                  discipled, instructed."
+        }
+      ]
+    },
+    {
+      "n": "μαθητής | 3101",
+      "orth": "μαθητής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a learner, disciple, pupil"
+        },
+        {
+          "role": "full",
+          "text": "a learner, disciple, pupil."
+        }
+      ]
+    },
+    {
+      "n": "μαθήτρια | 3102",
+      "orth": "μαθήτρια, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a female disciple"
+        },
+        {
+          "role": "full",
+          "text": "a female disciple, female Christian."
+        }
+      ]
+    },
+    {
+      "n": "Μαθουσάλα | 3103",
+      "orth": "Μαθουσάλα, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Methuselah"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew) Methuselah, son of Enoch and father of Lamech."
+        }
+      ]
+    },
+    {
+      "n": "Μαϊνάν | 3104",
+      "orth": "Μαϊνάν, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Menna, Mainan"
+        },
+        {
+          "role": "full",
+          "text": "Menna, Mainan, a proper name."
+        }
+      ]
+    },
+    {
+      "n": "μαίνομαι | 3105",
+      "orth": "μαίνομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am raving mad"
+        },
+        {
+          "role": "full",
+          "text": "I am raving mad, speak as a madman."
+        }
+      ]
+    },
+    {
+      "n": "μακαρίζω | 3106",
+      "orth": "μακαρίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I deem happy"
+        },
+        {
+          "role": "full",
+          "text": "I bless, pronounce blessed or happy."
+        }
+      ]
+    },
+    {
+      "n": "μακάριος | 3107",
+      "orth": "μακάριος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "happy, blessed"
+        },
+        {
+          "role": "full",
+          "text": "happy, blessed, to be envied."
+        }
+      ]
+    },
+    {
+      "n": "μακαρισμός | 3108",
+      "orth": "μακαρισμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "regarding as happy, blessed, or enviable"
+        },
+        {
+          "role": "full",
+          "text": "regarding as happy, blessed, or enviable."
+        }
+      ]
+    },
+    {
+      "n": "Μακεδονία | 3109",
+      "orth": "Μακεδονία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Macedonia"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), Macedonia, a Roman province north of Achaia (Greece)."
+        }
+      ]
+    },
+    {
+      "n": "Μακεδών | 3110",
+      "orth": "Μακεδών, όνος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a Macedonian"
+        },
+        {
+          "role": "full",
+          "text": "a Macedonian, an inhabitant of the Roman province Macedonia."
+        }
+      ]
+    },
+    {
+      "n": "μάκελλον | 3111",
+      "orth": "μάκελλον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a meat-market"
+        },
+        {
+          "role": "full",
+          "text": "a meat-market, marketplace."
+        }
+      ]
+    },
+    {
+      "n": "μακράν | 3112",
+      "orth": "μακράν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "far away"
+        },
+        {
+          "role": "full",
+          "text": "at a distance, far away, remote, alien."
+        }
+      ]
+    },
+    {
+      "n": "μακρόθεν | 3113",
+      "orth": "μακρόθεν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "from a distance"
+        },
+        {
+          "role": "full",
+          "text": "from a (long) distance, afar."
+        }
+      ]
+    },
+    {
+      "n": "μακροθυμέω | 3114",
+      "orth": "μακροθυμέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I suffer long, have patience, am forbearing"
+        },
+        {
+          "role": "full",
+          "text": "I suffer long, have patience, am forbearing, perseverance."
+        }
+      ]
+    },
+    {
+      "n": "μακροθυμία | 3115",
+      "orth": "μακροθυμία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "patience, forbearance"
+        },
+        {
+          "role": "full",
+          "text": "patience, forbearance, longsuffering."
+        }
+      ]
+    },
+    {
+      "n": "μακροθύμως | 3116",
+      "orth": "μακροθύμως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "patiently"
+        },
+        {
+          "role": "full",
+          "text": "with longsuffering, patiently."
+        }
+      ]
+    },
+    {
+      "n": "μακρός | 3117",
+      "orth": "μακρός, ά, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "long, distant"
+        },
+        {
+          "role": "full",
+          "text": "long, distant, far; of long duration."
+        }
+      ]
+    },
+    {
+      "n": "μακροχρόνιος | 3118",
+      "orth": "μακροχρόνιος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "long-lived"
+        },
+        {
+          "role": "full",
+          "text": "long-timed, long-lived."
+        }
+      ]
+    },
+    {
+      "n": "μαλακία | 3119",
+      "orth": "μαλακία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "weakness, illness"
+        },
+        {
+          "role": "full",
+          "text": "weakness, illness, sickness."
+        }
+      ]
+    },
+    {
+      "n": "μαλακός | 3120",
+      "orth": "μαλακός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "soft, effeminate"
+        },
+        {
+          "role": "full",
+          "text": "(a) soft, (b) of persons: soft, delicate, effeminate."
+        }
+      ]
+    },
+    {
+      "n": "Μαλελεήλ | 3121",
+      "orth": "Μαλελεήλ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Mahalaleel, Maleleel"
+        },
+        {
+          "role": "full",
+          "text": "Mahalaleel or Maleleel, one of the ancestors of Jesus."
+        }
+      ]
+    },
+    {
+      "n": "μάλιστα | 3122",
+      "orth": "μάλιστα",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "most of all, especially"
+        },
+        {
+          "role": "full",
+          "text": "most of all, especially."
+        }
+      ]
+    },
+    {
+      "n": "μᾶλλον | 3123",
+      "orth": "μᾶλλον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "more, rather"
+        },
+        {
+          "role": "full",
+          "text": "more, rather."
+        }
+      ]
+    },
+    {
+      "n": "Μάλχος | 3124",
+      "orth": "Μάλχος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Malchus"
+        },
+        {
+          "role": "full",
+          "text": "Malchus, a servant of the high-priest at Jerusalem."
+        }
+      ]
+    },
+    {
+      "n": "μάμμη | 3125",
+      "orth": "μάμμη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a grandmother"
+        },
+        {
+          "role": "full",
+          "text": "a grandmother."
+        }
+      ]
+    },
+    {
+      "n": "μαμωνᾶς | 3126",
+      "orth": "μαμωνᾶς, ᾶ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "riches, money, possessions"
+        },
+        {
+          "role": "full",
+          "text": "(Aramaic), riches, money, possessions, property."
+        }
+      ]
+    },
+    {
+      "n": "Μαναήν | 3127",
+      "orth": "Μαναήν, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Manaen"
+        },
+        {
+          "role": "full",
+          "text": "(Graecized form of Aramaic Menahem), Manaen, probably a member of Herod\n                  Antipas' court."
+        }
+      ]
+    },
+    {
+      "n": "Μανασσῆς | 3128",
+      "orth": "Μανασσῆς, ῆ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Manasseh"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), Manasseh, (a) son of Joseph, founder of a tribe of Israel,\n                  (b) son of Hezekiah and father of Amon (Amos)."
+        }
+      ]
+    },
+    {
+      "n": "μανθάνω | 3129",
+      "orth": "μανθάνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I learn, ascertain"
+        },
+        {
+          "role": "full",
+          "text": "I learn; with adj. or nouns: I learn to be so and so; with acc. of\n                  person who is the object of knowledge; aor. sometimes: to ascertain."
+        }
+      ]
+    },
+    {
+      "n": "μανία | 3130",
+      "orth": "μανία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "raving madness"
+        },
+        {
+          "role": "full",
+          "text": "raving madness, frenzy, insanity."
+        }
+      ]
+    },
+    {
+      "n": "μάννα | 3131",
+      "orth": "μάννα, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "manna"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), manna, the supernatural food eaten by the Israelites in the\n                  desert: of spiritual food."
+        }
+      ]
+    },
+    {
+      "n": "μαντεύομαι | 3132",
+      "orth": "μαντεύομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I practice soothsaying"
+        },
+        {
+          "role": "full",
+          "text": "I divine, practice soothsaying, suggesting the fraud involved in the\n                  practice."
+        }
+      ]
+    },
+    {
+      "n": "μαραίνω | 3133",
+      "orth": "μαραίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I die, wither"
+        },
+        {
+          "role": "full",
+          "text": "pass: I die, wither (like the grass)."
+        }
+      ]
+    },
+    {
+      "n": "μαρὰν ἀθά | 3134",
+      "orth": "μαρὰν ἀθά",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "our Lord cometh"
+        },
+        {
+          "role": "full",
+          "text": "(Aramaic), either: Our Lord hath come, or: Our Lord cometh (will come,\n                  is at hand)."
+        }
+      ]
+    },
+    {
+      "n": "μαργαρίτης | 3135",
+      "orth": "μαργαρίτης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a pearl"
+        },
+        {
+          "role": "full",
+          "text": "a pearl."
+        }
+      ]
+    },
+    {
+      "n": "Μάρθα | 3136",
+      "orth": "Μάρθα, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Martha"
+        },
+        {
+          "role": "full",
+          "text": "Martha, sister of Mary and Lazarus of Bethany."
+        }
+      ]
+    },
+    {
+      "n": "Μαρία | 3137",
+      "orth": "Μαρία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Mary, Miriam"
+        },
+        {
+          "role": "full",
+          "text": "Mary, Miriam, (a) the mother of Jesus, (b) of Magdala, (c) sister of\n                  Martha and Lazarus, (d) wife of Cleopas, (e) mother of John Mark, (f) a Christian\n                  woman in Rome."
+        }
+      ]
+    },
+    {
+      "n": "Μάρκος | 3138",
+      "orth": "Μάρκος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Mark"
+        },
+        {
+          "role": "full",
+          "text": "Mark, who also had the Hebrew name John, son of Mary, nephew of\n                  Barnabas, coadjutor of Barnabas, Paul, and Peter."
+        }
+      ]
+    },
+    {
+      "n": "μάρμαρος | 3139",
+      "orth": "μάρμαρος, ου, ὁ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "marble"
+        },
+        {
+          "role": "full",
+          "text": "marble."
+        }
+      ]
+    },
+    {
+      "n": "μαρτυρέω | 3140",
+      "orth": "μαρτυρέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I witness, testify"
+        },
+        {
+          "role": "full",
+          "text": "I witness, bear witness, give evidence, testify, give a good\n                  report."
+        }
+      ]
+    },
+    {
+      "n": "μαρτυρία | 3141",
+      "orth": "μαρτυρία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "witness, evidence, testimony"
+        },
+        {
+          "role": "full",
+          "text": "witness, evidence, testimony, reputation."
+        }
+      ]
+    },
+    {
+      "n": "μαρτύριον | 3142",
+      "orth": "μαρτύριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "witness, evidence, testimony"
+        },
+        {
+          "role": "full",
+          "text": "witness, evidence, testimony, proof."
+        }
+      ]
+    },
+    {
+      "n": "μαρτύρομαι | 3143",
+      "orth": "μαρτύρομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I call to witness, testify, solemnly charge"
+        },
+        {
+          "role": "full",
+          "text": "(properly: I call (summon) to witness, and then absolutely) I testify,\n                  protest, asseverate; I conjure, solemnly charge."
+        }
+      ]
+    },
+    {
+      "n": "μάρτυς | 3144",
+      "orth": "μάρτυς, υρος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a witness"
+        },
+        {
+          "role": "full",
+          "text": "a witness; an eye- or ear-witness."
+        }
+      ]
+    },
+    {
+      "n": "μασσάομαι | 3145",
+      "orth": "μασσάομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bite, gnaw"
+        },
+        {
+          "role": "full",
+          "text": "I bite, gnaw, chew."
+        }
+      ]
+    },
+    {
+      "n": "μαστιγόω | 3146",
+      "orth": "μαστιγόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I flog, scourge"
+        },
+        {
+          "role": "full",
+          "text": "I flog, scourge, the victim being strapped to a pole or frame; met: I\n                  chastise."
+        }
+      ]
+    },
+    {
+      "n": "μαστίζω | 3147",
+      "orth": "μαστίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I flog, scourge"
+        },
+        {
+          "role": "full",
+          "text": "I flog, scourge, whip."
+        }
+      ]
+    },
+    {
+      "n": "μάστιξ | 3148",
+      "orth": "μάστιξ, ιγος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a scourge, lash, sufferings"
+        },
+        {
+          "role": "full",
+          "text": "(a) a scourge, lash, of leathern thongs with pieces of metal sewn up in\n                  them, (b) met: severe pains (sufferings), disease."
+        }
+      ]
+    },
+    {
+      "n": "μαστός | 3149",
+      "orth": "μαστός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a breast, pap"
+        },
+        {
+          "role": "full",
+          "text": "the breast, pap."
+        }
+      ]
+    },
+    {
+      "n": "ματαιολογία | 3150",
+      "orth": "ματαιολογία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "foolish talking"
+        },
+        {
+          "role": "full",
+          "text": "vain speaking, foolish talking."
+        }
+      ]
+    },
+    {
+      "n": "ματαιολόγος | 3151",
+      "orth": "ματαιολόγος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a vain, empty talker"
+        },
+        {
+          "role": "full",
+          "text": "a vain, empty talker."
+        }
+      ]
+    },
+    {
+      "n": "μάταιος | 3152",
+      "orth": "μάταιος, αία, αιον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "vain, unproductive, godless"
+        },
+        {
+          "role": "full",
+          "text": "vain, unreal, ineffectual, unproductive; practically: godless."
+        }
+      ]
+    },
+    {
+      "n": "ματαιότης | 3153",
+      "orth": "ματαιότης, τητος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "vanity, purposelessness"
+        },
+        {
+          "role": "full",
+          "text": "vanity, emptiness, unreality, purposelessness, ineffectiveness,\n                  instability, frailty; false religion."
+        }
+      ]
+    },
+    {
+      "n": "ματαιόω | 3154",
+      "orth": "ματαιόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I become vain"
+        },
+        {
+          "role": "full",
+          "text": "I become vain or foolish, am perverted."
+        }
+      ]
+    },
+    {
+      "n": "μάτην | 3155",
+      "orth": "μάτην",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "in vain"
+        },
+        {
+          "role": "full",
+          "text": "in vain, in an unreal way, to no purpose."
+        }
+      ]
+    },
+    {
+      "n": "Ματθαῖος | 3156",
+      "orth": "Ματθαῖος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Matthew"
+        },
+        {
+          "role": "full",
+          "text": "Matthew."
+        }
+      ]
+    },
+    {
+      "n": "Ματθάν | 3157",
+      "orth": "Ματθάν, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Matthan"
+        },
+        {
+          "role": "full",
+          "text": "Matthan."
+        }
+      ]
+    },
+    {
+      "n": "Ματθάτ | 3158",
+      "orth": "Ματθάτ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Matthat"
+        },
+        {
+          "role": "full",
+          "text": "Matthat, an ancestor of Jesus."
+        }
+      ]
+    },
+    {
+      "n": "Ματθίας | 3159",
+      "orth": "Ματθίας, α, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Matthias"
+        },
+        {
+          "role": "full",
+          "text": "Matthias."
+        }
+      ]
+    },
+    {
+      "n": "Ματταθά | 3160",
+      "orth": "Ματταθά, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Mattatha"
+        },
+        {
+          "role": "full",
+          "text": "Mattatha."
+        }
+      ]
+    },
+    {
+      "n": "Ματταθίας | 3161",
+      "orth": "Ματταθίας, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Mattathias"
+        },
+        {
+          "role": "full",
+          "text": "Mattathias, an ancestor of Jesus."
+        }
+      ]
+    },
+    {
+      "n": "μάχαιρα | 3162",
+      "orth": "μάχαιρα, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a sword"
+        },
+        {
+          "role": "full",
+          "text": "a sword."
+        }
+      ]
+    },
+    {
+      "n": "μάχη | 3163",
+      "orth": "μάχη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "strife, contention, quarrel"
+        },
+        {
+          "role": "full",
+          "text": "(earlier: a battle, conflict, hence) in the sphere of words, etc:\n                  strife, contention, quarrel."
+        }
+      ]
+    },
+    {
+      "n": "μάχομαι | 3164",
+      "orth": "μάχομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I engage in battle, fight, strive"
+        },
+        {
+          "role": "full",
+          "text": "I engage in battle, fight; hence: I strive, contend, dispute."
+        }
+      ]
+    },
+    {
+      "n": "μεγαλαυχέω | 3166",
+      "orth": "μεγαλαυχέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I boast, am arrogant, vaunt"
+        },
+        {
+          "role": "full",
+          "text": "I boast, am arrogant, vaunt."
+        }
+      ]
+    },
+    {
+      "n": "μεγαλεῖος | 3167",
+      "orth": "μεγαλεῖος, εία, εῖον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "grand, magnificent"
+        },
+        {
+          "role": "full",
+          "text": "grand, magnificent, splendid."
+        }
+      ]
+    },
+    {
+      "n": "μεγαλειότης | 3168",
+      "orth": "μεγαλειότης, τητος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "majesty"
+        },
+        {
+          "role": "full",
+          "text": "(divine) majesty or magnificence, glory."
+        }
+      ]
+    },
+    {
+      "n": "μεγαλοπρεπής | 3169",
+      "orth": "μεγαλοπρεπής, ές",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "magnificent, superb, transcendent"
+        },
+        {
+          "role": "full",
+          "text": "magnificent, superb, transcendent, majestic."
+        }
+      ]
+    },
+    {
+      "n": "μεγαλύνω | 3170",
+      "orth": "μεγαλύνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I enlarge, magnify, extol"
+        },
+        {
+          "role": "full",
+          "text": "(a) I enlarge, lengthen, (b) I increase, magnify, extol."
+        }
+      ]
+    },
+    {
+      "n": "μεγάλως | 3171",
+      "orth": "μεγάλως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "greatly"
+        },
+        {
+          "role": "full",
+          "text": "greatly, very much, vehemently."
+        }
+      ]
+    },
+    {
+      "n": "μεγαλωσύνη | 3172",
+      "orth": "μεγαλωσύνη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "majesty"
+        },
+        {
+          "role": "full",
+          "text": "(divine) majesty, greatness."
+        }
+      ]
+    },
+    {
+      "n": "μέγας | 3173",
+      "orth": "μέγας, μεγάλη, μέγα",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "large, great"
+        },
+        {
+          "role": "full",
+          "text": "large, great, in the widest sense."
+        }
+      ]
+    },
+    {
+      "n": "μέγεθος | 3174",
+      "orth": "μέγεθος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "greatness, vastness"
+        },
+        {
+          "role": "full",
+          "text": "greatness, vastness."
+        }
+      ]
+    },
+    {
+      "n": "μεγιστάν | 3175",
+      "orth": "μεγιστάν, ᾶνος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a great one, a lord"
+        },
+        {
+          "role": "full",
+          "text": "a great one, a lord; a courtier, satrap, nobleman."
+        }
+      ]
+    },
+    {
+      "n": "μεθερμηνεύω | 3177",
+      "orth": "μεθερμηνεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I translate, interpret"
+        },
+        {
+          "role": "full",
+          "text": "I translate (from one language into another), interpret."
+        }
+      ]
+    },
+    {
+      "n": "μέθη | 3178",
+      "orth": "μέθη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "drunkenness"
+        },
+        {
+          "role": "full",
+          "text": "deep drinking, drunkenness."
+        }
+      ]
+    },
+    {
+      "n": "μεθίστημι | 3179",
+      "orth": "μεθίστημι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I move out of its place, transfer"
+        },
+        {
+          "role": "full",
+          "text": "I cause to change its place, move out of its place; I translate,\n                  transfer, remove."
+        }
+      ]
+    },
+    {
+      "n": "μεθοδεία | 3180",
+      "orth": "μεθοδεία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "scheming, craftiness"
+        },
+        {
+          "role": "full",
+          "text": "(a way of search after something, an inquiry; a method), scheming,\n                  craftiness, deceit."
+        }
+      ]
+    },
+    {
+      "n": "μεθόριον | 3181",
+      "orth": "μεθόριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "confine, border"
+        },
+        {
+          "role": "full",
+          "text": "confine, border, boundary."
+        }
+      ]
+    },
+    {
+      "n": "μεθύσκω | 3182",
+      "orth": "μεθύσκω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make drunk"
+        },
+        {
+          "role": "full",
+          "text": "I make drunk; pass: I become drunk."
+        }
+      ]
+    },
+    {
+      "n": "μέθυσος | 3183",
+      "orth": "μέθυσος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a drunkard"
+        },
+        {
+          "role": "full",
+          "text": "a drunkard."
+        }
+      ]
+    },
+    {
+      "n": "μεθύω | 3184",
+      "orth": "μεθύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am drunk"
+        },
+        {
+          "role": "full",
+          "text": "I am intoxicated with wine, am drunk."
+        }
+      ]
+    },
+    {
+      "n": "μεῖζον | 3185",
+      "orth": "μεῖζον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "greater, greatest"
+        },
+        {
+          "role": "full",
+          "text": "greater, greatest."
+        }
+      ]
+    },
+    {
+      "n": "μειζότερος | 3186",
+      "orth": "μειζότερος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "greater"
+        },
+        {
+          "role": "full",
+          "text": "greater."
+        }
+      ]
+    },
+    {
+      "n": "μείζων | 3187",
+      "orth": "μείζων",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "greater, greatest"
+        },
+        {
+          "role": "full",
+          "text": "greater, greatest."
+        }
+      ]
+    },
+    {
+      "n": "μέλαν | 3188",
+      "orth": "μέλαν, ανος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "ink"
+        },
+        {
+          "role": "full",
+          "text": "ink."
+        }
+      ]
+    },
+    {
+      "n": "μέλας | 3189",
+      "orth": "μέλας, αινα, αν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "black"
+        },
+        {
+          "role": "full",
+          "text": "black."
+        }
+      ]
+    },
+    {
+      "n": "Μελεᾶς | 3190",
+      "orth": "Μελεᾶς, ᾶ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Melea"
+        },
+        {
+          "role": "full",
+          "text": "Melea, one of the ancestors of Jesus."
+        }
+      ]
+    },
+    {
+      "n": "μελετάω | 3191",
+      "orth": "μελετάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I devise, plan"
+        },
+        {
+          "role": "full",
+          "text": "I devise, plan; practice, exercise myself in, study, ponder."
+        }
+      ]
+    },
+    {
+      "n": "μέλι | 3192",
+      "orth": "μέλι, ιτος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "honey"
+        },
+        {
+          "role": "full",
+          "text": "honey."
+        }
+      ]
+    },
+    {
+      "n": "μελίσσιος | 3193",
+      "orth": "μελίσσιος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "coming from bees"
+        },
+        {
+          "role": "full",
+          "text": "belonging to bees, coming from bees."
+        }
+      ]
+    },
+    {
+      "n": "Μελίτη | 3194",
+      "orth": "Μελίτη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Melita, Malta"
+        },
+        {
+          "role": "full",
+          "text": "Melita, now Malta."
+        }
+      ]
+    },
+    {
+      "n": "μέλλω | 3195",
+      "orth": "μέλλω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am about to"
+        },
+        {
+          "role": "full",
+          "text": "I intend, am about to; I delay, linger."
+        }
+      ]
+    },
+    {
+      "n": "μέλος | 3196",
+      "orth": "μέλος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a limb, member"
+        },
+        {
+          "role": "full",
+          "text": "a bodily organ, limb, member."
+        }
+      ]
+    },
+    {
+      "n": "Μελχί | 3197",
+      "orth": "Μελχί, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Melchi"
+        },
+        {
+          "role": "full",
+          "text": "Melchi, one of the ancestors of Jesus."
+        }
+      ]
+    },
+    {
+      "n": "Μελχισεδέκ | 3198",
+      "orth": "Μελχισεδέκ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Melchizedek"
+        },
+        {
+          "role": "full",
+          "text": "Melchizedek, king and priest of Salem."
+        }
+      ]
+    },
+    {
+      "n": "μέλει | 3199",
+      "orth": "μέλει",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "it is a care, it concerns"
+        },
+        {
+          "role": "full",
+          "text": "it is a care, it is an object of anxiety, it concerns."
+        }
+      ]
+    },
+    {
+      "n": "μεμβράνα | 3200",
+      "orth": "μεμβράνα, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a parchment leaf"
+        },
+        {
+          "role": "full",
+          "text": "a parchment leaf, perhaps for notes."
+        }
+      ]
+    },
+    {
+      "n": "μέμφομαι | 3201",
+      "orth": "μέμφομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I blame, censure"
+        },
+        {
+          "role": "full",
+          "text": "I blame, censure, find fault."
+        }
+      ]
+    },
+    {
+      "n": "μεμψίμοιρος | 3202",
+      "orth": "μεμψίμοιρος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "discontented, complaining"
+        },
+        {
+          "role": "full",
+          "text": "blaming one's lot or destiny, discontented, complaining."
+        }
+      ]
+    },
+    {
+      "n": "μέν | 3303",
+      "orth": "μέν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "truly, indeed"
+        },
+        {
+          "role": "full",
+          "text": "an untranslatable particle, generally answered by \"de\", each of the two\n                  introducing a clause intended to be contrasted with the other."
+        }
+      ]
+    },
+    {
+      "n": "μενοῦνγε | 3304",
+      "orth": "μενοῦνγε",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "nay rather"
+        },
+        {
+          "role": "full",
+          "text": "nay rather; indeed, truly, really."
+        }
+      ]
+    },
+    {
+      "n": "μέντοι | 3305",
+      "orth": "μέντοι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "indeed, yet, however"
+        },
+        {
+          "role": "full",
+          "text": "(a) indeed, really, (b) yet, however, nevertheless."
+        }
+      ]
+    },
+    {
+      "n": "μένω | 3306",
+      "orth": "μένω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I remain, abide"
+        },
+        {
+          "role": "full",
+          "text": "I remain, abide, stay, wait; with acc: I wait for, await."
+        }
+      ]
+    },
+    {
+      "n": "μερίζω | 3307",
+      "orth": "μερίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I divide, part, share"
+        },
+        {
+          "role": "full",
+          "text": "I divide into parts, divide, part, share, distribute; mid: I share,\n                  take part in a partitioning; I distract."
+        }
+      ]
+    },
+    {
+      "n": "μέριμνα | 3308",
+      "orth": "μέριμνα, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "care, worry, anxiety"
+        },
+        {
+          "role": "full",
+          "text": "care, worry, anxiety."
+        }
+      ]
+    },
+    {
+      "n": "μεριμνάω | 3309",
+      "orth": "μεριμνάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am anxious, distracted"
+        },
+        {
+          "role": "full",
+          "text": "I am over-anxious; with acc: I am anxious about, distracted; I care\n                  for."
+        }
+      ]
+    },
+    {
+      "n": "μερίς | 3310",
+      "orth": "μερίς, ίδος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a part, portion"
+        },
+        {
+          "role": "full",
+          "text": "(a) a part, division of a country, (b) a share, portion."
+        }
+      ]
+    },
+    {
+      "n": "μερισμός | 3311",
+      "orth": "μερισμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a distribution, separation"
+        },
+        {
+          "role": "full",
+          "text": "(a) a distributing, a distribution, (b) a parting, dividing, severance,\n                  separation."
+        }
+      ]
+    },
+    {
+      "n": "μεριστής | 3312",
+      "orth": "μεριστής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a divider, distributor"
+        },
+        {
+          "role": "full",
+          "text": "a divider, partitioner, distributor."
+        }
+      ]
+    },
+    {
+      "n": "μέρος | 3313",
+      "orth": "μέρος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a part, portion"
+        },
+        {
+          "role": "full",
+          "text": "a part, portion, share."
+        }
+      ]
+    },
+    {
+      "n": "μεσημβρία | 3314",
+      "orth": "μεσημβρία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the South"
+        },
+        {
+          "role": "full",
+          "text": "(lit: midday, hence, the position of the sun at midday), the\n                  South."
+        }
+      ]
+    },
+    {
+      "n": "μεσιτεύω | 3315",
+      "orth": "μεσιτεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I mediate, interpose"
+        },
+        {
+          "role": "full",
+          "text": "I mediate, interpose, give bail."
+        }
+      ]
+    },
+    {
+      "n": "μεσίτης | 3316",
+      "orth": "μεσίτης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a mediator, go-between"
+        },
+        {
+          "role": "full",
+          "text": "(a) a mediator, intermediary, (b) a go-between, arbiter, agent of\n                  something good."
+        }
+      ]
+    },
+    {
+      "n": "μεσονύκτιον | 3317",
+      "orth": "μεσονύκτιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "midnight"
+        },
+        {
+          "role": "full",
+          "text": "midnight, the middle of the period between sunset and sunrise."
+        }
+      ]
+    },
+    {
+      "n": "Μεσοποταμία | 3318",
+      "orth": "Μεσοποταμία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Mesopotamia"
+        },
+        {
+          "role": "full",
+          "text": "Mesopotamia, the Country between the (two) Rivers, i.e. the Euphrates\n                  and the Tigris."
+        }
+      ]
+    },
+    {
+      "n": "μέσος | 3319",
+      "orth": "μέσος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "middle, in the middle"
+        },
+        {
+          "role": "full",
+          "text": "middle, in the middle, between, in the midst of."
+        }
+      ]
+    },
+    {
+      "n": "μεσότοιχον | 3320",
+      "orth": "μεσότοιχον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a middle wall, partition wall"
+        },
+        {
+          "role": "full",
+          "text": "a middle wall, partition wall, barrier."
+        }
+      ]
+    },
+    {
+      "n": "μεσουράνημα | 3321",
+      "orth": "μεσουράνημα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the middle of heaven"
+        },
+        {
+          "role": "full",
+          "text": "mid-heaven, the middle of heaven, the zenith."
+        }
+      ]
+    },
+    {
+      "n": "μεσόω | 3322",
+      "orth": "μεσόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am in the middle"
+        },
+        {
+          "role": "full",
+          "text": "I am in the middle, am advanced midway."
+        }
+      ]
+    },
+    {
+      "n": "Μεσσίας | 3323",
+      "orth": "Μεσσίας, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Messiah"
+        },
+        {
+          "role": "full",
+          "text": "Messiah, the Anointed One."
+        }
+      ]
+    },
+    {
+      "n": "μεστός | 3324",
+      "orth": "μεστός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "full"
+        },
+        {
+          "role": "full",
+          "text": "full, filled with."
+        }
+      ]
+    },
+    {
+      "n": "μεστόω | 3325",
+      "orth": "μεστόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I fill"
+        },
+        {
+          "role": "full",
+          "text": "I fill."
+        }
+      ]
+    },
+    {
+      "n": "μετά | 3326",
+      "orth": "μετά",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "with, after"
+        },
+        {
+          "role": "full",
+          "text": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of\n                  place, (2) after, of time, with nouns, neut. of adjectives."
+        }
+      ]
+    },
+    {
+      "n": "μεταβαίνω | 3327",
+      "orth": "μεταβαίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I leave, depart, remove, pass over"
+        },
+        {
+          "role": "full",
+          "text": "I change my place (abode), leave, depart, remove, pass over."
+        }
+      ]
+    },
+    {
+      "n": "μεταβάλλω | 3328",
+      "orth": "μεταβάλλω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I change, change my mind"
+        },
+        {
+          "role": "full",
+          "text": "I change; mid: I change my mind."
+        }
+      ]
+    },
+    {
+      "n": "μετάγω | 3329",
+      "orth": "μετάγω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I turn about, change the position of"
+        },
+        {
+          "role": "full",
+          "text": "(usually: transfer, transport, and met: to a better mind), I turn\n                  about, change the position of; pass: I am brought back."
+        }
+      ]
+    },
+    {
+      "n": "μεταδίδωμι | 3330",
+      "orth": "μεταδίδωμι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I share, impart"
+        },
+        {
+          "role": "full",
+          "text": "(lit: I offer by way of change, offer so that a change of owner is\n                  produced), I share; sometimes merely: I impart, bestow."
+        }
+      ]
+    },
+    {
+      "n": "μετάθεσις | 3331",
+      "orth": "μετάθεσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "change, transformation, removal"
+        },
+        {
+          "role": "full",
+          "text": "(a) change, transformation, (b) removal."
+        }
+      ]
+    },
+    {
+      "n": "μεταίρω | 3332",
+      "orth": "μεταίρω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I change my position, depart, remove"
+        },
+        {
+          "role": "full",
+          "text": "I change my position, depart, remove."
+        }
+      ]
+    },
+    {
+      "n": "μετακαλέω | 3333",
+      "orth": "μετακαλέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I send for"
+        },
+        {
+          "role": "full",
+          "text": "mid: I summon to myself, send for."
+        }
+      ]
+    },
+    {
+      "n": "μετακινέω | 3334",
+      "orth": "μετακινέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I move away, dislodge"
+        },
+        {
+          "role": "full",
+          "text": "trans: I move away, dislodge, remove."
+        }
+      ]
+    },
+    {
+      "n": "μεταλαμβάνω | 3335",
+      "orth": "μεταλαμβάνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I share in, partake of"
+        },
+        {
+          "role": "full",
+          "text": "(a) with gen: I take a share (part) of, share in, partake of, (b) with\n                  acc: I take after (later) or take instead."
+        }
+      ]
+    },
+    {
+      "n": "μετάληψις | 3336",
+      "orth": "μετάληψις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "participation, sharing in"
+        },
+        {
+          "role": "full",
+          "text": "participation, sharing in, receiving."
+        }
+      ]
+    },
+    {
+      "n": "μεταλλάσσω | 3337",
+      "orth": "μεταλλάσσω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I change, transform, alter"
+        },
+        {
+          "role": "full",
+          "text": "I change, transform, alter, exchange."
+        }
+      ]
+    },
+    {
+      "n": "μεταμέλομαι | 3338",
+      "orth": "μεταμέλομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I change my mind"
+        },
+        {
+          "role": "full",
+          "text": "(lit: I change one care or interest for another), I change my mind\n                  (generally for the better), repent, regret."
+        }
+      ]
+    },
+    {
+      "n": "μεταμορφόω | 3339",
+      "orth": "μεταμορφόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I change the form, transform"
+        },
+        {
+          "role": "full",
+          "text": "I transform, transfigure."
+        }
+      ]
+    },
+    {
+      "n": "μετανοέω | 3340",
+      "orth": "μετανοέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I repent, change my mind"
+        },
+        {
+          "role": "full",
+          "text": "I repent, change my mind, change the inner man (particularly with\n                  reference to acceptance of the will of God), repent."
+        }
+      ]
+    },
+    {
+      "n": "μετάνοια | 3341",
+      "orth": "μετάνοια, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "repentance, a change of mind"
+        },
+        {
+          "role": "full",
+          "text": "repentance, a change of mind, change in the inner man."
+        }
+      ]
+    },
+    {
+      "n": "μεταξύ | 3342",
+      "orth": "μεταξύ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "meanwhile, afterwards, between"
+        },
+        {
+          "role": "full",
+          "text": "meanwhile, afterwards, between."
+        }
+      ]
+    },
+    {
+      "n": "μεταπέμπω | 3343",
+      "orth": "μεταπέμπω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I send for, summon"
+        },
+        {
+          "role": "full",
+          "text": "I send for, summon."
+        }
+      ]
+    },
+    {
+      "n": "μεταστρέφω | 3344",
+      "orth": "μεταστρέφω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I turn, change, corrupt, pervert"
+        },
+        {
+          "role": "full",
+          "text": "I turn, change, corrupt, pervert."
+        }
+      ]
+    },
+    {
+      "n": "μετασχηματίζω | 3345",
+      "orth": "μετασχηματίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I change the outward appearance, transfigure, adapt"
+        },
+        {
+          "role": "full",
+          "text": "I change the outward appearance (the dress, the form of presentment) of\n                  something, transfigure; I adapt."
+        }
+      ]
+    },
+    {
+      "n": "μετατίθημι | 3346",
+      "orth": "μετατίθημι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I transfer, desert, change"
+        },
+        {
+          "role": "full",
+          "text": "(a) I transfer, mid: I go over to another party, desert, (b) I\n                  change."
+        }
+      ]
+    },
+    {
+      "n": "μετέπειτα | 3347",
+      "orth": "μετέπειτα",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "afterwards"
+        },
+        {
+          "role": "full",
+          "text": "afterwards."
+        }
+      ]
+    },
+    {
+      "n": "μετέχω | 3348",
+      "orth": "μετέχω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I participate in, share"
+        },
+        {
+          "role": "full",
+          "text": "I have a share of, participate in, share, partake of, am a member\n                  of."
+        }
+      ]
+    },
+    {
+      "n": "μετεωρίζομαι | 3349",
+      "orth": "μετεωρίζομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am anxious"
+        },
+        {
+          "role": "full",
+          "text": "I am suspended, anxious."
+        }
+      ]
+    },
+    {
+      "n": "μετοικεσία | 3350",
+      "orth": "μετοικεσία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "change of abode, migration, deportation"
+        },
+        {
+          "role": "full",
+          "text": "change of abode, migration, deportation."
+        }
+      ]
+    },
+    {
+      "n": "μετοικίζω | 3351",
+      "orth": "μετοικίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I transport, cause to migrate"
+        },
+        {
+          "role": "full",
+          "text": "I transport, cause to migrate, remove."
+        }
+      ]
+    },
+    {
+      "n": "μετοχή | 3352",
+      "orth": "μετοχή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "sharing, partnership, fellowship"
+        },
+        {
+          "role": "full",
+          "text": "sharing, partnership, fellowship."
+        }
+      ]
+    },
+    {
+      "n": "μέτοχος | 3353",
+      "orth": "μέτοχος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a sharer, partner"
+        },
+        {
+          "role": "full",
+          "text": "a sharer, partner, associate."
+        }
+      ]
+    },
+    {
+      "n": "μετρέω | 3354",
+      "orth": "μετρέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I measure, estimate"
+        },
+        {
+          "role": "full",
+          "text": "I measure (out), estimate."
+        }
+      ]
+    },
+    {
+      "n": "μετρητής | 3355",
+      "orth": "μετρητής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a measure, amphora"
+        },
+        {
+          "role": "full",
+          "text": "a measure, amphora, about 39.39 liters or 8.75 gallons."
+        }
+      ]
+    },
+    {
+      "n": "μετριοπαθέω | 3356",
+      "orth": "μετριοπαθέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bear gently with, have compassion"
+        },
+        {
+          "role": "full",
+          "text": "I bear gently with, have compassion."
+        }
+      ]
+    },
+    {
+      "n": "μετρίως | 3357",
+      "orth": "μετρίως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "moderately, greatly"
+        },
+        {
+          "role": "full",
+          "text": "moderately, greatly, exceedingly."
+        }
+      ]
+    },
+    {
+      "n": "μέτρον | 3358",
+      "orth": "μέτρον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a measure, measuring rod"
+        },
+        {
+          "role": "full",
+          "text": "a measure, whether lineal or cubic; a measuring rod."
+        }
+      ]
+    },
+    {
+      "n": "μέτωπον | 3359",
+      "orth": "μέτωπον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the forehead"
+        },
+        {
+          "role": "full",
+          "text": "the forehead, front."
+        }
+      ]
+    },
+    {
+      "n": "μέχρι | 3360",
+      "orth": "μέχρι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "as far as, until"
+        },
+        {
+          "role": "full",
+          "text": "as far as, until, even to."
+        }
+      ]
+    },
+    {
+      "n": "μή | 3361",
+      "orth": "μή",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "not, lest"
+        },
+        {
+          "role": "full",
+          "text": "not, lest."
+        }
+      ]
+    },
+    {
+      "n": "μηδαμῶς | 3365",
+      "orth": "μηδαμῶς",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "by no means, not at all"
+        },
+        {
+          "role": "full",
+          "text": "by no means, not at all."
+        }
+      ]
+    },
+    {
+      "n": "μηδέ | 3366",
+      "orth": "μηδέ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "and not, not even"
+        },
+        {
+          "role": "full",
+          "text": "and not, not even, neither...nor."
+        }
+      ]
+    },
+    {
+      "n": "μηδείς | 3367",
+      "orth": "μηδείς, μηδεμία, μηδέν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "no one, nothing"
+        },
+        {
+          "role": "full",
+          "text": "no one, none, nothing."
+        }
+      ]
+    },
+    {
+      "n": "μηδέποτε | 3368",
+      "orth": "μηδέποτε",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "not at any time, never"
+        },
+        {
+          "role": "full",
+          "text": "not at any time, never."
+        }
+      ]
+    },
+    {
+      "n": "μηδέπω | 3369",
+      "orth": "μηδέπω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "not yet"
+        },
+        {
+          "role": "full",
+          "text": "not yet."
+        }
+      ]
+    },
+    {
+      "n": "Μῆδος | 3370",
+      "orth": "Μῆδος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a Mede"
+        },
+        {
+          "role": "full",
+          "text": "a Mede, a Median, from east of Assyria."
+        }
+      ]
+    },
+    {
+      "n": "μηκέτι | 3371",
+      "orth": "μηκέτι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "no longer"
+        },
+        {
+          "role": "full",
+          "text": "no longer, no more."
+        }
+      ]
+    },
+    {
+      "n": "μῆκος | 3372",
+      "orth": "μῆκος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "length"
+        },
+        {
+          "role": "full",
+          "text": "length."
+        }
+      ]
+    },
+    {
+      "n": "μηκύνω | 3373",
+      "orth": "μηκύνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I lengthen"
+        },
+        {
+          "role": "full",
+          "text": "I lengthen, extend, grow."
+        }
+      ]
+    },
+    {
+      "n": "μηλωτή | 3374",
+      "orth": "μηλωτή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a sheepskin"
+        },
+        {
+          "role": "full",
+          "text": "a sheep's (sometimes pig's) hide, sheepskin."
+        }
+      ]
+    },
+    {
+      "n": "μήν | 3375",
+      "orth": "μήν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "certainly"
+        },
+        {
+          "role": "full",
+          "text": "assuredly, certainly."
+        }
+      ]
+    },
+    {
+      "n": "μήν | 3376",
+      "orth": "μήν, μηνός, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a month"
+        },
+        {
+          "role": "full",
+          "text": "a (lunar) month."
+        }
+      ]
+    },
+    {
+      "n": "μηνύω | 3377",
+      "orth": "μηνύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I reveal, inform"
+        },
+        {
+          "role": "full",
+          "text": "(a) I reveal, make known (in a law court), I lay information, inform,\n                  (b) I make known, point out."
+        }
+      ]
+    },
+    {
+      "n": "μήποτε | 3379",
+      "orth": "μήποτε",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "lest at any time, lest, perhaps"
+        },
+        {
+          "role": "full",
+          "text": "lest at any time, lest; then weakened: whether perhaps, whether at all;\n                  in a principal clause: perhaps."
+        }
+      ]
+    },
+    {
+      "n": "μήπω | 3380",
+      "orth": "μήπω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "not yet"
+        },
+        {
+          "role": "full",
+          "text": "not yet."
+        }
+      ]
+    },
+    {
+      "n": "μήπως | 3381",
+      "orth": "μήπως",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "lest in any way, lest perhaps"
+        },
+        {
+          "role": "full",
+          "text": "lest in any way, lest perhaps."
+        }
+      ]
+    },
+    {
+      "n": "μηρός | 3382",
+      "orth": "μηρός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the thigh"
+        },
+        {
+          "role": "full",
+          "text": "the thigh."
+        }
+      ]
+    },
+    {
+      "n": "μήτε | 3383",
+      "orth": "μήτε",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "nor, neither, not even"
+        },
+        {
+          "role": "full",
+          "text": "nor, neither, not even, neither...nor."
+        }
+      ]
+    },
+    {
+      "n": "μήτηρ | 3384",
+      "orth": "μήτηρ, μητρός, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a mother"
+        },
+        {
+          "role": "full",
+          "text": "a mother."
+        }
+      ]
+    },
+    {
+      "n": "μήτι | 3385",
+      "orth": "μήτι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "if not, unless"
+        },
+        {
+          "role": "full",
+          "text": "if not, unless, whether at all."
+        }
+      ]
+    },
+    {
+      "n": "μήτρα | 3388",
+      "orth": "μήτρα, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the womb"
+        },
+        {
+          "role": "full",
+          "text": "the womb."
+        }
+      ]
+    },
+    {
+      "n": "μητραλῴας | 3389",
+      "orth": "μητραλῴας, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a matricide"
+        },
+        {
+          "role": "full",
+          "text": "a matricide, smiter of his mother."
+        }
+      ]
+    },
+    {
+      "n": "μιαίνω | 3392",
+      "orth": "μιαίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I stain, pollute, defile"
+        },
+        {
+          "role": "full",
+          "text": "I stain, pollute, defile, corrupt."
+        }
+      ]
+    },
+    {
+      "n": "μίασμα | 3393",
+      "orth": "μίασμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "pollution, defilement"
+        },
+        {
+          "role": "full",
+          "text": "pollution, defilement; a stain."
+        }
+      ]
+    },
+    {
+      "n": "μιασμός | 3394",
+      "orth": "μιασμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the act of pollution, defilement"
+        },
+        {
+          "role": "full",
+          "text": "the act of pollution, defilement."
+        }
+      ]
+    },
+    {
+      "n": "μίγμα | 3395",
+      "orth": "μίγμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a mixture"
+        },
+        {
+          "role": "full",
+          "text": "a mixture."
+        }
+      ]
+    },
+    {
+      "n": "μίγνυμι | 3396",
+      "orth": "μίγνυμι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I mix, mingle"
+        },
+        {
+          "role": "full",
+          "text": "I mix, mingle."
+        }
+      ]
+    },
+    {
+      "n": "μικρόν | 3397",
+      "orth": "μικρόν, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a little, little while"
+        },
+        {
+          "role": "full",
+          "text": "a little, little while."
+        }
+      ]
+    },
+    {
+      "n": "μικρός | 3398",
+      "orth": "μικρός, ά, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "little, small"
+        },
+        {
+          "role": "full",
+          "text": "little, small."
+        }
+      ]
+    },
+    {
+      "n": "Μίλητος | 3399",
+      "orth": "Μίλητος, ου, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Miletus"
+        },
+        {
+          "role": "full",
+          "text": "Miletus, a city on the coast of the Roman province Asia."
+        }
+      ]
+    },
+    {
+      "n": "μίλιον | 3400",
+      "orth": "μίλιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a Roman mile"
+        },
+        {
+          "role": "full",
+          "text": "a Roman mile, measuring 1478.5 meters or 5820.9 feet."
+        }
+      ]
+    },
+    {
+      "n": "μιμέομαι | 3401",
+      "orth": "μιμέομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I imitate"
+        },
+        {
+          "role": "full",
+          "text": "I imitate, follow."
+        }
+      ]
+    },
+    {
+      "n": "μιμητής | 3402",
+      "orth": "μιμητής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an imitator"
+        },
+        {
+          "role": "full",
+          "text": "an imitator, follower."
+        }
+      ]
+    },
+    {
+      "n": "μιμνήσκομαι | 3403",
+      "orth": "μιμνήσκομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I remember, recall"
+        },
+        {
+          "role": "full",
+          "text": "I remember, call to mind, recall, mention."
+        }
+      ]
+    },
+    {
+      "n": "μισέω | 3404",
+      "orth": "μισέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I hate, detest"
+        },
+        {
+          "role": "full",
+          "text": "I hate, detest, love less, esteem less."
+        }
+      ]
+    },
+    {
+      "n": "μισθαποδοσία | 3405",
+      "orth": "μισθαποδοσία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "reward, due punishment"
+        },
+        {
+          "role": "full",
+          "text": "(lit: repayment of price or payment of price due), reward, due\n                  punishment."
+        }
+      ]
+    },
+    {
+      "n": "μισθαποδότης | 3406",
+      "orth": "μισθαποδότης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a rewarder"
+        },
+        {
+          "role": "full",
+          "text": "a rewarder."
+        }
+      ]
+    },
+    {
+      "n": "μίσθιος | 3407",
+      "orth": "μίσθιος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a paid worker"
+        },
+        {
+          "role": "full",
+          "text": "a paid worker, hired servant, hireling (contrasted with a slave)."
+        }
+      ]
+    },
+    {
+      "n": "μισθός | 3408",
+      "orth": "μισθός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "wages, reward"
+        },
+        {
+          "role": "full",
+          "text": "(a) pay, wages, salary, (b) reward, recompense, punishment."
+        }
+      ]
+    },
+    {
+      "n": "μισθόω | 3409",
+      "orth": "μισθόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I hire out, hire, engage"
+        },
+        {
+          "role": "full",
+          "text": "I hire out, mid: I hire, engage."
+        }
+      ]
+    },
+    {
+      "n": "μίσθωμα | 3410",
+      "orth": "μίσθωμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a rented house"
+        },
+        {
+          "role": "full",
+          "text": "a rented house, hired dwelling."
+        }
+      ]
+    },
+    {
+      "n": "μισθωτός | 3411",
+      "orth": "μισθωτός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a hired servant"
+        },
+        {
+          "role": "full",
+          "text": "a hired servant, hireling."
+        }
+      ]
+    },
+    {
+      "n": "Μιτυλήνη | 3412",
+      "orth": "Μιτυλήνη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Mitylene"
+        },
+        {
+          "role": "full",
+          "text": "Mitylene, the capital of the island of Lesbos in the northern Aegean\n                  sea."
+        }
+      ]
+    },
+    {
+      "n": "Μιχαήλ | 3413",
+      "orth": "Μιχαήλ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Michael"
+        },
+        {
+          "role": "full",
+          "text": "Michael, an archangel."
+        }
+      ]
+    },
+    {
+      "n": "μνᾶ | 3414",
+      "orth": "μνᾶ, ᾶς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a mina"
+        },
+        {
+          "role": "full",
+          "text": "a mina, a Greek monetary unit equal to 100 drachma."
+        }
+      ]
+    },
+    {
+      "n": "μνάομαι | 3415",
+      "orth": "μνάομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I remember, recollect"
+        },
+        {
+          "role": "full",
+          "text": "I remember, recollect."
+        }
+      ]
+    },
+    {
+      "n": "Μνάσων | 3416",
+      "orth": "Μνάσων, ωνος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Mnason"
+        },
+        {
+          "role": "full",
+          "text": "Mnason, an early Christian, native of Cyprus, resident at a place\n                  between Caesarea and Jerusalem."
+        }
+      ]
+    },
+    {
+      "n": "μνεία | 3417",
+      "orth": "μνεία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "remembrance, recollection"
+        },
+        {
+          "role": "full",
+          "text": "remembrance, recollection, mention; commemoration."
+        }
+      ]
+    },
+    {
+      "n": "μνῆμα | 3418",
+      "orth": "μνῆμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a tomb, monument"
+        },
+        {
+          "role": "full",
+          "text": "a tomb, monument, memorial."
+        }
+      ]
+    },
+    {
+      "n": "μνημεῖον | 3419",
+      "orth": "μνημεῖον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a tomb, sepulcher"
+        },
+        {
+          "role": "full",
+          "text": "a tomb, sepulcher, monument."
+        }
+      ]
+    },
+    {
+      "n": "μνήμη | 3420",
+      "orth": "μνήμη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "memory, remembrance, mention"
+        },
+        {
+          "role": "full",
+          "text": "memory, remembrance, mention."
+        }
+      ]
+    },
+    {
+      "n": "μνημονεύω | 3421",
+      "orth": "μνημονεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I remember, make mention of"
+        },
+        {
+          "role": "full",
+          "text": "I remember, hold in remembrance, make mention of."
+        }
+      ]
+    },
+    {
+      "n": "μνημόσυνον | 3422",
+      "orth": "μνημόσυνον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "reminder, memorial, remembrance offering"
+        },
+        {
+          "role": "full",
+          "text": "reminder, memorial; a remembrance offering."
+        }
+      ]
+    },
+    {
+      "n": "μνηστεύω | 3423",
+      "orth": "μνηστεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I ask in marriage"
+        },
+        {
+          "role": "full",
+          "text": "I ask in marriage; pass: I am betrothed."
+        }
+      ]
+    },
+    {
+      "n": "μογγιλάλος | 3424",
+      "orth": "μογγιλάλος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "one speaking with difficulty, a stammerer"
+        },
+        {
+          "role": "full",
+          "text": "one speaking with difficulty, a stammerer."
+        }
+      ]
+    },
+    {
+      "n": "μόγις | 3425",
+      "orth": "μόγις",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "with difficulty, scarcely, hardly"
+        },
+        {
+          "role": "full",
+          "text": "with difficulty; scarcely, hardly."
+        }
+      ]
+    },
+    {
+      "n": "μόδιος | 3426",
+      "orth": "μόδιος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a dry measure, nearly two English gallons"
+        },
+        {
+          "role": "full",
+          "text": "a dry measure, nearly two English gallons."
+        }
+      ]
+    },
+    {
+      "n": "μοιχαλίς | 3428",
+      "orth": "μοιχαλίς, ίδος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an adulteress"
+        },
+        {
+          "role": "full",
+          "text": "(a) an adulteress (that is, a married woman who commits adultery), (b)\n                  Hebraistically: extended to those who worship any other than the true God."
+        }
+      ]
+    },
+    {
+      "n": "μοιχάομαι | 3429",
+      "orth": "μοιχάομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I commit adultery"
+        },
+        {
+          "role": "full",
+          "text": "I commit adultery, not only of a married woman but of a married\n                  man."
+        }
+      ]
+    },
+    {
+      "n": "μοιχεία | 3430",
+      "orth": "μοιχεία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "adultery"
+        },
+        {
+          "role": "full",
+          "text": "adultery."
+        }
+      ]
+    },
+    {
+      "n": "μοιχεύω | 3431",
+      "orth": "μοιχεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I commit adultery"
+        },
+        {
+          "role": "full",
+          "text": "I commit adultery (of a man with a married woman, but also of a married\n                  man)."
+        }
+      ]
+    },
+    {
+      "n": "μοιχός | 3432",
+      "orth": "μοιχός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an adulterer"
+        },
+        {
+          "role": "full",
+          "text": "an adulterer, that is, a man who is guilty with a married woman."
+        }
+      ]
+    },
+    {
+      "n": "μόλις | 3433",
+      "orth": "μόλις",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "with difficulty, hardly"
+        },
+        {
+          "role": "full",
+          "text": "with difficulty, hardly, scarcely."
+        }
+      ]
+    },
+    {
+      "n": "Μολόχ | 3434",
+      "orth": "Μολόχ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Moloch"
+        },
+        {
+          "role": "full",
+          "text": "Moloch, a god worshipped by several Semitic peoples."
+        }
+      ]
+    },
+    {
+      "n": "μολύνω | 3435",
+      "orth": "μολύνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I soil, stain, pollute, defile"
+        },
+        {
+          "role": "full",
+          "text": "I soil, stain, pollute, defile, lit. and met."
+        }
+      ]
+    },
+    {
+      "n": "μολυσμός | 3436",
+      "orth": "μολυσμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "staining, defilement, pollution"
+        },
+        {
+          "role": "full",
+          "text": "staining, defilement, pollution."
+        }
+      ]
+    },
+    {
+      "n": "μομφή | 3437",
+      "orth": "μομφή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a complaint, fault"
+        },
+        {
+          "role": "full",
+          "text": "a complaint, fault, blame."
+        }
+      ]
+    },
+    {
+      "n": "μονή | 3438",
+      "orth": "μονή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "lodging, dwelling-place, room"
+        },
+        {
+          "role": "full",
+          "text": "lodging, dwelling-place, room, abode, mansion."
+        }
+      ]
+    },
+    {
+      "n": "μονογενής | 3439",
+      "orth": "μονογενής, ές",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "only, only-begotten, unique"
+        },
+        {
+          "role": "full",
+          "text": "only, only-begotten; unique."
+        }
+      ]
+    },
+    {
+      "n": "μόνον | 3440",
+      "orth": "μόνον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "alone, but, only"
+        },
+        {
+          "role": "full",
+          "text": "alone, but, only."
+        }
+      ]
+    },
+    {
+      "n": "μόνος | 3441",
+      "orth": "μόνος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "only, solitary, desolate"
+        },
+        {
+          "role": "full",
+          "text": "only, solitary, desolate."
+        }
+      ]
+    },
+    {
+      "n": "μονόφθαλμος | 3442",
+      "orth": "μονόφθαλμος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "one-eyed"
+        },
+        {
+          "role": "full",
+          "text": "one-eyed, with one eye only."
+        }
+      ]
+    },
+    {
+      "n": "μονόω | 3443",
+      "orth": "μονόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I leave alone"
+        },
+        {
+          "role": "full",
+          "text": "I leave alone (solitary), forsake."
+        }
+      ]
+    },
+    {
+      "n": "μορφή | 3444",
+      "orth": "μορφή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "form, shape, outward appearance"
+        },
+        {
+          "role": "full",
+          "text": "form, shape, outward appearance."
+        }
+      ]
+    },
+    {
+      "n": "μορφόω | 3445",
+      "orth": "μορφόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I form, fashion, shape"
+        },
+        {
+          "role": "full",
+          "text": "I form, fashion, shape, mold."
+        }
+      ]
+    },
+    {
+      "n": "μόρφωσις | 3446",
+      "orth": "μόρφωσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "form, outline"
+        },
+        {
+          "role": "full",
+          "text": "form, outline, semblance."
+        }
+      ]
+    },
+    {
+      "n": "μοσχοποιέω | 3447",
+      "orth": "μοσχοποιέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make a model of a calf"
+        },
+        {
+          "role": "full",
+          "text": "I make an image of a calf."
+        }
+      ]
+    },
+    {
+      "n": "μόσχος | 3448",
+      "orth": "μόσχος, ου, ὁ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a calf"
+        },
+        {
+          "role": "full",
+          "text": "a calf, heifer, young bull."
+        }
+      ]
+    },
+    {
+      "n": "μόχθος | 3449",
+      "orth": "μόχθος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "wearisome labor, toil, hardship"
+        },
+        {
+          "role": "full",
+          "text": "wearisome labor, toil, hardship."
+        }
+      ]
+    },
+    {
+      "n": "μουσικός | 3451",
+      "orth": "μουσικός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "skilled in music, a musician"
+        },
+        {
+          "role": "full",
+          "text": "skilled in music; subst: a musician, singer."
+        }
+      ]
+    },
+    {
+      "n": "μυελός | 3452",
+      "orth": "μυελός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "marrow"
+        },
+        {
+          "role": "full",
+          "text": "marrow."
+        }
+      ]
+    },
+    {
+      "n": "μυέω | 3453",
+      "orth": "μυέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I initiate, instruct"
+        },
+        {
+          "role": "full",
+          "text": "I initiate, instruct; pass: I am disciplined, learn (a lesson)."
+        }
+      ]
+    },
+    {
+      "n": "μῦθος | 3454",
+      "orth": "μῦθος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an idle tale, fable"
+        },
+        {
+          "role": "full",
+          "text": "an idle tale, fable, fanciful story."
+        }
+      ]
+    },
+    {
+      "n": "μυκάομαι | 3455",
+      "orth": "μυκάομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bellow, roar"
+        },
+        {
+          "role": "full",
+          "text": "I bellow, roar."
+        }
+      ]
+    },
+    {
+      "n": "μυκτηρίζω | 3456",
+      "orth": "μυκτηρίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I sneer at, disdain"
+        },
+        {
+          "role": "full",
+          "text": "(properly: I turn up the nose as a sign of contempt), I sneer at,\n                  disdain."
+        }
+      ]
+    },
+    {
+      "n": "μυλικός | 3457",
+      "orth": "μυλικός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "belonging to a mill"
+        },
+        {
+          "role": "full",
+          "text": "belonging to a mill."
+        }
+      ]
+    },
+    {
+      "n": "μύλος | 3458",
+      "orth": "μύλος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a millstone"
+        },
+        {
+          "role": "full",
+          "text": "a millstone, mill."
+        }
+      ]
+    },
+    {
+      "n": "μυλών | 3459",
+      "orth": "μυλών, ῶνος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a mill-house"
+        },
+        {
+          "role": "full",
+          "text": "a mill-house, the place where grain was ground."
+        }
+      ]
+    },
+    {
+      "n": "Μύρα | 3460",
+      "orth": "Μύρα, ων, τά",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Myra"
+        },
+        {
+          "role": "full",
+          "text": "Myra, a port in Lycia, south-west Asia Minor."
+        }
+      ]
+    },
+    {
+      "n": "μυριάς | 3461",
+      "orth": "μυριάς, άδος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a myriad, ten thousand"
+        },
+        {
+          "role": "full",
+          "text": "a myriad, group of ten thousand, a ten thousand."
+        }
+      ]
+    },
+    {
+      "n": "μυρίζω | 3462",
+      "orth": "μυρίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I anoint"
+        },
+        {
+          "role": "full",
+          "text": "I anoint."
+        }
+      ]
+    },
+    {
+      "n": "μυρίοι | 3463",
+      "orth": "μυρίοι, ίαι, ία",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "ten thousand, innumerable"
+        },
+        {
+          "role": "full",
+          "text": "ten thousand; also used for a very large number, innumerable."
+        }
+      ]
+    },
+    {
+      "n": "μύρον | 3464",
+      "orth": "μύρον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "anointing-oil, ointment"
+        },
+        {
+          "role": "full",
+          "text": "anointing-oil, ointment."
+        }
+      ]
+    },
+    {
+      "n": "Μυσία | 3465",
+      "orth": "Μυσία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Mysia"
+        },
+        {
+          "role": "full",
+          "text": "Mysia, a country in the north-west of the Roman province Asia (and of\n                  Asia Minor)."
+        }
+      ]
+    },
+    {
+      "n": "μυστήριον | 3466",
+      "orth": "μυστήριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "anything hidden, a mystery"
+        },
+        {
+          "role": "full",
+          "text": "a mystery, secret, of which initiation is necessary; in the NT: the\n                  counsels of God, once hidden but now revealed in the Gospel or some fact thereof;\n                  the Christian revelation generally; particular truths or details of the Christian\n                  revelation."
+        }
+      ]
+    },
+    {
+      "n": "μυωπάζω | 3467",
+      "orth": "μυωπάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I blink, see dimly"
+        },
+        {
+          "role": "full",
+          "text": "I am short-sighted, blink, see dimly."
+        }
+      ]
+    },
+    {
+      "n": "μώλωψ | 3468",
+      "orth": "μώλωψ, ωπος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a bruise, stripe"
+        },
+        {
+          "role": "full",
+          "text": "a bruise, stripe, left on the body by scourging."
+        }
+      ]
+    },
+    {
+      "n": "μωμάομαι | 3469",
+      "orth": "μωμάομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I blame, slander"
+        },
+        {
+          "role": "full",
+          "text": "I blame, find fault with, slander."
+        }
+      ]
+    },
+    {
+      "n": "μῶμος | 3470",
+      "orth": "μῶμος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a blemish, disgrace"
+        },
+        {
+          "role": "full",
+          "text": "a blemish, disgrace; blame."
+        }
+      ]
+    },
+    {
+      "n": "μωραίνω | 3471",
+      "orth": "μωραίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make foolish, taint, make useless"
+        },
+        {
+          "role": "full",
+          "text": "(a) I make foolish, turn to foolishness, (b) I taint, and thus: I am\n                  tasteless, make useless."
+        }
+      ]
+    },
+    {
+      "n": "μωρία | 3472",
+      "orth": "μωρία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "folly, absurdity"
+        },
+        {
+          "role": "full",
+          "text": "folly, absurdity, foolishness."
+        }
+      ]
+    },
+    {
+      "n": "μωρολογία | 3473",
+      "orth": "μωρολογία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "foolish talking"
+        },
+        {
+          "role": "full",
+          "text": "foolish talking."
+        }
+      ]
+    },
+    {
+      "n": "μωρός | 3474",
+      "orth": "μωρός, ά, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "stupid, foolish"
+        },
+        {
+          "role": "full",
+          "text": "(a) adj: stupid, foolish, (b) noun: a fool."
+        }
+      ]
+    },
+    {
+      "n": "Μωσῆς | 3475",
+      "orth": "Μωσῆς, έως, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Moses"
+        },
+        {
+          "role": "full",
+          "text": "Moses; met: the books of Moses, the Pentateuch."
+        }
+      ]
+    }
+  ]
+}

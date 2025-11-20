@@ -1,0 +1,6530 @@
+{
+  "letter": "κ",
+  "count": 466,
+  "entries": [
+    {
+      "n": "κἀγώ | 2504",
+      "orth": "κἀγώ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I also, I too"
+        },
+        {
+          "role": "full",
+          "text": "I also, I too, but I."
+        }
+      ]
+    },
+    {
+      "n": "καθά | 2505",
+      "orth": "καθά",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "as"
+        },
+        {
+          "role": "full",
+          "text": "just as."
+        }
+      ]
+    },
+    {
+      "n": "καθαίρεσις | 2506",
+      "orth": "καθαίρεσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "taking down, destroying"
+        },
+        {
+          "role": "full",
+          "text": "taking down, razing, destroying."
+        }
+      ]
+    },
+    {
+      "n": "καθαιρέω | 2507",
+      "orth": "καθαιρέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I take down, depose, destroy"
+        },
+        {
+          "role": "full",
+          "text": "(a) I take down, pull down, depose, destroy."
+        }
+      ]
+    },
+    {
+      "n": "καθαίρω | 2508",
+      "orth": "καθαίρω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I cleanse, purify, prune"
+        },
+        {
+          "role": "full",
+          "text": "I cleanse, purify, prune."
+        }
+      ]
+    },
+    {
+      "n": "καθάπερ | 2509",
+      "orth": "καθάπερ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "even as"
+        },
+        {
+          "role": "full",
+          "text": "even as, just as."
+        }
+      ]
+    },
+    {
+      "n": "καθάπτω | 2510",
+      "orth": "καθάπτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I lay hold of, fasten on to"
+        },
+        {
+          "role": "full",
+          "text": "I lay hold of, fasten on to, seize, attack."
+        }
+      ]
+    },
+    {
+      "n": "καθαρίζω | 2511",
+      "orth": "καθαρίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make clean"
+        },
+        {
+          "role": "full",
+          "text": "I cleanse, make clean, literally, ceremonially, or spiritually,\n                  according to context."
+        }
+      ]
+    },
+    {
+      "n": "καθαρισμός | 2512",
+      "orth": "καθαρισμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "cleansing, purifying, purification"
+        },
+        {
+          "role": "full",
+          "text": "cleansing, purifying, purification, literal, ceremonial, or moral; met:\n                  expiation."
+        }
+      ]
+    },
+    {
+      "n": "καθαρός | 2513",
+      "orth": "καθαρός, ά, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "clean, pure, unstained"
+        },
+        {
+          "role": "full",
+          "text": "clean, pure, unstained, either literally or ceremonially or\n                  spiritually; guiltless, innocent, upright."
+        }
+      ]
+    },
+    {
+      "n": "καθαρότης | 2514",
+      "orth": "καθαρότης, ητος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "cleanness, purity"
+        },
+        {
+          "role": "full",
+          "text": "cleanness, purity."
+        }
+      ]
+    },
+    {
+      "n": "καθέδρα | 2515",
+      "orth": "καθέδρα, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a seat, chair"
+        },
+        {
+          "role": "full",
+          "text": "a seat, chair."
+        }
+      ]
+    },
+    {
+      "n": "καθέζομαι | 2516",
+      "orth": "καθέζομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am sitting, sit, am seated"
+        },
+        {
+          "role": "full",
+          "text": "I am sitting, sit down, am seated."
+        }
+      ]
+    },
+    {
+      "n": "καθεξῆς | 2517",
+      "orth": "καθεξῆς",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "in order, just after"
+        },
+        {
+          "role": "full",
+          "text": "in order, in succession, in the time immediately after, just\n                  after."
+        }
+      ]
+    },
+    {
+      "n": "καθεύδω | 2518",
+      "orth": "καθεύδω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I sleep, am sleeping"
+        },
+        {
+          "role": "full",
+          "text": "I sleep, am sleeping."
+        }
+      ]
+    },
+    {
+      "n": "καθηγητής | 2519",
+      "orth": "καθηγητής, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a leader, teacher, guide"
+        },
+        {
+          "role": "full",
+          "text": "a leader, teacher, guide, master."
+        }
+      ]
+    },
+    {
+      "n": "καθήκω | 2520",
+      "orth": "καθήκω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "it is fitting"
+        },
+        {
+          "role": "full",
+          "text": "I come down, come to; I am unfit, proper."
+        }
+      ]
+    },
+    {
+      "n": "κάθημαι | 2521",
+      "orth": "κάθημαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I sit, am seated"
+        },
+        {
+          "role": "full",
+          "text": "I sit, am seated, enthroned; I dwell, reside."
+        }
+      ]
+    },
+    {
+      "n": "καθημερινός | 2522",
+      "orth": "καθημερινός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "daily"
+        },
+        {
+          "role": "full",
+          "text": "daily, day-by-day."
+        }
+      ]
+    },
+    {
+      "n": "καθίζω | 2523",
+      "orth": "καθίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I set, make to sit"
+        },
+        {
+          "role": "full",
+          "text": "(a) trans: I make to sit; I set, appoint, (b) intrans: I sit down, am\n                  seated, stay."
+        }
+      ]
+    },
+    {
+      "n": "καθίημι | 2524",
+      "orth": "καθίημι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I let down"
+        },
+        {
+          "role": "full",
+          "text": "I send, let down, lower."
+        }
+      ]
+    },
+    {
+      "n": "καθίστημι | 2525",
+      "orth": "καθίστημι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I set, establish, appoint, conduct"
+        },
+        {
+          "role": "full",
+          "text": "I set down, bring down to a place; I set in order, appoint, make,\n                  constitute."
+        }
+      ]
+    },
+    {
+      "n": "καθό | 2526",
+      "orth": "καθό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "as, according as"
+        },
+        {
+          "role": "full",
+          "text": "according to which thing, as, according as."
+        }
+      ]
+    },
+    {
+      "n": "καθόλου | 2527",
+      "orth": "καθόλου",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "entirely, at all"
+        },
+        {
+          "role": "full",
+          "text": "one the whole, in general, altogether."
+        }
+      ]
+    },
+    {
+      "n": "καθοπλίζω | 2528",
+      "orth": "καθοπλίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I arm completely"
+        },
+        {
+          "role": "full",
+          "text": "I arm completely."
+        }
+      ]
+    },
+    {
+      "n": "καθοράω | 2529",
+      "orth": "καθοράω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I see clearly"
+        },
+        {
+          "role": "full",
+          "text": "I see clearly, perceive, discern."
+        }
+      ]
+    },
+    {
+      "n": "καθότι | 2530",
+      "orth": "καθότι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "according as, because"
+        },
+        {
+          "role": "full",
+          "text": "(a) in proportion as, according as, (b) because."
+        }
+      ]
+    },
+    {
+      "n": "καθώς | 2531",
+      "orth": "καθώς",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "just as, as"
+        },
+        {
+          "role": "full",
+          "text": "according to the manner in which, in the degree that, just as,\n                  as."
+        }
+      ]
+    },
+    {
+      "n": "καί | 2532",
+      "orth": "καί",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "and, even, also, namely"
+        },
+        {
+          "role": "full",
+          "text": "and, even, also, namely."
+        }
+      ]
+    },
+    {
+      "n": "Καϊάφας | 2533",
+      "orth": "Καϊάφας, ᾶ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Caiaphas"
+        },
+        {
+          "role": "full",
+          "text": "Caiaphas, Jewish high priest."
+        }
+      ]
+    },
+    {
+      "n": "Κάϊν | 2535",
+      "orth": "Κάϊν, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cain"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), Cain, son of Adam and Eve and brother of Abel."
+        }
+      ]
+    },
+    {
+      "n": "Καϊνάν | 2536",
+      "orth": "Καϊνάν, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cainan"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew), Cainan, one of the ancestors of Jesus."
+        }
+      ]
+    },
+    {
+      "n": "καινός | 2537",
+      "orth": "καινός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "fresh, new"
+        },
+        {
+          "role": "full",
+          "text": "fresh, new, unused, novel."
+        }
+      ]
+    },
+    {
+      "n": "καινότης | 2538",
+      "orth": "καινότης, ητος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "freshness, newness"
+        },
+        {
+          "role": "full",
+          "text": "freshness, newness, novelty."
+        }
+      ]
+    },
+    {
+      "n": "καίπερ | 2539",
+      "orth": "καίπερ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "although"
+        },
+        {
+          "role": "full",
+          "text": "although, though."
+        }
+      ]
+    },
+    {
+      "n": "καιρός | 2540",
+      "orth": "καιρός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "fitting season, opportunity, time"
+        },
+        {
+          "role": "full",
+          "text": "fitting season, season, opportunity, occasion, time."
+        }
+      ]
+    },
+    {
+      "n": "Καῖσαρ | 2541",
+      "orth": "Καῖσαρ, αρος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Caesar"
+        },
+        {
+          "role": "full",
+          "text": "Caesar, a surname of the gens Iulia, which became practically\n                  synonymous with the Emperor for the time being; in the Gospels it always refers to\n                  Tiberias."
+        }
+      ]
+    },
+    {
+      "n": "Καισάρεια | 2542",
+      "orth": "Καισάρεια, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Caesarea"
+        },
+        {
+          "role": "full",
+          "text": "Two cities of Palestine: one in Galilee (Caesarea Philippi), the other\n                  on the coast of the Mediterranean."
+        }
+      ]
+    },
+    {
+      "n": "καίτοι | 2543",
+      "orth": "καίτοι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "and yet, although"
+        },
+        {
+          "role": "full",
+          "text": "and yet, although, though."
+        }
+      ]
+    },
+    {
+      "n": "καίτοιγε | 2544",
+      "orth": "καίτοιγε",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "and yet, although"
+        },
+        {
+          "role": "full",
+          "text": "and yet, although, indeed."
+        }
+      ]
+    },
+    {
+      "n": "καίω | 2545",
+      "orth": "καίω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I ignite, light, burn"
+        },
+        {
+          "role": "full",
+          "text": "I ignite, light, burn, lit. and met; I consume with fire."
+        }
+      ]
+    },
+    {
+      "n": "κἀκεῖ | 2546",
+      "orth": "κἀκεῖ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "and there, and yonder"
+        },
+        {
+          "role": "full",
+          "text": "and there, and yonder, there also."
+        }
+      ]
+    },
+    {
+      "n": "κἀκεῖθεν | 2547",
+      "orth": "κἀκεῖθεν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "and thence, and from there"
+        },
+        {
+          "role": "full",
+          "text": "and thence, and from there; and then afterwards."
+        }
+      ]
+    },
+    {
+      "n": "κἀκεῖνος | 2548",
+      "orth": "κἀκεῖνος, η, ο",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "and he, she, it, and that"
+        },
+        {
+          "role": "full",
+          "text": "and he, she, it, and that."
+        }
+      ]
+    },
+    {
+      "n": "κακία | 2549",
+      "orth": "κακία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "evil, wickedness, malice"
+        },
+        {
+          "role": "full",
+          "text": "(a) evil (i.e. trouble, labor, misfortune), (b) wickedness, (c) vicious\n                  disposition, malice, spite."
+        }
+      ]
+    },
+    {
+      "n": "κακοήθεια | 2550",
+      "orth": "κακοήθεια, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "evil-mindedness"
+        },
+        {
+          "role": "full",
+          "text": "evil-mindedness, malignity, malevolence."
+        }
+      ]
+    },
+    {
+      "n": "κακολογέω | 2551",
+      "orth": "κακολογέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I speak evil of, curse"
+        },
+        {
+          "role": "full",
+          "text": "I speak evil of, curse, revile, abuse."
+        }
+      ]
+    },
+    {
+      "n": "κακοπάθεια | 2552",
+      "orth": "κακοπάθεια, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "suffering"
+        },
+        {
+          "role": "full",
+          "text": "experience of evil, suffering, distress, affliction,\n                  perseverance."
+        }
+      ]
+    },
+    {
+      "n": "κακοπαθέω | 2553",
+      "orth": "κακοπαθέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I suffer evil, endure affliction"
+        },
+        {
+          "role": "full",
+          "text": "I suffer evil, endure affliction."
+        }
+      ]
+    },
+    {
+      "n": "κακοποιέω | 2554",
+      "orth": "κακοποιέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I do harm, do wrong"
+        },
+        {
+          "role": "full",
+          "text": "I do harm, do wrong, do evil, commit sin."
+        }
+      ]
+    },
+    {
+      "n": "κακοποιός | 2555",
+      "orth": "κακοποιός, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an evil-doer"
+        },
+        {
+          "role": "full",
+          "text": "doing evil; subst: an evil-doer."
+        }
+      ]
+    },
+    {
+      "n": "κακός | 2556",
+      "orth": "κακός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "bad, evil"
+        },
+        {
+          "role": "full",
+          "text": "bad, evil, in the widest sense."
+        }
+      ]
+    },
+    {
+      "n": "κακοῦργος | 2557",
+      "orth": "κακοῦργος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a criminal"
+        },
+        {
+          "role": "full",
+          "text": "(lit: an evil-worker), a criminal."
+        }
+      ]
+    },
+    {
+      "n": "κακουχέω | 2558",
+      "orth": "κακουχέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I treat evilly"
+        },
+        {
+          "role": "full",
+          "text": "I treat evilly, hurt, torment."
+        }
+      ]
+    },
+    {
+      "n": "κακόω | 2559",
+      "orth": "κακόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I treat badly"
+        },
+        {
+          "role": "full",
+          "text": "I treat badly, afflict, embitter, make angry."
+        }
+      ]
+    },
+    {
+      "n": "κακῶς | 2560",
+      "orth": "κακῶς",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "badly, evilly"
+        },
+        {
+          "role": "full",
+          "text": "badly, evilly, wrongly."
+        }
+      ]
+    },
+    {
+      "n": "κάκωσις | 2561",
+      "orth": "κάκωσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "affliction, ill-treatment"
+        },
+        {
+          "role": "full",
+          "text": "affliction, ill-treatment, oppression, misery."
+        }
+      ]
+    },
+    {
+      "n": "καλάμη | 2562",
+      "orth": "καλάμη, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "stubble"
+        },
+        {
+          "role": "full",
+          "text": "stubble, straw, the stalk."
+        }
+      ]
+    },
+    {
+      "n": "κάλαμος | 2563",
+      "orth": "κάλαμος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a reed, reed-pen"
+        },
+        {
+          "role": "full",
+          "text": "a reed; a reed-pen, reed-staff, measuring rod."
+        }
+      ]
+    },
+    {
+      "n": "καλέω | 2564",
+      "orth": "καλέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I call, invite, name"
+        },
+        {
+          "role": "full",
+          "text": "(a) I call, summon, invite, (b) I call, name."
+        }
+      ]
+    },
+    {
+      "n": "καλλιέλαιος | 2565",
+      "orth": "καλλιέλαιος, οῦ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a cultivated olive tree"
+        },
+        {
+          "role": "full",
+          "text": "a cultivated olive tree."
+        }
+      ]
+    },
+    {
+      "n": "κάλλιον | 2566",
+      "orth": "κάλλιον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "very well"
+        },
+        {
+          "role": "full",
+          "text": "very well."
+        }
+      ]
+    },
+    {
+      "n": "καλοδιδάσκαλος | 2567",
+      "orth": "καλοδιδάσκαλος, ου, ὁ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a teacher of that which is noble"
+        },
+        {
+          "role": "full",
+          "text": "a teacher of that which is noble (honorable) and good."
+        }
+      ]
+    },
+    {
+      "n": "καλοποιέω | 2569",
+      "orth": "καλοποιέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I act uprightly"
+        },
+        {
+          "role": "full",
+          "text": "I do well, act honorably, do what is right."
+        }
+      ]
+    },
+    {
+      "n": "καλός | 2570",
+      "orth": "καλός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "beautiful, good, worthy"
+        },
+        {
+          "role": "full",
+          "text": "beautiful, as an outward sign of the inward good, noble, honorable\n                  character; good, worthy, honorable, noble, and seen to be so."
+        }
+      ]
+    },
+    {
+      "n": "κάλυμμα | 2571",
+      "orth": "κάλυμμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a veil"
+        },
+        {
+          "role": "full",
+          "text": "a covering, especially a covering of head and face, a veil."
+        }
+      ]
+    },
+    {
+      "n": "καλύπτω | 2572",
+      "orth": "καλύπτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I veil, hide, conceal, envelop"
+        },
+        {
+          "role": "full",
+          "text": "I veil, hide, conceal, envelop."
+        }
+      ]
+    },
+    {
+      "n": "καλῶς | 2573",
+      "orth": "καλῶς",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "well, nobly, rightly"
+        },
+        {
+          "role": "full",
+          "text": "well, nobly, honorably, rightly."
+        }
+      ]
+    },
+    {
+      "n": "κάμηλος | 2574",
+      "orth": "κάμηλος, ου, ὁ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a camel"
+        },
+        {
+          "role": "full",
+          "text": "a camel or dromedary."
+        }
+      ]
+    },
+    {
+      "n": "κάμινος | 2575",
+      "orth": "κάμινος, ου, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a furnace"
+        },
+        {
+          "role": "full",
+          "text": "a furnace, oven, kiln."
+        }
+      ]
+    },
+    {
+      "n": "καμμύω | 2576",
+      "orth": "καμμύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I close"
+        },
+        {
+          "role": "full",
+          "text": "I close, shut the eyes."
+        }
+      ]
+    },
+    {
+      "n": "κάμνω | 2577",
+      "orth": "κάμνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am weary, ill"
+        },
+        {
+          "role": "full",
+          "text": "I work, am weary, am sick."
+        }
+      ]
+    },
+    {
+      "n": "κάμπτω | 2578",
+      "orth": "κάμπτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bend, bow"
+        },
+        {
+          "role": "full",
+          "text": "I bend, bow."
+        }
+      ]
+    },
+    {
+      "n": "κἄν | 2579",
+      "orth": "κἄν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "and if, even if"
+        },
+        {
+          "role": "full",
+          "text": "and if, even if, even, at least."
+        }
+      ]
+    },
+    {
+      "n": "Κανᾶ | 2580",
+      "orth": "Κανᾶ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cana"
+        },
+        {
+          "role": "full",
+          "text": "Cana, a town in Galilee."
+        }
+      ]
+    },
+    {
+      "n": "Κανανίτης | 2581",
+      "orth": "Κανανίτης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a Canaanite"
+        },
+        {
+          "role": "full",
+          "text": "a Canaanite."
+        }
+      ]
+    },
+    {
+      "n": "Κανδάκη | 2582",
+      "orth": "Κανδάκη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Candace"
+        },
+        {
+          "role": "full",
+          "text": "Candace, a proper name; the Candace, a dynastic name for queens of the\n                  Ethiopians in Abyssinia."
+        }
+      ]
+    },
+    {
+      "n": "κανών | 2583",
+      "orth": "κανών, όνος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "rule, regulation, province"
+        },
+        {
+          "role": "full",
+          "text": "(lit: a level, ruler), a rule, regulation, rule of conduct or doctrine,\n                  (b) a measured (defined) area, province."
+        }
+      ]
+    },
+    {
+      "n": "Καπερναούμ | 2584",
+      "orth": "Καπερναούμ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Capernaum"
+        },
+        {
+          "role": "full",
+          "text": "Capernaum, a town of Galilee."
+        }
+      ]
+    },
+    {
+      "n": "καπηλεύω | 2585",
+      "orth": "καπηλεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I hawk, trade in"
+        },
+        {
+          "role": "full",
+          "text": "I hawk, trade in, deal in for purposes of gain."
+        }
+      ]
+    },
+    {
+      "n": "καπνός | 2586",
+      "orth": "καπνός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "smoke"
+        },
+        {
+          "role": "full",
+          "text": "smoke."
+        }
+      ]
+    },
+    {
+      "n": "Καππαδοκία | 2587",
+      "orth": "Καππαδοκία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cappadocia"
+        },
+        {
+          "role": "full",
+          "text": "Cappadocia, a large Roman province in the central eastern part of Asia\n                  Minor."
+        }
+      ]
+    },
+    {
+      "n": "καρδία | 2588",
+      "orth": "καρδία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the heart, inner life, intention"
+        },
+        {
+          "role": "full",
+          "text": "lit: the heart; mind, character, inner self, will, intention,\n                  center."
+        }
+      ]
+    },
+    {
+      "n": "καρδιογνώστης | 2589",
+      "orth": "καρδιογνώστης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a knower of the inner life"
+        },
+        {
+          "role": "full",
+          "text": "a knower of the inner life (character, hearts)."
+        }
+      ]
+    },
+    {
+      "n": "καρπός | 2590",
+      "orth": "καρπός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "fruit, result, gain"
+        },
+        {
+          "role": "full",
+          "text": "(a) fruit, generally vegetable, sometimes animal, (b) met: fruit, deed,\n                  action, result, (c) profit, gain."
+        }
+      ]
+    },
+    {
+      "n": "Κάρπος | 2591",
+      "orth": "Κάρπος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Carpus"
+        },
+        {
+          "role": "full",
+          "text": "Carpus, a Christian of Troas."
+        }
+      ]
+    },
+    {
+      "n": "καρποφορέω | 2592",
+      "orth": "καρποφορέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bear fruit"
+        },
+        {
+          "role": "full",
+          "text": "I bear fruit."
+        }
+      ]
+    },
+    {
+      "n": "καρποφόρος | 2593",
+      "orth": "καρποφόρος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "fruitful"
+        },
+        {
+          "role": "full",
+          "text": "fruitful."
+        }
+      ]
+    },
+    {
+      "n": "καρτερέω | 2594",
+      "orth": "καρτερέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I persevere, endure"
+        },
+        {
+          "role": "full",
+          "text": "I persevere, endure, am steadfast, patient."
+        }
+      ]
+    },
+    {
+      "n": "κάρφος | 2595",
+      "orth": "κάρφος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a dry stalk, chip of wood"
+        },
+        {
+          "role": "full",
+          "text": "a dry stalk, chip of wood, twig, splinter, chaff."
+        }
+      ]
+    },
+    {
+      "n": "κατά | 2596",
+      "orth": "κατά",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "down from, against, according to, throughout, during"
+        },
+        {
+          "role": "full",
+          "text": "gen: against, down from, throughout, by; acc: over against, among,\n                  daily, day-by-day, each day, according to, by way of."
+        }
+      ]
+    },
+    {
+      "n": "καταβαίνω | 2597",
+      "orth": "καταβαίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I go down, come down"
+        },
+        {
+          "role": "full",
+          "text": "I go down, come down, either from the sky or from higher land,\n                  descend."
+        }
+      ]
+    },
+    {
+      "n": "καταβάλλω | 2598",
+      "orth": "καταβάλλω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I cast, lay down"
+        },
+        {
+          "role": "full",
+          "text": "(a) mid: I lay, of a foundation, (b) met: I cast down, prostrate."
+        }
+      ]
+    },
+    {
+      "n": "καταβαρέω | 2599",
+      "orth": "καταβαρέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I burden, oppress"
+        },
+        {
+          "role": "full",
+          "text": "I burden, oppress, weigh down."
+        }
+      ]
+    },
+    {
+      "n": "κατάβασις | 2600",
+      "orth": "κατάβασις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "descent"
+        },
+        {
+          "role": "full",
+          "text": "descent."
+        }
+      ]
+    },
+    {
+      "n": "καταβιβάζω | 2601",
+      "orth": "καταβιβάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bring down, cause to go down"
+        },
+        {
+          "role": "full",
+          "text": "I bring down, cast down, cause to go down."
+        }
+      ]
+    },
+    {
+      "n": "καταβολή | 2602",
+      "orth": "καταβολή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a foundation, depositing, sowing"
+        },
+        {
+          "role": "full",
+          "text": "(a) foundation, (b) depositing, sowing, deposit, technically used of\n                  the act of conception."
+        }
+      ]
+    },
+    {
+      "n": "καταβραβεύω | 2603",
+      "orth": "καταβραβεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I decide against, condemn"
+        },
+        {
+          "role": "full",
+          "text": "of the umpire in a contest: I decide against, take part against,\n                  condemn (perhaps with the idea of assumption, officialism)."
+        }
+      ]
+    },
+    {
+      "n": "καταγγελεύς | 2604",
+      "orth": "καταγγελεύς, έως, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a reporter, herald"
+        },
+        {
+          "role": "full",
+          "text": "a reporter, announcer, proclaimer, herald."
+        }
+      ]
+    },
+    {
+      "n": "καταγγέλλω | 2605",
+      "orth": "καταγγέλλω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I declare openly, preach"
+        },
+        {
+          "role": "full",
+          "text": "I declare openly, proclaim, preach, laud, celebrate."
+        }
+      ]
+    },
+    {
+      "n": "καταγελάω | 2606",
+      "orth": "καταγελάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I laugh at, ridicule"
+        },
+        {
+          "role": "full",
+          "text": "I laugh at, ridicule."
+        }
+      ]
+    },
+    {
+      "n": "καταγινώσκω | 2607",
+      "orth": "καταγινώσκω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I condemn, blame"
+        },
+        {
+          "role": "full",
+          "text": "I condemn, blame."
+        }
+      ]
+    },
+    {
+      "n": "κατάγνυμι | 2608",
+      "orth": "κατάγνυμι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I break in pieces"
+        },
+        {
+          "role": "full",
+          "text": "I break down (in pieces), crush, break into."
+        }
+      ]
+    },
+    {
+      "n": "κατάγω | 2609",
+      "orth": "κατάγω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I lead down, bring down"
+        },
+        {
+          "role": "full",
+          "text": "I lead down, bring down, either from a high place on land or to a lower\n                  (or actually to the sea-coast), or from the high seas to land."
+        }
+      ]
+    },
+    {
+      "n": "καταγωνίζομαι | 2610",
+      "orth": "καταγωνίζομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I subdue"
+        },
+        {
+          "role": "full",
+          "text": "I subdue (in warfare); I struggle against, conquer, overcome."
+        }
+      ]
+    },
+    {
+      "n": "καταδέω | 2611",
+      "orth": "καταδέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bind up"
+        },
+        {
+          "role": "full",
+          "text": "I bind up, bandage."
+        }
+      ]
+    },
+    {
+      "n": "κατάδηλος | 2612",
+      "orth": "κατάδηλος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "quite clear"
+        },
+        {
+          "role": "full",
+          "text": "quite clear, evident."
+        }
+      ]
+    },
+    {
+      "n": "καταδικάζω | 2613",
+      "orth": "καταδικάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I condemn"
+        },
+        {
+          "role": "full",
+          "text": "I condemn, pass sentence upon."
+        }
+      ]
+    },
+    {
+      "n": "καταδιώκω | 2614",
+      "orth": "καταδιώκω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I hunt down, follow closely"
+        },
+        {
+          "role": "full",
+          "text": "I hunt down, follow closely."
+        }
+      ]
+    },
+    {
+      "n": "καταδουλόω | 2615",
+      "orth": "καταδουλόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I enslave"
+        },
+        {
+          "role": "full",
+          "text": "I enslave."
+        }
+      ]
+    },
+    {
+      "n": "καταδυναστεύω | 2616",
+      "orth": "καταδυναστεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I overpower, quell, treat harshly"
+        },
+        {
+          "role": "full",
+          "text": "I overpower, quell, treat harshly."
+        }
+      ]
+    },
+    {
+      "n": "καταισχύνω | 2617",
+      "orth": "καταισχύνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I shame, disgrace, put to utter confusion"
+        },
+        {
+          "role": "full",
+          "text": "I shame, disgrace, bring to shame, put to utter confusion,\n                  frustrate."
+        }
+      ]
+    },
+    {
+      "n": "κατακαίω | 2618",
+      "orth": "κατακαίω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I burn up, consume entirely"
+        },
+        {
+          "role": "full",
+          "text": "I burn up, consume entirely."
+        }
+      ]
+    },
+    {
+      "n": "κατακαλύπτω | 2619",
+      "orth": "κατακαλύπτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I veil, cover the head"
+        },
+        {
+          "role": "full",
+          "text": "I veil, cover the head."
+        }
+      ]
+    },
+    {
+      "n": "κατακαυχάομαι | 2620",
+      "orth": "κατακαυχάομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I boast against"
+        },
+        {
+          "role": "full",
+          "text": "I boast against, exult over."
+        }
+      ]
+    },
+    {
+      "n": "κατάκειμαι | 2621",
+      "orth": "κατάκειμαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I recline, am lying ill"
+        },
+        {
+          "role": "full",
+          "text": "I recline (at table); more often: I keep my bed, am lying ill (in\n                  bed)."
+        }
+      ]
+    },
+    {
+      "n": "κατακλάω | 2622",
+      "orth": "κατακλάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I break in pieces"
+        },
+        {
+          "role": "full",
+          "text": "I break in pieces, break up."
+        }
+      ]
+    },
+    {
+      "n": "κατακλείω | 2623",
+      "orth": "κατακλείω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I shut up, confine"
+        },
+        {
+          "role": "full",
+          "text": "I shut up, confine."
+        }
+      ]
+    },
+    {
+      "n": "κατακληρονομέω | 2624",
+      "orth": "κατακληρονομέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I give as an inheritance"
+        },
+        {
+          "role": "full",
+          "text": "I give as an inheritance, distribute by lot."
+        }
+      ]
+    },
+    {
+      "n": "κατακλίνω | 2625",
+      "orth": "κατακλίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I recline, cause to recline"
+        },
+        {
+          "role": "full",
+          "text": "I cause to recline at table; mid. and pass: I recline at table."
+        }
+      ]
+    },
+    {
+      "n": "κατακλύζω | 2626",
+      "orth": "κατακλύζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I flood over, overwhelm"
+        },
+        {
+          "role": "full",
+          "text": "I flood over, overwhelm, inundate."
+        }
+      ]
+    },
+    {
+      "n": "κατακλυσμός | 2627",
+      "orth": "κατακλυσμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a deluge, flood"
+        },
+        {
+          "role": "full",
+          "text": "a deluge, flood."
+        }
+      ]
+    },
+    {
+      "n": "κατακολουθέω | 2628",
+      "orth": "κατακολουθέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I follow after"
+        },
+        {
+          "role": "full",
+          "text": "I follow after."
+        }
+      ]
+    },
+    {
+      "n": "κατακόπτω | 2629",
+      "orth": "κατακόπτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I beat, wound"
+        },
+        {
+          "role": "full",
+          "text": "I cut up, cut in pieces, mangle, wound."
+        }
+      ]
+    },
+    {
+      "n": "κατακρημνίζω | 2630",
+      "orth": "κατακρημνίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I cast down headlong"
+        },
+        {
+          "role": "full",
+          "text": "I cast down headlong, throw over a precipice."
+        }
+      ]
+    },
+    {
+      "n": "κατάκριμα | 2631",
+      "orth": "κατάκριμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "punishment following condemnation"
+        },
+        {
+          "role": "full",
+          "text": "punishment following condemnation, penal servitude, penalty."
+        }
+      ]
+    },
+    {
+      "n": "κατακρίνω | 2632",
+      "orth": "κατακρίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I condemn"
+        },
+        {
+          "role": "full",
+          "text": "I condemn, judge worthy of punishment."
+        }
+      ]
+    },
+    {
+      "n": "κατάκρισις | 2633",
+      "orth": "κατάκρισις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the act of condemnation"
+        },
+        {
+          "role": "full",
+          "text": "condemnation, censure."
+        }
+      ]
+    },
+    {
+      "n": "κατακυριεύω | 2634",
+      "orth": "κατακυριεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I exercise authority over, overpower"
+        },
+        {
+          "role": "full",
+          "text": "I exercise authority over, overpower, master."
+        }
+      ]
+    },
+    {
+      "n": "καταλαλέω | 2635",
+      "orth": "καταλαλέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I speak evil of"
+        },
+        {
+          "role": "full",
+          "text": "I speak evil of, rail at, slander."
+        }
+      ]
+    },
+    {
+      "n": "καταλαλιά | 2636",
+      "orth": "καταλαλιά, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "evil-speaking, backbiting, detraction"
+        },
+        {
+          "role": "full",
+          "text": "evil-speaking, backbiting, detraction, slander."
+        }
+      ]
+    },
+    {
+      "n": "κατάλαλος | 2637",
+      "orth": "κατάλαλος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "slanderous, back-biting"
+        },
+        {
+          "role": "full",
+          "text": "slanderous, back-biting; subst: a railer, defamer."
+        }
+      ]
+    },
+    {
+      "n": "καταλαμβάνω | 2638",
+      "orth": "καταλαμβάνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I seize tight hold of, overtake, comprehend"
+        },
+        {
+          "role": "full",
+          "text": "(a) I seize tight hold of, arrest, catch, capture, appropriate, (b) I\n                  overtake, (c) mid. aor: I perceived, comprehended."
+        }
+      ]
+    },
+    {
+      "n": "καταλέγω | 2639",
+      "orth": "καταλέγω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I enter in a list, register"
+        },
+        {
+          "role": "full",
+          "text": "I enter in a list, register, enroll."
+        }
+      ]
+    },
+    {
+      "n": "κατάλειμμα | 2640",
+      "orth": "κατάλειμμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a remnant, small residue"
+        },
+        {
+          "role": "full",
+          "text": "a remnant, small residue."
+        }
+      ]
+    },
+    {
+      "n": "καταλείπω | 2641",
+      "orth": "καταλείπω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I leave behind, abandon"
+        },
+        {
+          "role": "full",
+          "text": "I leave behind, desert, abandon, forsake; I leave remaining,\n                  reserve."
+        }
+      ]
+    },
+    {
+      "n": "καταλιθάζω | 2642",
+      "orth": "καταλιθάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I stone down, stone to death"
+        },
+        {
+          "role": "full",
+          "text": "I stone down, stone to death, overwhelm with stones."
+        }
+      ]
+    },
+    {
+      "n": "καταλλαγή | 2643",
+      "orth": "καταλλαγή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "reconciliation"
+        },
+        {
+          "role": "full",
+          "text": "reconciliation, restoration to favor."
+        }
+      ]
+    },
+    {
+      "n": "καταλλάσσω | 2644",
+      "orth": "καταλλάσσω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I reconcile"
+        },
+        {
+          "role": "full",
+          "text": "I change, exchange, reconcile."
+        }
+      ]
+    },
+    {
+      "n": "κατάλοιπος | 2645",
+      "orth": "κατάλοιπος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "left behind, the remainder"
+        },
+        {
+          "role": "full",
+          "text": "left behind; the rest, the remainder."
+        }
+      ]
+    },
+    {
+      "n": "κατάλυμα | 2646",
+      "orth": "κατάλυμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an inn, lodging-place"
+        },
+        {
+          "role": "full",
+          "text": "an inn, lodging-place."
+        }
+      ]
+    },
+    {
+      "n": "καταλύω | 2647",
+      "orth": "καταλύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I break up, overthrow, unharness, find a lodging"
+        },
+        {
+          "role": "full",
+          "text": "(lit: I loosen thoroughly), (a) trans: I break up, overthrow, destroy,\n                  both lit. and met., (b) I unyoke, unharness a carriage horse or pack animal;\n                  hence: I put up, lodge, find a lodging."
+        }
+      ]
+    },
+    {
+      "n": "καταμανθάνω | 2648",
+      "orth": "καταμανθάνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I understand, consider carefully"
+        },
+        {
+          "role": "full",
+          "text": "I understand, take in a fact about, consider carefully."
+        }
+      ]
+    },
+    {
+      "n": "καταμαρτυρέω | 2649",
+      "orth": "καταμαρτυρέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I give evidence against"
+        },
+        {
+          "role": "full",
+          "text": "I give evidence (bear witness) against."
+        }
+      ]
+    },
+    {
+      "n": "καταμένω | 2650",
+      "orth": "καταμένω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I wait, stay, remain, abide"
+        },
+        {
+          "role": "full",
+          "text": "I wait, stay (with), remain, abide, dwell."
+        }
+      ]
+    },
+    {
+      "n": "καταμόνας | 2651",
+      "orth": "καταμόνας",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "alone, apart, in private"
+        },
+        {
+          "role": "full",
+          "text": "along, apart, in private."
+        }
+      ]
+    },
+    {
+      "n": "κατάθεμα | 2652",
+      "orth": "κατάθεμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a curse, an accursed thing"
+        },
+        {
+          "role": "full",
+          "text": "a curse, an accursed thing."
+        }
+      ]
+    },
+    {
+      "n": "καταθεματίζω | 2653",
+      "orth": "καταθεματίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I curse, devote to destruction"
+        },
+        {
+          "role": "full",
+          "text": "I curse, devote to destruction."
+        }
+      ]
+    },
+    {
+      "n": "καταναλίσκω | 2654",
+      "orth": "καταναλίσκω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I consume utterly"
+        },
+        {
+          "role": "full",
+          "text": "I use up, spend, consume (as with fire)."
+        }
+      ]
+    },
+    {
+      "n": "καταναρκάω | 2655",
+      "orth": "καταναρκάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I burden, encumber"
+        },
+        {
+          "role": "full",
+          "text": "(properly a medical term: I stupefy, hence) I burden, encumber."
+        }
+      ]
+    },
+    {
+      "n": "κατανεύω | 2656",
+      "orth": "κατανεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I nod, make a sign"
+        },
+        {
+          "role": "full",
+          "text": "I nod, make a sign, beckon."
+        }
+      ]
+    },
+    {
+      "n": "κατανοέω | 2657",
+      "orth": "κατανοέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I understand, perceive, consider"
+        },
+        {
+          "role": "full",
+          "text": "I take note of, perceive, consider carefully, discern, detect, make\n                  account of."
+        }
+      ]
+    },
+    {
+      "n": "καταντάω | 2658",
+      "orth": "καταντάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I come down, arrive at, reach"
+        },
+        {
+          "role": "full",
+          "text": "(a) I come down, either from high land to lower (or actually to the\n                  sea-coast), or from the high seas to the coast; hence met: I arrive at, reach (my\n                  destination), (b) of property: I come down (descend) by inheritance to an\n                  heir."
+        }
+      ]
+    },
+    {
+      "n": "κατάνυξις | 2659",
+      "orth": "κατάνυξις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "deep sleep, stupor"
+        },
+        {
+          "role": "full",
+          "text": "deep sleep, torpor, insensibility, stupor."
+        }
+      ]
+    },
+    {
+      "n": "κατανύσσομαι | 2660",
+      "orth": "κατανύσσομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am pierced, stung"
+        },
+        {
+          "role": "full",
+          "text": "met: I am pierced, stung, smitten."
+        }
+      ]
+    },
+    {
+      "n": "καταξιόω | 2661",
+      "orth": "καταξιόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I deem worthy"
+        },
+        {
+          "role": "full",
+          "text": "I deem (count) worthy."
+        }
+      ]
+    },
+    {
+      "n": "καταπατέω | 2662",
+      "orth": "καταπατέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I trample under foot"
+        },
+        {
+          "role": "full",
+          "text": "I trample down, trample under foot (lit. and met.), spurn."
+        }
+      ]
+    },
+    {
+      "n": "κατάπαυσις | 2663",
+      "orth": "κατάπαυσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "resting, rest"
+        },
+        {
+          "role": "full",
+          "text": "(in the Old Testament of the rest attained by the settlement in\n                  Canaan), resting, rest, dwelling, habitation."
+        }
+      ]
+    },
+    {
+      "n": "καταπαύω | 2664",
+      "orth": "καταπαύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I rest, cause to rest"
+        },
+        {
+          "role": "full",
+          "text": "(a) trans: I cause to rest, bring to rest; I cause to refrain, (b)\n                  intrans: I rest."
+        }
+      ]
+    },
+    {
+      "n": "καταπέτασμα | 2665",
+      "orth": "καταπέτασμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a veil, curtain"
+        },
+        {
+          "role": "full",
+          "text": "(lit: that which is spread out downwards, that which hangs down), a\n                  curtain, veil, of that which separated the Holy of Holies from the outer parts of\n                  the temple at Jerusalem, also of an outer curtain at the entrance to the Holy\n                  Place in the same temple."
+        }
+      ]
+    },
+    {
+      "n": "καταπίνω | 2666",
+      "orth": "καταπίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I swallow, devour, destroy"
+        },
+        {
+          "role": "full",
+          "text": "I drink down, swallow, devour, destroy, consume."
+        }
+      ]
+    },
+    {
+      "n": "καταπίπτω | 2667",
+      "orth": "καταπίπτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I fall down"
+        },
+        {
+          "role": "full",
+          "text": "I fall down, fall prostrate."
+        }
+      ]
+    },
+    {
+      "n": "καταπλέω | 2668",
+      "orth": "καταπλέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I sail down"
+        },
+        {
+          "role": "full",
+          "text": "I sail down (from the high seas to the shore)."
+        }
+      ]
+    },
+    {
+      "n": "καταπονέω | 2669",
+      "orth": "καταπονέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I ill-treat"
+        },
+        {
+          "role": "full",
+          "text": "I exhaust by labor or suffering, wear out, overpower, oppress."
+        }
+      ]
+    },
+    {
+      "n": "καταποντίζω | 2670",
+      "orth": "καταποντίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I sink in the sea, am drowned"
+        },
+        {
+          "role": "full",
+          "text": "I sink in the sea, pass: I drown, am submerged."
+        }
+      ]
+    },
+    {
+      "n": "κατάρα | 2671",
+      "orth": "κατάρα, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a curse, cursing"
+        },
+        {
+          "role": "full",
+          "text": "cursing; a curse; meton: a doomed one."
+        }
+      ]
+    },
+    {
+      "n": "καταράομαι | 2672",
+      "orth": "καταράομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I curse"
+        },
+        {
+          "role": "full",
+          "text": "I curse."
+        }
+      ]
+    },
+    {
+      "n": "καταργέω | 2673",
+      "orth": "καταργέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bring to naught, sever, abolish"
+        },
+        {
+          "role": "full",
+          "text": "(a) I make idle (inactive), make of no effect, annul, abolish, bring to\n                  naught, (b) I discharge, sever, separate from."
+        }
+      ]
+    },
+    {
+      "n": "καταριθμέω | 2674",
+      "orth": "καταριθμέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I number among"
+        },
+        {
+          "role": "full",
+          "text": "I number among, count with."
+        }
+      ]
+    },
+    {
+      "n": "καταρτίζω | 2675",
+      "orth": "καταρτίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I fit together, prepare"
+        },
+        {
+          "role": "full",
+          "text": "(a) I fit (join) together; met: I compact together, (b) act. and mid: I\n                  prepare, perfect, for his (its) full destination or use, bring into its proper\n                  condition (whether for the first time, or after a lapse)."
+        }
+      ]
+    },
+    {
+      "n": "κατάρτισις | 2676",
+      "orth": "κατάρτισις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a perfecting"
+        },
+        {
+          "role": "full",
+          "text": "a perfecting, making fit."
+        }
+      ]
+    },
+    {
+      "n": "καταρτισμός | 2677",
+      "orth": "καταρτισμός, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a perfecting"
+        },
+        {
+          "role": "full",
+          "text": "a bringing to a condition of fitness, perfecting."
+        }
+      ]
+    },
+    {
+      "n": "κατασείω | 2678",
+      "orth": "κατασείω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I shake, wave, beckon"
+        },
+        {
+          "role": "full",
+          "text": "I shake (the hand) up and down, wave; intrans: I beckon for\n                  silence."
+        }
+      ]
+    },
+    {
+      "n": "κατασκάπτω | 2679",
+      "orth": "κατασκάπτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I dig down under, demolish"
+        },
+        {
+          "role": "full",
+          "text": "I dig down under, demolish, undermine."
+        }
+      ]
+    },
+    {
+      "n": "κατασκευάζω | 2680",
+      "orth": "κατασκευάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I build, prepare, make"
+        },
+        {
+          "role": "full",
+          "text": "I build, construct, prepare, make ready."
+        }
+      ]
+    },
+    {
+      "n": "κατασκηνόω | 2681",
+      "orth": "κατασκηνόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I encamp, tabernacle, dwell"
+        },
+        {
+          "role": "full",
+          "text": "I encamp, take up my quarters, tabernacle, pitch my tent, dwell."
+        }
+      ]
+    },
+    {
+      "n": "κατασκήνωσις | 2682",
+      "orth": "κατασκήνωσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a dwelling-place"
+        },
+        {
+          "role": "full",
+          "text": "a dwelling-place."
+        }
+      ]
+    },
+    {
+      "n": "κατασκιάζω | 2683",
+      "orth": "κατασκιάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I overshadow"
+        },
+        {
+          "role": "full",
+          "text": "I overshadow."
+        }
+      ]
+    },
+    {
+      "n": "κατασκοπέω | 2684",
+      "orth": "κατασκοπέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I spy out, plot against"
+        },
+        {
+          "role": "full",
+          "text": "I view closely, inspect, spy out."
+        }
+      ]
+    },
+    {
+      "n": "κατάσκοπος | 2685",
+      "orth": "κατάσκοπος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a spy"
+        },
+        {
+          "role": "full",
+          "text": "a spy, scout."
+        }
+      ]
+    },
+    {
+      "n": "κατασοφίζομαι | 2686",
+      "orth": "κατασοφίζομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I circumvent by trickery"
+        },
+        {
+          "role": "full",
+          "text": "I deal craftily with, outwit."
+        }
+      ]
+    },
+    {
+      "n": "καταστέλλω | 2687",
+      "orth": "καταστέλλω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I appease, restrain"
+        },
+        {
+          "role": "full",
+          "text": "I let down, lower; I keep down, restrain, pacify."
+        }
+      ]
+    },
+    {
+      "n": "κατάστημα | 2688",
+      "orth": "κατάστημα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "behavior, conduct"
+        },
+        {
+          "role": "full",
+          "text": "behavior, conduct, deportment, demeanor."
+        }
+      ]
+    },
+    {
+      "n": "καταστολή | 2689",
+      "orth": "καταστολή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "garb, dress, attire"
+        },
+        {
+          "role": "full",
+          "text": "garb, clothing, dress, attire."
+        }
+      ]
+    },
+    {
+      "n": "καταστρέφω | 2690",
+      "orth": "καταστρέφω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I overturn, overthrow"
+        },
+        {
+          "role": "full",
+          "text": "I overturn, overthrow."
+        }
+      ]
+    },
+    {
+      "n": "καταστρηνιάω | 2691",
+      "orth": "καταστρηνιάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I grow wanton towards"
+        },
+        {
+          "role": "full",
+          "text": "I grow wanton towards."
+        }
+      ]
+    },
+    {
+      "n": "καταστροφή | 2692",
+      "orth": "καταστροφή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "overthrow, destruction"
+        },
+        {
+          "role": "full",
+          "text": "overthrow, destruction, material or spiritual."
+        }
+      ]
+    },
+    {
+      "n": "καταστρώννυμι | 2693",
+      "orth": "καταστρώννυμι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I scatter on the ground"
+        },
+        {
+          "role": "full",
+          "text": "I strew or spread over; I lay low, overthrow."
+        }
+      ]
+    },
+    {
+      "n": "κατασύρω | 2694",
+      "orth": "κατασύρω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I drag down"
+        },
+        {
+          "role": "full",
+          "text": "I pull down, drag away."
+        }
+      ]
+    },
+    {
+      "n": "κατασφάζω | 2695",
+      "orth": "κατασφάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I slaughter"
+        },
+        {
+          "role": "full",
+          "text": "I slaughter, kill off, slay."
+        }
+      ]
+    },
+    {
+      "n": "κατασφραγίζω | 2696",
+      "orth": "κατασφραγίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I seal and thus close"
+        },
+        {
+          "role": "full",
+          "text": "I seal up, secure with a seal."
+        }
+      ]
+    },
+    {
+      "n": "κατάσχεσις | 2697",
+      "orth": "κατάσχεσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a possession"
+        },
+        {
+          "role": "full",
+          "text": "a possession, holding fast."
+        }
+      ]
+    },
+    {
+      "n": "κατατίθημι | 2698",
+      "orth": "κατατίθημι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I lay down, deposit"
+        },
+        {
+          "role": "full",
+          "text": "(a) I lay down, deposit, (b) mid: I lay down or deposit a favor, with\n                  the view of receiving one in return, seek favor."
+        }
+      ]
+    },
+    {
+      "n": "κατατομή | 2699",
+      "orth": "κατατομή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a mutilation, spoiling"
+        },
+        {
+          "role": "full",
+          "text": "a mutilation, spoiling."
+        }
+      ]
+    },
+    {
+      "n": "κατατρέχω | 2701",
+      "orth": "κατατρέχω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I run down"
+        },
+        {
+          "role": "full",
+          "text": "I run down."
+        }
+      ]
+    },
+    {
+      "n": "καταφέρω | 2702",
+      "orth": "καταφέρω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bring down, oppress"
+        },
+        {
+          "role": "full",
+          "text": "I bear down, overpower; I give a vote or verdict, bring charges."
+        }
+      ]
+    },
+    {
+      "n": "καταφεύγω | 2703",
+      "orth": "καταφεύγω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I flee for refuge"
+        },
+        {
+          "role": "full",
+          "text": "I flee for refuge (implying that the refuge is reached); aor. indicates\n                  moment of arrival."
+        }
+      ]
+    },
+    {
+      "n": "καταφθείρω | 2704",
+      "orth": "καταφθείρω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I destroy, corrupt"
+        },
+        {
+          "role": "full",
+          "text": "I destroy, corrupt."
+        }
+      ]
+    },
+    {
+      "n": "καταφιλέω | 2705",
+      "orth": "καταφιλέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I kiss affectionately"
+        },
+        {
+          "role": "full",
+          "text": "I kiss affectionately."
+        }
+      ]
+    },
+    {
+      "n": "καταφρονέω | 2706",
+      "orth": "καταφρονέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I despise, scorn"
+        },
+        {
+          "role": "full",
+          "text": "I despise, scorn, and show it by active insult, disregard."
+        }
+      ]
+    },
+    {
+      "n": "καταφρονητής | 2707",
+      "orth": "καταφρονητής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a despiser"
+        },
+        {
+          "role": "full",
+          "text": "a despiser, scorner."
+        }
+      ]
+    },
+    {
+      "n": "καταχέω | 2708",
+      "orth": "καταχέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I pour over"
+        },
+        {
+          "role": "full",
+          "text": "I pour (down) upon."
+        }
+      ]
+    },
+    {
+      "n": "καταχθόνιος | 2709",
+      "orth": "καταχθόνιος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "under the earth, subterranean"
+        },
+        {
+          "role": "full",
+          "text": "under the earth, subterranean, infernal."
+        }
+      ]
+    },
+    {
+      "n": "καταχράομαι | 2710",
+      "orth": "καταχράομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I use up"
+        },
+        {
+          "role": "full",
+          "text": "I use to the full, use up."
+        }
+      ]
+    },
+    {
+      "n": "καταψύχω | 2711",
+      "orth": "καταψύχω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I cool, refresh"
+        },
+        {
+          "role": "full",
+          "text": "I cool, refresh."
+        }
+      ]
+    },
+    {
+      "n": "κατείδωλος | 2712",
+      "orth": "κατείδωλος, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "full of images of idols"
+        },
+        {
+          "role": "full",
+          "text": "full of images of idols, grossly idolatrous."
+        }
+      ]
+    },
+    {
+      "n": "κατέναντι | 2713",
+      "orth": "κατέναντι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "opposite, in front of"
+        },
+        {
+          "role": "full",
+          "text": "opposite, in front (of), over against."
+        }
+      ]
+    },
+    {
+      "n": "κατενώπιον | 2714",
+      "orth": "κατενώπιον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "before the face of"
+        },
+        {
+          "role": "full",
+          "text": "before the face of, over against."
+        }
+      ]
+    },
+    {
+      "n": "κατεξουσιάζω | 2715",
+      "orth": "κατεξουσιάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I have power over"
+        },
+        {
+          "role": "full",
+          "text": "I have (exercise) power (authority) over."
+        }
+      ]
+    },
+    {
+      "n": "κατεργάζομαι | 2716",
+      "orth": "κατεργάζομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I work out, produce, accomplish"
+        },
+        {
+          "role": "full",
+          "text": "I effect by labor, achieve, work out, bring about."
+        }
+      ]
+    },
+    {
+      "n": "κατέρχομαι | 2718",
+      "orth": "κατέρχομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I come down"
+        },
+        {
+          "role": "full",
+          "text": "I come down from sky to earth, or from high land to lower land (or to\n                  the coast), or from the high seas to the shore."
+        }
+      ]
+    },
+    {
+      "n": "κατεσθίω | 2719",
+      "orth": "κατεσθίω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I eat till it is finished"
+        },
+        {
+          "role": "full",
+          "text": "I eat up, eat till it is finished, devour, squander, annoy,\n                  injure."
+        }
+      ]
+    },
+    {
+      "n": "κατευθύνω | 2720",
+      "orth": "κατευθύνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make straight, direct"
+        },
+        {
+          "role": "full",
+          "text": "(a) I make straight, (b) met: I put in the right way, direct."
+        }
+      ]
+    },
+    {
+      "n": "κατεφίστημι | 2721",
+      "orth": "κατεφίστημι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I rush, assault"
+        },
+        {
+          "role": "full",
+          "text": "I rush, assault, rise up against."
+        }
+      ]
+    },
+    {
+      "n": "κατέχω | 2722",
+      "orth": "κατέχω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I hold fast, bind, restrain"
+        },
+        {
+          "role": "full",
+          "text": "(a) I hold fast, bind, arrest, (b) I take possession of, lay hold of,\n                  (c) I hold back, detain, restrain, (d) I hold a ship, keep its head."
+        }
+      ]
+    },
+    {
+      "n": "κατηγορέω | 2723",
+      "orth": "κατηγορέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I accuse, charge, prosecute"
+        },
+        {
+          "role": "full",
+          "text": "I accuse, charge, prosecute."
+        }
+      ]
+    },
+    {
+      "n": "κατηγορία | 2724",
+      "orth": "κατηγορία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a charge, accusation"
+        },
+        {
+          "role": "full",
+          "text": "an accusation, charge."
+        }
+      ]
+    },
+    {
+      "n": "κατήγορος | 2725",
+      "orth": "κατήγορος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a prosecutor, accuser"
+        },
+        {
+          "role": "full",
+          "text": "an accuser, prosecutor."
+        }
+      ]
+    },
+    {
+      "n": "κατήφεια | 2726",
+      "orth": "κατήφεια, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a downcast countenance, gloom, dejection"
+        },
+        {
+          "role": "full",
+          "text": "a downcast countenance as a sign of sorrow, gloominess, gloom,\n                  dejection."
+        }
+      ]
+    },
+    {
+      "n": "κατηχέω | 2727",
+      "orth": "κατηχέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I instruct orally"
+        },
+        {
+          "role": "full",
+          "text": "I instruct orally, teach, inform."
+        }
+      ]
+    },
+    {
+      "n": "κατιόω | 2728",
+      "orth": "κατιόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I rust"
+        },
+        {
+          "role": "full",
+          "text": "I rust; pass: I am rusted, tarnished."
+        }
+      ]
+    },
+    {
+      "n": "κατισχύω | 2729",
+      "orth": "κατισχύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I prevail against, overpower, am able"
+        },
+        {
+          "role": "full",
+          "text": "I prevail against, overpower, get the upper hand."
+        }
+      ]
+    },
+    {
+      "n": "κατοικέω | 2730",
+      "orth": "κατοικέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I dwell in, settle in, inhabit"
+        },
+        {
+          "role": "full",
+          "text": "I dwell in, settle in, am established in (permanently), inhabit."
+        }
+      ]
+    },
+    {
+      "n": "κατοίκησις | 2731",
+      "orth": "κατοίκησις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "dwelling, abode, habitation"
+        },
+        {
+          "role": "full",
+          "text": "a dwelling, abode, habitation."
+        }
+      ]
+    },
+    {
+      "n": "κατοικητήριον | 2732",
+      "orth": "κατοικητήριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a habitation, dwelling-place"
+        },
+        {
+          "role": "full",
+          "text": "a habitation, dwelling-place, abode."
+        }
+      ]
+    },
+    {
+      "n": "κατοικία | 2733",
+      "orth": "κατοικία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a dwelling, habitation"
+        },
+        {
+          "role": "full",
+          "text": "a dwelling, habitation, settlement."
+        }
+      ]
+    },
+    {
+      "n": "κατοπτρίζομαι | 2734",
+      "orth": "κατοπτρίζομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I mirror, reflect"
+        },
+        {
+          "role": "full",
+          "text": "I mirror, reflect."
+        }
+      ]
+    },
+    {
+      "n": "κατόρθωμα | 2735",
+      "orth": "κατόρθωμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "anything happily and successfully accomplished"
+        },
+        {
+          "role": "full",
+          "text": "anything happily and successfully accomplished, a beneficial and worthy\n                  deed."
+        }
+      ]
+    },
+    {
+      "n": "κάτω | 2736",
+      "orth": "κάτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "down, below, lower, under, less"
+        },
+        {
+          "role": "full",
+          "text": "(a) down, below, also: downwards, (b) lower, under, less, of a length\n                  of time."
+        }
+      ]
+    },
+    {
+      "n": "κατώτερος | 2737",
+      "orth": "κατώτερος, α, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "lower"
+        },
+        {
+          "role": "full",
+          "text": "lower."
+        }
+      ]
+    },
+    {
+      "n": "καῦμα | 2738",
+      "orth": "καῦμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "burning heat, heat"
+        },
+        {
+          "role": "full",
+          "text": "burning heat, heat."
+        }
+      ]
+    },
+    {
+      "n": "καυματίζω | 2739",
+      "orth": "καυματίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I burn, scorch"
+        },
+        {
+          "role": "full",
+          "text": "I burn, scorch."
+        }
+      ]
+    },
+    {
+      "n": "καῦσις | 2740",
+      "orth": "καῦσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a burning up"
+        },
+        {
+          "role": "full",
+          "text": "a burning up, being burned."
+        }
+      ]
+    },
+    {
+      "n": "καυσόω | 2741",
+      "orth": "καυσόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I burn up"
+        },
+        {
+          "role": "full",
+          "text": "I burn with great heat."
+        }
+      ]
+    },
+    {
+      "n": "καύσων | 2742",
+      "orth": "καύσων, ῶνος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a scorching heat, hot wind"
+        },
+        {
+          "role": "full",
+          "text": "a scorching heat, hot wind."
+        }
+      ]
+    },
+    {
+      "n": "καυτηριάζω | 2743",
+      "orth": "καυτηριάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I cauterize, sear"
+        },
+        {
+          "role": "full",
+          "text": "I cauterize, burn with a hot iron; hence met: I sear."
+        }
+      ]
+    },
+    {
+      "n": "καυχάομαι | 2744",
+      "orth": "καυχάομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I boast, glory"
+        },
+        {
+          "role": "full",
+          "text": "I boast; I glory (exult) proudly."
+        }
+      ]
+    },
+    {
+      "n": "καύχημα | 2745",
+      "orth": "καύχημα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a boasting"
+        },
+        {
+          "role": "full",
+          "text": "a boasting; a ground of boasting (glorying, exultation)."
+        }
+      ]
+    },
+    {
+      "n": "καύχησις | 2746",
+      "orth": "καύχησις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the act of boasting, exultation"
+        },
+        {
+          "role": "full",
+          "text": "the act of boasting, glorying, exultation."
+        }
+      ]
+    },
+    {
+      "n": "Κεγχρεαί | 2747",
+      "orth": "Κεγχρεαί, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cenchreae"
+        },
+        {
+          "role": "full",
+          "text": "Cenchreae, the port of Corinth on the Saronic Gulf."
+        }
+      ]
+    },
+    {
+      "n": "Κεδρών | 2748",
+      "orth": "Κεδρών, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Kidron"
+        },
+        {
+          "role": "full",
+          "text": "Kidron, a valley near Jerusalem."
+        }
+      ]
+    },
+    {
+      "n": "κεῖμαι | 2749",
+      "orth": "κεῖμαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I lie, recline, am laid"
+        },
+        {
+          "role": "full",
+          "text": "I lie, recline, am placed, am laid, set, specially appointed,\n                  destined."
+        }
+      ]
+    },
+    {
+      "n": "κειρία | 2750",
+      "orth": "κειρία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a bandage, grave clothes"
+        },
+        {
+          "role": "full",
+          "text": "a kind of girdle made of cords; a bandage, grave clothes."
+        }
+      ]
+    },
+    {
+      "n": "κείρω | 2751",
+      "orth": "κείρω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I shear, cut the hair of"
+        },
+        {
+          "role": "full",
+          "text": "I shear, cut the hair of; mid: I cut my own hair, have my hair\n                  cut."
+        }
+      ]
+    },
+    {
+      "n": "κέλευσμα | 2752",
+      "orth": "κέλευσμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a word of command, a call"
+        },
+        {
+          "role": "full",
+          "text": "a word of command, a call, an arousing outcry."
+        }
+      ]
+    },
+    {
+      "n": "κελεύω | 2753",
+      "orth": "κελεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I command, order"
+        },
+        {
+          "role": "full",
+          "text": "I command, order, direct, bid."
+        }
+      ]
+    },
+    {
+      "n": "κενοδοξία | 2754",
+      "orth": "κενοδοξία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "vainglory, empty pride"
+        },
+        {
+          "role": "full",
+          "text": "vainglory, empty pride."
+        }
+      ]
+    },
+    {
+      "n": "κενόδοξας | 2755",
+      "orth": "κενόδοξας, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "vainglorious"
+        },
+        {
+          "role": "full",
+          "text": "vainglorious, boastful."
+        }
+      ]
+    },
+    {
+      "n": "κενός | 2756",
+      "orth": "κενός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "empty, vain, hollow"
+        },
+        {
+          "role": "full",
+          "text": "(a) empty, (b) met: empty (in moral content), vain, ineffective,\n                  foolish, worthless, (c) false, unreal, pretentious, hollow."
+        }
+      ]
+    },
+    {
+      "n": "κενοφωνία | 2757",
+      "orth": "κενοφωνία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "empty disputing, worthless babble"
+        },
+        {
+          "role": "full",
+          "text": "empty disputing, worthless babble."
+        }
+      ]
+    },
+    {
+      "n": "κενόω | 2758",
+      "orth": "κενόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I empty, deprive of content, make unreal"
+        },
+        {
+          "role": "full",
+          "text": "(a) I empty, (b) I deprive of content, make unreal."
+        }
+      ]
+    },
+    {
+      "n": "κέντρον | 2759",
+      "orth": "κέντρον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a sting, goad"
+        },
+        {
+          "role": "full",
+          "text": "a sting, goad; met: of death."
+        }
+      ]
+    },
+    {
+      "n": "κεντυρίων | 2760",
+      "orth": "κεντυρίων, ῶνος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a centurion"
+        },
+        {
+          "role": "full",
+          "text": "a centurion, an officer commanding about a hundred infantry in the\n                  Roman army."
+        }
+      ]
+    },
+    {
+      "n": "κενῶς | 2761",
+      "orth": "κενῶς",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "falsely, in vain"
+        },
+        {
+          "role": "full",
+          "text": "falsely, in vain, to no purpose."
+        }
+      ]
+    },
+    {
+      "n": "κεραία | 2762",
+      "orth": "κεραία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an apostrophe"
+        },
+        {
+          "role": "full",
+          "text": "a little hook, an apostrophe on letters of the alphabet, distinguishing\n                  them from other little letters, or a separation stroke between letters."
+        }
+      ]
+    },
+    {
+      "n": "κεραμεύς | 2763",
+      "orth": "κεραμεύς, έως, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a potter"
+        },
+        {
+          "role": "full",
+          "text": "a potter."
+        }
+      ]
+    },
+    {
+      "n": "κεραμικός | 2764",
+      "orth": "κεραμικός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of clay, made by a potter"
+        },
+        {
+          "role": "full",
+          "text": "of clay, made by a potter, earthen."
+        }
+      ]
+    },
+    {
+      "n": "κεράμιον | 2765",
+      "orth": "κεράμιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a pitcher, earthen vessel"
+        },
+        {
+          "role": "full",
+          "text": "a pitcher, earthen vessel, jar."
+        }
+      ]
+    },
+    {
+      "n": "κέραμος | 2766",
+      "orth": "κέραμος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a tile, the roof"
+        },
+        {
+          "role": "full",
+          "text": "a tile; practically: the roof."
+        }
+      ]
+    },
+    {
+      "n": "κεράννυμι | 2767",
+      "orth": "κεράννυμι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I mix, pour out for drinking"
+        },
+        {
+          "role": "full",
+          "text": "I mix, mingle, pour out for drinking."
+        }
+      ]
+    },
+    {
+      "n": "κέρας | 2768",
+      "orth": "κέρας, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a horn"
+        },
+        {
+          "role": "full",
+          "text": "(a) a horn, (b) a horn-like projection at the corner of an altar, (c) a\n                  horn as a symbol of power."
+        }
+      ]
+    },
+    {
+      "n": "κεράτιον | 2769",
+      "orth": "κεράτιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a husk of the carob"
+        },
+        {
+          "role": "full",
+          "text": "a husk (pod) of the carob."
+        }
+      ]
+    },
+    {
+      "n": "κερδαίνω | 2770",
+      "orth": "κερδαίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I gain, win, avoid loss"
+        },
+        {
+          "role": "full",
+          "text": "I gain, acquire, win (over), avoid loss."
+        }
+      ]
+    },
+    {
+      "n": "κέρδος | 2771",
+      "orth": "κέρδος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "gain, advantage"
+        },
+        {
+          "role": "full",
+          "text": "gain, advantage, profit."
+        }
+      ]
+    },
+    {
+      "n": "κέρμα | 2772",
+      "orth": "κέρμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a small coin"
+        },
+        {
+          "role": "full",
+          "text": "a small coin; plur: small change."
+        }
+      ]
+    },
+    {
+      "n": "κερματιστής | 2773",
+      "orth": "κερματιστής, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a money-changer"
+        },
+        {
+          "role": "full",
+          "text": "properly: a changer of large into smaller coins, a money-changer."
+        }
+      ]
+    },
+    {
+      "n": "κεφάλαιον | 2774",
+      "orth": "κεφάλαιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the chief matter, a sum of money"
+        },
+        {
+          "role": "full",
+          "text": "(a) the chief matter, the main point, (b) a sum of money."
+        }
+      ]
+    },
+    {
+      "n": "κεφαλαιόω | 2775",
+      "orth": "κεφαλαιόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I wound in the head"
+        },
+        {
+          "role": "full",
+          "text": "I wound in the head."
+        }
+      ]
+    },
+    {
+      "n": "κεφαλή | 2776",
+      "orth": "κεφαλή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the head"
+        },
+        {
+          "role": "full",
+          "text": "(a) the head, (b) met: a corner stone, uniting two walls; head, ruler,\n                  lord."
+        }
+      ]
+    },
+    {
+      "n": "κεφαλίς | 2777",
+      "orth": "κεφαλίς, ίδος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a roll, volume"
+        },
+        {
+          "role": "full",
+          "text": "(lit: little head, then: the knob at the end of the wooden core of a\n                  roll of papyrus, then) a roll, volume, division (of a book)."
+        }
+      ]
+    },
+    {
+      "n": "κῆνσος | 2778",
+      "orth": "κῆνσος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a poll-tax"
+        },
+        {
+          "role": "full",
+          "text": "a poll-tax."
+        }
+      ]
+    },
+    {
+      "n": "κῆπος | 2779",
+      "orth": "κῆπος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a garden"
+        },
+        {
+          "role": "full",
+          "text": "a garden, any place planted with trees and herbs."
+        }
+      ]
+    },
+    {
+      "n": "κηπουρός | 2780",
+      "orth": "κηπουρός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a gardener"
+        },
+        {
+          "role": "full",
+          "text": "a gardener, garden-keeper."
+        }
+      ]
+    },
+    {
+      "n": "κηρίον | 2781",
+      "orth": "κηρίον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a honeycomb"
+        },
+        {
+          "role": "full",
+          "text": "a honeycomb."
+        }
+      ]
+    },
+    {
+      "n": "κήρυγμα | 2782",
+      "orth": "κήρυγμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a proclamation, preaching"
+        },
+        {
+          "role": "full",
+          "text": "a proclamation, preaching."
+        }
+      ]
+    },
+    {
+      "n": "κῆρυξ | 2783",
+      "orth": "κῆρυξ, υκος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a herald, preacher"
+        },
+        {
+          "role": "full",
+          "text": "a herald, preacher, proclaimer."
+        }
+      ]
+    },
+    {
+      "n": "κηρύσσω | 2784",
+      "orth": "κηρύσσω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I proclaim, herald, preach"
+        },
+        {
+          "role": "full",
+          "text": "I proclaim, herald, preach."
+        }
+      ]
+    },
+    {
+      "n": "κῆτος | 2785",
+      "orth": "κῆτος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a sea monster, huge fish"
+        },
+        {
+          "role": "full",
+          "text": "a sea monster, huge sea fish, whale."
+        }
+      ]
+    },
+    {
+      "n": "Κηφᾶς | 2786",
+      "orth": "Κηφᾶς, ᾶ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cephas"
+        },
+        {
+          "role": "full",
+          "text": "Cephas (Aramaic for rock), the new name given to Simon Peter, the\n                  apostle."
+        }
+      ]
+    },
+    {
+      "n": "κιβωτός | 2787",
+      "orth": "κιβωτός, οῦ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an ark"
+        },
+        {
+          "role": "full",
+          "text": "(properly: a wooden box, hence) the Ark, in which Noah sailed; the Ark\n                  of the Covenant."
+        }
+      ]
+    },
+    {
+      "n": "κιθάρα | 2788",
+      "orth": "κιθάρα, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a harp"
+        },
+        {
+          "role": "full",
+          "text": "a harp, lyre."
+        }
+      ]
+    },
+    {
+      "n": "κιθαρίζω | 2789",
+      "orth": "κιθαρίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I play on the harp"
+        },
+        {
+          "role": "full",
+          "text": "intrans. and trans: I play on the harp, I harp, with acc. of the\n                  tune."
+        }
+      ]
+    },
+    {
+      "n": "κιθαρῳδός | 2790",
+      "orth": "κιθαρῳδός, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a harpist"
+        },
+        {
+          "role": "full",
+          "text": "a harpist, one who sings with harp as accompaniment."
+        }
+      ]
+    },
+    {
+      "n": "Κιλικία | 2791",
+      "orth": "Κιλικία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cilicia"
+        },
+        {
+          "role": "full",
+          "text": "Cilicia, a Roman province between the Taurus range of mountains and the\n                  coast in the south-east corner of Asia Minor, linked up with the province of\n                  Syria."
+        }
+      ]
+    },
+    {
+      "n": "κινάμωμον | 2792",
+      "orth": "κινάμωμον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "cinnamon"
+        },
+        {
+          "role": "full",
+          "text": "(a Semitic word) cinnamon."
+        }
+      ]
+    },
+    {
+      "n": "κινδυνεύω | 2793",
+      "orth": "κινδυνεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am in danger"
+        },
+        {
+          "role": "full",
+          "text": "I am in danger or peril."
+        }
+      ]
+    },
+    {
+      "n": "κίνδυνος | 2794",
+      "orth": "κίνδυνος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "danger, peril, risk"
+        },
+        {
+          "role": "full",
+          "text": "danger, peril, risk."
+        }
+      ]
+    },
+    {
+      "n": "κινέω | 2795",
+      "orth": "κινέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I move, stir, excite"
+        },
+        {
+          "role": "full",
+          "text": "I set in motion, move, remove, excite, stir up."
+        }
+      ]
+    },
+    {
+      "n": "κίνησις | 2796",
+      "orth": "κίνησις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a moving, stirring"
+        },
+        {
+          "role": "full",
+          "text": "a moving, stirring."
+        }
+      ]
+    },
+    {
+      "n": "Κίς | 2797",
+      "orth": "Κίς, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Kish"
+        },
+        {
+          "role": "full",
+          "text": "Kish, the father of Saul."
+        }
+      ]
+    },
+    {
+      "n": "κλάδος | 2798",
+      "orth": "κλάδος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a branch"
+        },
+        {
+          "role": "full",
+          "text": "a young tender shoot, then: a branch; met: of descendants."
+        }
+      ]
+    },
+    {
+      "n": "κλαίω | 2799",
+      "orth": "κλαίω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I weep, weep for, mourn"
+        },
+        {
+          "role": "full",
+          "text": "I weep, weep for, mourn, lament."
+        }
+      ]
+    },
+    {
+      "n": "κλάσις | 2800",
+      "orth": "κλάσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a breaking"
+        },
+        {
+          "role": "full",
+          "text": "a breaking."
+        }
+      ]
+    },
+    {
+      "n": "κλάσμα | 2801",
+      "orth": "κλάσμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a fragment"
+        },
+        {
+          "role": "full",
+          "text": "a fragment, broken piece."
+        }
+      ]
+    },
+    {
+      "n": "Κλαῦδη | 2802",
+      "orth": "Κλαῦδη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cauda, Clauda"
+        },
+        {
+          "role": "full",
+          "text": "Cauda, Clauda, an island twenty-three miles south of the western end of\n                  Crete."
+        }
+      ]
+    },
+    {
+      "n": "Κλαυδία | 2803",
+      "orth": "Κλαυδία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Claudia"
+        },
+        {
+          "role": "full",
+          "text": "Claudia, a Christian woman in Rome; probably a freedwoman of the\n                  imperial household."
+        }
+      ]
+    },
+    {
+      "n": "Κλαύδιος | 2804",
+      "orth": "Κλαύδιος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Claudius"
+        },
+        {
+          "role": "full",
+          "text": "(a) Claudius, the fourth of the Roman Emperors, Tiberius Claudius\n                  Caesar Augustus Germanicus, who ruled A.D. 41-54, (b) Claudius Lysias, a tribune\n                  at Jerusalem."
+        }
+      ]
+    },
+    {
+      "n": "κλαυθμός | 2805",
+      "orth": "κλαυθμός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "weeping, lamentation"
+        },
+        {
+          "role": "full",
+          "text": "weeping, lamentation, crying."
+        }
+      ]
+    },
+    {
+      "n": "κλάω | 2806",
+      "orth": "κλάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I break"
+        },
+        {
+          "role": "full",
+          "text": "I break (in pieces), break bread."
+        }
+      ]
+    },
+    {
+      "n": "κλεῖς | 2807",
+      "orth": "κλεῖς, κλειδός, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a key"
+        },
+        {
+          "role": "full",
+          "text": "a key."
+        }
+      ]
+    },
+    {
+      "n": "κλείω | 2808",
+      "orth": "κλείω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I shut, shut up"
+        },
+        {
+          "role": "full",
+          "text": "I shut, shut up."
+        }
+      ]
+    },
+    {
+      "n": "κλέμμα | 2809",
+      "orth": "κλέμμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a theft"
+        },
+        {
+          "role": "full",
+          "text": "a theft."
+        }
+      ]
+    },
+    {
+      "n": "Κλεοπᾶς | 2810",
+      "orth": "Κλεοπᾶς, ᾶ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cleopas"
+        },
+        {
+          "role": "full",
+          "text": "Cleopas, one of the two companions of the risen Jesus from Jerusalem to\n                  Emmaus."
+        }
+      ]
+    },
+    {
+      "n": "κλέος | 2811",
+      "orth": "κλέος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "glory, fame, praise"
+        },
+        {
+          "role": "full",
+          "text": "glory, fame, praise; rumor, report, credit."
+        }
+      ]
+    },
+    {
+      "n": "κλέπτης | 2812",
+      "orth": "κλέπτης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a thief"
+        },
+        {
+          "role": "full",
+          "text": "a thief."
+        }
+      ]
+    },
+    {
+      "n": "κλέπτω | 2813",
+      "orth": "κλέπτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I steal"
+        },
+        {
+          "role": "full",
+          "text": "I steal."
+        }
+      ]
+    },
+    {
+      "n": "κλῆμα | 2814",
+      "orth": "κλῆμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a branch, shoot"
+        },
+        {
+          "role": "full",
+          "text": "a branch, shoot, twig."
+        }
+      ]
+    },
+    {
+      "n": "Κλήμης | 2815",
+      "orth": "Κλήμης, μεντος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Clement"
+        },
+        {
+          "role": "full",
+          "text": "Clement, a fellow-worker of Paul in Rome."
+        }
+      ]
+    },
+    {
+      "n": "κληρονομέω | 2816",
+      "orth": "κληρονομέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I inherit, obtain"
+        },
+        {
+          "role": "full",
+          "text": "I inherit, obtain (possess) by inheritance, acquire."
+        }
+      ]
+    },
+    {
+      "n": "κληρονομία | 2817",
+      "orth": "κληρονομία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an inheritance"
+        },
+        {
+          "role": "full",
+          "text": "an inheritance, an heritage, regularly the gift of God to His chosen\n                  people, in the Old Testament: the Promised Land, in NT a possession viewed in one\n                  sense as present, in another as future; a share, participation."
+        }
+      ]
+    },
+    {
+      "n": "κληρονόμος | 2818",
+      "orth": "κληρονόμος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an heir, inheritor"
+        },
+        {
+          "role": "full",
+          "text": "an heir, an inheritor."
+        }
+      ]
+    },
+    {
+      "n": "κλῆρος | 2819",
+      "orth": "κλῆρος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a lot, portion"
+        },
+        {
+          "role": "full",
+          "text": "(a) a lot, (b) a portion assigned; hence: a portion of the people of\n                  God assigned to one's care, a congregation."
+        }
+      ]
+    },
+    {
+      "n": "κληρόω | 2820",
+      "orth": "κληρόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make a heritage"
+        },
+        {
+          "role": "full",
+          "text": "I cast lots, choose by lot, assign by lot, assign a portion, receive a\n                  share."
+        }
+      ]
+    },
+    {
+      "n": "κλῆσις | 2821",
+      "orth": "κλῆσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a calling, summons"
+        },
+        {
+          "role": "full",
+          "text": "a calling, invitation; in the NT, always of a divine call."
+        }
+      ]
+    },
+    {
+      "n": "κλητός | 2822",
+      "orth": "κλητός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "called, summoned"
+        },
+        {
+          "role": "full",
+          "text": "called, invited, summoned by God to an office or to salvation."
+        }
+      ]
+    },
+    {
+      "n": "κλίβανος | 2823",
+      "orth": "κλίβανος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "an oven, furnace"
+        },
+        {
+          "role": "full",
+          "text": "an oven, furnace."
+        }
+      ]
+    },
+    {
+      "n": "κλίμα | 2824",
+      "orth": "κλίμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a territory"
+        },
+        {
+          "role": "full",
+          "text": "a small geographical division, district, or territory."
+        }
+      ]
+    },
+    {
+      "n": "κλίνη | 2825",
+      "orth": "κλίνη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a couch, bed, mat, bier"
+        },
+        {
+          "role": "full",
+          "text": "a couch, bed, portable bed or mat, a couch for reclining at meals,\n                  possibly also a bier."
+        }
+      ]
+    },
+    {
+      "n": "κλινίδιον | 2826",
+      "orth": "κλινίδιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a couch or litter"
+        },
+        {
+          "role": "full",
+          "text": "a couch or litter of a sick person."
+        }
+      ]
+    },
+    {
+      "n": "κλίνω | 2827",
+      "orth": "κλίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I rest, recline, make to yield"
+        },
+        {
+          "role": "full",
+          "text": "trans: I rest, recline; I bend, incline; I cause to give ground, make\n                  to yield; intrans: I decline, approach my end."
+        }
+      ]
+    },
+    {
+      "n": "κλισία | 2828",
+      "orth": "κλισία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a dining couch, group of diners"
+        },
+        {
+          "role": "full",
+          "text": "properly: a dining couch; hence: a group of diners."
+        }
+      ]
+    },
+    {
+      "n": "κλοπή | 2829",
+      "orth": "κλοπή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "thieving, theft"
+        },
+        {
+          "role": "full",
+          "text": "thieving, theft."
+        }
+      ]
+    },
+    {
+      "n": "κλύδων | 2830",
+      "orth": "κλύδων, ῶνος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "rough water"
+        },
+        {
+          "role": "full",
+          "text": "rough water, a wave, billow, surge."
+        }
+      ]
+    },
+    {
+      "n": "κλυδωνίζομαι | 2831",
+      "orth": "κλυδωνίζομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am tossed by waves"
+        },
+        {
+          "role": "full",
+          "text": "I am tossed by waves, met: I am tossed to and fro."
+        }
+      ]
+    },
+    {
+      "n": "Κλωπᾶς | 2832",
+      "orth": "Κλωπᾶς, ᾶ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Clopas"
+        },
+        {
+          "role": "full",
+          "text": "Clopas, husband of one Mary, who stood by the cross."
+        }
+      ]
+    },
+    {
+      "n": "κνήθω | 2833",
+      "orth": "κνήθω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I rub, tickle"
+        },
+        {
+          "role": "full",
+          "text": "I rub, tickle, scratch; pass: I itch."
+        }
+      ]
+    },
+    {
+      "n": "Κνίδος | 2834",
+      "orth": "Κνίδος, ου, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cnidus"
+        },
+        {
+          "role": "full",
+          "text": "Cnidus, a town on the coast of Caria (south-west Asia Minor) near the\n                  island of Cos."
+        }
+      ]
+    },
+    {
+      "n": "κοδράντης | 2835",
+      "orth": "κοδράντης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the smallest Roman copper coin"
+        },
+        {
+          "role": "full",
+          "text": "a \"quadrans,\" the smallest Roman copper coin, a quarter of an \"as,\" the\n                  sixteenth part of a \"sesterius\"."
+        }
+      ]
+    },
+    {
+      "n": "κοιλία | 2836",
+      "orth": "κοιλία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "belly, womb, the inner man"
+        },
+        {
+          "role": "full",
+          "text": "belly, abdomen, heart, a general term covering any organ in the\n                  abdomen, e.g. stomach, womb; met: the inner man."
+        }
+      ]
+    },
+    {
+      "n": "κοιμάομαι | 2837",
+      "orth": "κοιμάομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I fall asleep, am asleep"
+        },
+        {
+          "role": "full",
+          "text": "I fall asleep, am asleep, sometimes of the sleep of death."
+        }
+      ]
+    },
+    {
+      "n": "κοίμησις | 2838",
+      "orth": "κοίμησις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "repose, taking rest"
+        },
+        {
+          "role": "full",
+          "text": "repose, taking rest, sleep."
+        }
+      ]
+    },
+    {
+      "n": "κοινός | 2839",
+      "orth": "κοινός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "common, shared, unclean"
+        },
+        {
+          "role": "full",
+          "text": "(a) common, shared, (b) Hebraistic use: profane; dirty, unclean,\n                  unwashed."
+        }
+      ]
+    },
+    {
+      "n": "κοινόω | 2840",
+      "orth": "κοινόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I make unclean, regard as unclean"
+        },
+        {
+          "role": "full",
+          "text": "I make unclean, pollute, desecrate, mid: I regard (treat) as\n                  unclean."
+        }
+      ]
+    },
+    {
+      "n": "κοινωνέω | 2841",
+      "orth": "κοινωνέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I share, communicate, have fellowship with"
+        },
+        {
+          "role": "full",
+          "text": "(a) I share, communicate, contribute, impart, (b) I share in, have a\n                  share of, have fellowship with."
+        }
+      ]
+    },
+    {
+      "n": "κοινωνία | 2842",
+      "orth": "κοινωνία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "participation, communion, fellowship"
+        },
+        {
+          "role": "full",
+          "text": "(lit: partnership) (a) contributory help, participation, (b) sharing\n                  in, communion, (c) spiritual fellowship, a fellowship in the spirit."
+        }
+      ]
+    },
+    {
+      "n": "κοινωνικός | 2843",
+      "orth": "κοινωνικός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "willing to share"
+        },
+        {
+          "role": "full",
+          "text": "willing to share, sociable, ready to communicate, beneficent."
+        }
+      ]
+    },
+    {
+      "n": "κοινωνός | 2844",
+      "orth": "κοινωνός, οῦ, ὁ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a sharer, partner"
+        },
+        {
+          "role": "full",
+          "text": "a sharer, partner, companion."
+        }
+      ]
+    },
+    {
+      "n": "κοίτη | 2845",
+      "orth": "κοίτη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a bed, marriage bed"
+        },
+        {
+          "role": "full",
+          "text": "(a) a bed, (b) a marriage bed; plur: repeated (immoral) sexual\n                  intercourse."
+        }
+      ]
+    },
+    {
+      "n": "κοιτών | 2846",
+      "orth": "κοιτών, ῶνος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a bed-chamber"
+        },
+        {
+          "role": "full",
+          "text": "a bed-chamber."
+        }
+      ]
+    },
+    {
+      "n": "κόκκινος | 2847",
+      "orth": "κόκκινος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "crimson"
+        },
+        {
+          "role": "full",
+          "text": "crimson, scarlet, dyed with Kermes (coccum), the female coccus of the\n                  Kermes oak."
+        }
+      ]
+    },
+    {
+      "n": "κόκκος | 2848",
+      "orth": "κόκκος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a kernel, grain"
+        },
+        {
+          "role": "full",
+          "text": "a kernel, grain, seed."
+        }
+      ]
+    },
+    {
+      "n": "κολάζω | 2849",
+      "orth": "κολάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I chastise, punish"
+        },
+        {
+          "role": "full",
+          "text": "I chastise, curtail, punish; mid: I cause to be punished."
+        }
+      ]
+    },
+    {
+      "n": "κολακεία | 2850",
+      "orth": "κολακεία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "flattery"
+        },
+        {
+          "role": "full",
+          "text": "flattery, with a view to advantage or gain."
+        }
+      ]
+    },
+    {
+      "n": "κόλασις | 2851",
+      "orth": "κόλασις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "chastisement, punishment"
+        },
+        {
+          "role": "full",
+          "text": "chastisement, punishment, torment, perhaps with the idea of\n                  deprivation."
+        }
+      ]
+    },
+    {
+      "n": "κολαφίζω | 2852",
+      "orth": "κολαφίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I strike with the fist, maltreat"
+        },
+        {
+          "role": "full",
+          "text": "I strike with the fist, buffet; hence: I mistreat violently."
+        }
+      ]
+    },
+    {
+      "n": "κολλάω | 2853",
+      "orth": "κολλάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I glue, cleave, keep company with"
+        },
+        {
+          "role": "full",
+          "text": "(lit: I glue); hence: mid. and pass: I join myself closely, cleave,\n                  adhere (to), I keep company (with), of friendly intercourse."
+        }
+      ]
+    },
+    {
+      "n": "κολλούριον | 2854",
+      "orth": "κολλούριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "eye-salve"
+        },
+        {
+          "role": "full",
+          "text": "eye-salve."
+        }
+      ]
+    },
+    {
+      "n": "κολλυβιστής | 2855",
+      "orth": "κολλυβιστής, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a money-changer"
+        },
+        {
+          "role": "full",
+          "text": "a money-changer, who changed heathen into Jewish money, for payment\n                  into the Temple treasury."
+        }
+      ]
+    },
+    {
+      "n": "κολοβόω | 2856",
+      "orth": "κολοβόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I cut short, shorten"
+        },
+        {
+          "role": "full",
+          "text": "(lit: I maim, mutilate), I cut short, shorten, abbreviate."
+        }
+      ]
+    },
+    {
+      "n": "Κολοσσαί | 2857",
+      "orth": "Κολοσσαί, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Colossae"
+        },
+        {
+          "role": "full",
+          "text": "Colossae, a town of the Roman province Asia, in the Lycus valley, near\n                  Laodicea and Hierapolis."
+        }
+      ]
+    },
+    {
+      "n": "κόλπος | 2859",
+      "orth": "κόλπος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "bosom, bosom of a garment, a bay, gulf"
+        },
+        {
+          "role": "full",
+          "text": "(a) sing. and plur: bosom; (sinus) the overhanging fold of the garment\n                  used as a pocket, (b) a bay, gulf."
+        }
+      ]
+    },
+    {
+      "n": "κολυμβάω | 2860",
+      "orth": "κολυμβάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I swim"
+        },
+        {
+          "role": "full",
+          "text": "(properly: I dive, hence) I swim."
+        }
+      ]
+    },
+    {
+      "n": "κολυμβήθρα | 2861",
+      "orth": "κολυμβήθρα, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a pool, swimming-place"
+        },
+        {
+          "role": "full",
+          "text": "(lit: a diving or swimming place), a pool."
+        }
+      ]
+    },
+    {
+      "n": "κολωνία | 2862",
+      "orth": "κολωνία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a colony, garrison city"
+        },
+        {
+          "role": "full",
+          "text": "a colony, a city settlement of Roman (soldier) citizens; a garrison\n                  city."
+        }
+      ]
+    },
+    {
+      "n": "κομάω | 2863",
+      "orth": "κομάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I wear the hair long"
+        },
+        {
+          "role": "full",
+          "text": "I wear the hair long, allow the hair to grow out."
+        }
+      ]
+    },
+    {
+      "n": "κόμη | 2864",
+      "orth": "κόμη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "hair, long hair"
+        },
+        {
+          "role": "full",
+          "text": "hair, long hair."
+        }
+      ]
+    },
+    {
+      "n": "κομίζω | 2865",
+      "orth": "κομίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bring, receive, recover"
+        },
+        {
+          "role": "full",
+          "text": "(a) act: I convey, bring, carry, (b) mid: I receive back, receive what\n                  has belonged to myself but has been lost, or else promised but kept back, or: I\n                  get what has come to be my own by earning, recover."
+        }
+      ]
+    },
+    {
+      "n": "κομψότερον | 2866",
+      "orth": "κομψότερον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "in better health"
+        },
+        {
+          "role": "full",
+          "text": "in better health."
+        }
+      ]
+    },
+    {
+      "n": "κονιάω | 2867",
+      "orth": "κονιάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I whitewash"
+        },
+        {
+          "role": "full",
+          "text": "I whitewash, plaster over."
+        }
+      ]
+    },
+    {
+      "n": "κονιορτός | 2868",
+      "orth": "κονιορτός, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "dust"
+        },
+        {
+          "role": "full",
+          "text": "dust."
+        }
+      ]
+    },
+    {
+      "n": "κοπάζω | 2869",
+      "orth": "κοπάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I cease, drop"
+        },
+        {
+          "role": "full",
+          "text": "I abate, cease raging, am stilled."
+        }
+      ]
+    },
+    {
+      "n": "κοπετός | 2870",
+      "orth": "κοπετός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "lamentation"
+        },
+        {
+          "role": "full",
+          "text": "beating of the breast or head in lamentation, lamentation."
+        }
+      ]
+    },
+    {
+      "n": "κοπή | 2871",
+      "orth": "κοπή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "slaughter"
+        },
+        {
+          "role": "full",
+          "text": "slaughter, smiting in battle."
+        }
+      ]
+    },
+    {
+      "n": "κοπιάω | 2872",
+      "orth": "κοπιάω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I grow weary, toil"
+        },
+        {
+          "role": "full",
+          "text": "(a) I grow weary, (b) I toil, work with effort (of bodily and mental\n                  labor alike)."
+        }
+      ]
+    },
+    {
+      "n": "κόπος | 2873",
+      "orth": "κόπος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "trouble, toil, labor"
+        },
+        {
+          "role": "full",
+          "text": "(a) trouble, (b) toil, labor, laborious toil, involving weariness and\n                  fatigue."
+        }
+      ]
+    },
+    {
+      "n": "κοπρία | 2874",
+      "orth": "κοπρία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "manure"
+        },
+        {
+          "role": "full",
+          "text": "manure; a dung-hill."
+        }
+      ]
+    },
+    {
+      "n": "κόπτω | 2875",
+      "orth": "κόπτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I cut off, mourn"
+        },
+        {
+          "role": "full",
+          "text": "(a) I cut, cut off, strike, smite, (b) mid: I beat my breast or head in\n                  lamentation, lament, mourn, sometimes with acc. of person whose loss is\n                  mourned."
+        }
+      ]
+    },
+    {
+      "n": "κόραξ | 2876",
+      "orth": "κόραξ, ός, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a raven"
+        },
+        {
+          "role": "full",
+          "text": "a raven, crow."
+        }
+      ]
+    },
+    {
+      "n": "κοράσιον | 2877",
+      "orth": "κοράσιον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a girl, little girl"
+        },
+        {
+          "role": "full",
+          "text": "a little girl, a young girl; a girl, maiden."
+        }
+      ]
+    },
+    {
+      "n": "κορβᾶν | 2878",
+      "orth": "κορβᾶν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a gift, offering"
+        },
+        {
+          "role": "full",
+          "text": "a gift, offering, anything consecrated to God."
+        }
+      ]
+    },
+    {
+      "n": "Κορέ | 2879",
+      "orth": "Κορέ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Korah"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew) Korah."
+        }
+      ]
+    },
+    {
+      "n": "κορέννυμι | 2880",
+      "orth": "κορέννυμι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I fill, feed full"
+        },
+        {
+          "role": "full",
+          "text": "I fill, sate, glut, feed full, satisfy."
+        }
+      ]
+    },
+    {
+      "n": "Κορίνθιος | 2881",
+      "orth": "Κορίνθιος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Corinthian"
+        },
+        {
+          "role": "full",
+          "text": "Corinthian, of Corinth."
+        }
+      ]
+    },
+    {
+      "n": "Κόρινθος | 2882",
+      "orth": "Κόρινθος, ου, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Corinth"
+        },
+        {
+          "role": "full",
+          "text": "Corinth, in north-east Peloponnese, the capital of the Roman province\n                  Achaia."
+        }
+      ]
+    },
+    {
+      "n": "Κορνήλιος | 2883",
+      "orth": "Κορνήλιος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cornelius"
+        },
+        {
+          "role": "full",
+          "text": "Cornelius, a centurion of the Roman army, stationed at Caesarea."
+        }
+      ]
+    },
+    {
+      "n": "κόρος | 2884",
+      "orth": "κόρος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a dry measure, 120 gallons"
+        },
+        {
+          "role": "full",
+          "text": "(Hebrew) a (dry) measure, equivalent to 120 gallons."
+        }
+      ]
+    },
+    {
+      "n": "κοσμέω | 2885",
+      "orth": "κοσμέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I put into order, adorn"
+        },
+        {
+          "role": "full",
+          "text": "I put into order; I decorate, deck, adorn."
+        }
+      ]
+    },
+    {
+      "n": "κοσμικός | 2886",
+      "orth": "κοσμικός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "earthly, worldly"
+        },
+        {
+          "role": "full",
+          "text": "earthly, worldly (belonging to the present earthly world as opposed to\n                  the heavenly and future)."
+        }
+      ]
+    },
+    {
+      "n": "κόσμιος | 2887",
+      "orth": "κόσμιος, ία, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "orderly, virtuous"
+        },
+        {
+          "role": "full",
+          "text": "orderly, virtuous, decent, modest, well-ordered."
+        }
+      ]
+    },
+    {
+      "n": "κοσμοκράτωρ | 2888",
+      "orth": "κοσμοκράτωρ, ορος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "ruler of this world"
+        },
+        {
+          "role": "full",
+          "text": "ruler of this world, that is, of the world as asserting its\n                  independence of God; used of the angelic or demonic powers controlling the\n                  sublunary world."
+        }
+      ]
+    },
+    {
+      "n": "κόσμος | 2889",
+      "orth": "κόσμος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the world, universe"
+        },
+        {
+          "role": "full",
+          "text": "the world, universe; worldly affairs; the inhabitants of the world;\n                  adornment."
+        }
+      ]
+    },
+    {
+      "n": "Κούαρτος | 2890",
+      "orth": "Κούαρτος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Quartus"
+        },
+        {
+          "role": "full",
+          "text": "Quartus, a Christian, brother of Erastus the Corinthian."
+        }
+      ]
+    },
+    {
+      "n": "κοῦμι | 2891",
+      "orth": "κοῦμι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "arise"
+        },
+        {
+          "role": "full",
+          "text": "(Aramaic) arise, stand up."
+        }
+      ]
+    },
+    {
+      "n": "κουστωδία | 2892",
+      "orth": "κουστωδία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a guard"
+        },
+        {
+          "role": "full",
+          "text": "a guard, watch."
+        }
+      ]
+    },
+    {
+      "n": "κουφίζω | 2893",
+      "orth": "κουφίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I lighten"
+        },
+        {
+          "role": "full",
+          "text": "I lighten, make light."
+        }
+      ]
+    },
+    {
+      "n": "κόφινος | 2894",
+      "orth": "κόφινος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a large basket"
+        },
+        {
+          "role": "full",
+          "text": "a large basket."
+        }
+      ]
+    },
+    {
+      "n": "κράβαττος | 2895",
+      "orth": "κράβαττος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a bed, mattress, mat"
+        },
+        {
+          "role": "full",
+          "text": "a bed, mattress, mat of a poor man."
+        }
+      ]
+    },
+    {
+      "n": "κράζω | 2896",
+      "orth": "κράζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I cry aloud, shriek"
+        },
+        {
+          "role": "full",
+          "text": "I cry aloud, shriek."
+        }
+      ]
+    },
+    {
+      "n": "κραιπάλη | 2897",
+      "orth": "κραιπάλη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "drunken dissipation"
+        },
+        {
+          "role": "full",
+          "text": "drunken dissipation, surfeiting."
+        }
+      ]
+    },
+    {
+      "n": "κρανίον | 2898",
+      "orth": "κρανίον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a skull"
+        },
+        {
+          "role": "full",
+          "text": "a skull."
+        }
+      ]
+    },
+    {
+      "n": "κράσπεδον | 2899",
+      "orth": "κράσπεδον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "the fringe, edge"
+        },
+        {
+          "role": "full",
+          "text": "the fringe, edge, corner, tassel."
+        }
+      ]
+    },
+    {
+      "n": "κραταιός | 2900",
+      "orth": "κραταιός, ά, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "strong, powerful"
+        },
+        {
+          "role": "full",
+          "text": "strong, powerful, mighty."
+        }
+      ]
+    },
+    {
+      "n": "κραταιόω | 2901",
+      "orth": "κραταιόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I strengthen, confirm, grow strong"
+        },
+        {
+          "role": "full",
+          "text": "I strengthen, confirm; pass: I grow strong, become strong."
+        }
+      ]
+    },
+    {
+      "n": "κρατέω | 2902",
+      "orth": "κρατέω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I lay hold of, obtain"
+        },
+        {
+          "role": "full",
+          "text": "I am strong, mighty, hence: I rule, am master, prevail; I obtain, take\n                  hold of; I hold, hold fast."
+        }
+      ]
+    },
+    {
+      "n": "κράτιστος | 2903",
+      "orth": "κράτιστος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "most excellent"
+        },
+        {
+          "role": "full",
+          "text": "most excellent, an official epithet, used in addressing a Roman of high\n                  rank, and in the second century one of equestrian (as distinguished from\n                  senatorial) rank."
+        }
+      ]
+    },
+    {
+      "n": "κράτος | 2904",
+      "orth": "κράτος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "dominion, strength, power"
+        },
+        {
+          "role": "full",
+          "text": "dominion, strength, power; a mighty deed."
+        }
+      ]
+    },
+    {
+      "n": "κραυγάζω | 2905",
+      "orth": "κραυγάζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I cry aloud, shout"
+        },
+        {
+          "role": "full",
+          "text": "I cry aloud, shout, exclaim."
+        }
+      ]
+    },
+    {
+      "n": "κραυγή | 2906",
+      "orth": "κραυγή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a shout, clamor, outcry"
+        },
+        {
+          "role": "full",
+          "text": "(a) a shout, cry, clamor, (b) outcry, clamoring against another."
+        }
+      ]
+    },
+    {
+      "n": "κρέας | 2907",
+      "orth": "κρέας, έως, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "flesh, kinds of flesh"
+        },
+        {
+          "role": "full",
+          "text": "flesh; plur: pieces of flesh, kinds of flesh."
+        }
+      ]
+    },
+    {
+      "n": "κρείσσων | 2908",
+      "orth": "κρείσσων, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "stronger, more excellent"
+        },
+        {
+          "role": "full",
+          "text": "stronger, more excellent."
+        }
+      ]
+    },
+    {
+      "n": "κρείττων | 2909",
+      "orth": "κρείττων, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "stronger, more excellent"
+        },
+        {
+          "role": "full",
+          "text": "stronger, more excellent."
+        }
+      ]
+    },
+    {
+      "n": "κρεμάννυμι | 2910",
+      "orth": "κρεμάννυμι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I hang up, suspend"
+        },
+        {
+          "role": "full",
+          "text": "I hang, hang up, suspend; mid: I am hanging, hang."
+        }
+      ]
+    },
+    {
+      "n": "κρημνός | 2911",
+      "orth": "κρημνός, οῦ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a crag, precipice"
+        },
+        {
+          "role": "full",
+          "text": "a crag, precipice, steep bank."
+        }
+      ]
+    },
+    {
+      "n": "Κρής | 2912",
+      "orth": "Κρής, ητός, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a Cretan"
+        },
+        {
+          "role": "full",
+          "text": "a Cretan, an inhabitant of Crete."
+        }
+      ]
+    },
+    {
+      "n": "Κρήσκης | 2913",
+      "orth": "Κρήσκης, κεντος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Crescens"
+        },
+        {
+          "role": "full",
+          "text": "Crescens, a Christian, coadjutor of Paul."
+        }
+      ]
+    },
+    {
+      "n": "Κρήτη | 2914",
+      "orth": "Κρήτη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Crete"
+        },
+        {
+          "role": "full",
+          "text": "Crete."
+        }
+      ]
+    },
+    {
+      "n": "κριθή | 2915",
+      "orth": "κριθή, ῆς, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "barley"
+        },
+        {
+          "role": "full",
+          "text": "barley."
+        }
+      ]
+    },
+    {
+      "n": "κρίθινος | 2916",
+      "orth": "κρίθινος, η, ον",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "made of barley"
+        },
+        {
+          "role": "full",
+          "text": "made of barley."
+        }
+      ]
+    },
+    {
+      "n": "κρίμα | 2917",
+      "orth": "κρίμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a judgment, verdict, lawsuit"
+        },
+        {
+          "role": "full",
+          "text": "(a) a judgment, a verdict; sometimes implying an adverse verdict, a\n                  condemnation, (b) a case at law, a lawsuit."
+        }
+      ]
+    },
+    {
+      "n": "κρίνον | 2918",
+      "orth": "κρίνον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a lily"
+        },
+        {
+          "role": "full",
+          "text": "a lily growing wild, variously identified with the red anemone, the\n                  whole lily, the sword lily."
+        }
+      ]
+    },
+    {
+      "n": "κρίνω | 2919",
+      "orth": "κρίνω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I judge, decide, think good"
+        },
+        {
+          "role": "full",
+          "text": "(a) I judge, whether in a law-court or privately: sometimes with\n                  cognate nouns emphasizing the notion of the verb, (b) I decide, I think (it)\n                  good."
+        }
+      ]
+    },
+    {
+      "n": "κρίσις | 2920",
+      "orth": "κρίσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "judging, divine judgment"
+        },
+        {
+          "role": "full",
+          "text": "judging, judgment, decision, sentence; generally: divine judgment;\n                  accusation."
+        }
+      ]
+    },
+    {
+      "n": "Κρίσπος | 2921",
+      "orth": "Κρίσπος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Crispus"
+        },
+        {
+          "role": "full",
+          "text": "Crispus, ruler of the synagogue at Corinth, converted and baptized by\n                  Paul."
+        }
+      ]
+    },
+    {
+      "n": "κριτήριον | 2922",
+      "orth": "κριτήριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "criterion, a law-court"
+        },
+        {
+          "role": "full",
+          "text": "criterion; a law-court; a law-case before an arbiter; a cause,\n                  controversy."
+        }
+      ]
+    },
+    {
+      "n": "κριτής | 2923",
+      "orth": "κριτής, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a judge"
+        },
+        {
+          "role": "full",
+          "text": "a judge, magistrate, ruler."
+        }
+      ]
+    },
+    {
+      "n": "κριτικός | 2924",
+      "orth": "κριτικός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "able to judge"
+        },
+        {
+          "role": "full",
+          "text": "critical, able to judge or discern."
+        }
+      ]
+    },
+    {
+      "n": "κρούω | 2925",
+      "orth": "κρούω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I knock"
+        },
+        {
+          "role": "full",
+          "text": "I knock, beat a door with a stick, to gain admittance."
+        }
+      ]
+    },
+    {
+      "n": "κρύπτη | 2926",
+      "orth": "κρύπτη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a cellar, vault"
+        },
+        {
+          "role": "full",
+          "text": "a cellar, vault, hidden place, crypt."
+        }
+      ]
+    },
+    {
+      "n": "κρυπτός | 2927",
+      "orth": "κρυπτός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "hidden, secret"
+        },
+        {
+          "role": "full",
+          "text": "hidden, secret; as subst: the hidden (secret) things (parts), the\n                  inward nature (character)."
+        }
+      ]
+    },
+    {
+      "n": "κρύπτω | 2928",
+      "orth": "κρύπτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I hide, conceal, lay up"
+        },
+        {
+          "role": "full",
+          "text": "I hide, conceal, lay up."
+        }
+      ]
+    },
+    {
+      "n": "κρυσταλλίζω | 2929",
+      "orth": "κρυσταλλίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I am clear as crystal"
+        },
+        {
+          "role": "full",
+          "text": "I am clear as crystal, brilliant like crystal."
+        }
+      ]
+    },
+    {
+      "n": "κρύσταλλος | 2930",
+      "orth": "κρύσταλλος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "crystal"
+        },
+        {
+          "role": "full",
+          "text": "crystal."
+        }
+      ]
+    },
+    {
+      "n": "κρυφῇ | 2931",
+      "orth": "κρυφῇ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "in secret, secretly"
+        },
+        {
+          "role": "full",
+          "text": "in secret, secretly."
+        }
+      ]
+    },
+    {
+      "n": "κτάομαι | 2932",
+      "orth": "κτάομαι",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I win, get, buy, possess"
+        },
+        {
+          "role": "full",
+          "text": "(a) I acquire, win, get, purchase, buy, (b) I possess, win mastery\n                  over."
+        }
+      ]
+    },
+    {
+      "n": "κτῆμα | 2933",
+      "orth": "κτῆμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a field, property"
+        },
+        {
+          "role": "full",
+          "text": "a piece of landed property, a field; plur: possessions, property,\n                  possibly landed property, property in land."
+        }
+      ]
+    },
+    {
+      "n": "κτῆνος | 2934",
+      "orth": "κτῆνος, ους, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a beast of burden"
+        },
+        {
+          "role": "full",
+          "text": "a beast of burden (generally, a horse or mule) either for riding or for\n                  carrying loads on its back, or for yoking to a cart or carriage."
+        }
+      ]
+    },
+    {
+      "n": "κτήτωρ | 2935",
+      "orth": "κτήτωρ, ορος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a possessor, owner"
+        },
+        {
+          "role": "full",
+          "text": "a possessor, owner."
+        }
+      ]
+    },
+    {
+      "n": "κτίζω | 2936",
+      "orth": "κτίζω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I create, form, shape, make"
+        },
+        {
+          "role": "full",
+          "text": "I create, form, shape, make, always of God."
+        }
+      ]
+    },
+    {
+      "n": "κτίσις | 2937",
+      "orth": "κτίσις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "creation, creature, institution"
+        },
+        {
+          "role": "full",
+          "text": "(often of the founding of a city), (a) abstr: creation, (b) concr:\n                  creation, creature, institution; always of Divine work, (c) an institution,\n                  ordinance."
+        }
+      ]
+    },
+    {
+      "n": "κτίσμα | 2938",
+      "orth": "κτίσμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a created thing, creature"
+        },
+        {
+          "role": "full",
+          "text": "a created thing, a creature."
+        }
+      ]
+    },
+    {
+      "n": "κτίστης | 2939",
+      "orth": "κτίστης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a founder, creator, God"
+        },
+        {
+          "role": "full",
+          "text": "(often of the founder of a city), creator, God."
+        }
+      ]
+    },
+    {
+      "n": "κυβεία | 2940",
+      "orth": "κυβεία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "trickery, sleight"
+        },
+        {
+          "role": "full",
+          "text": "(lit: playing with dice, gaming, hence) trickery, sleight."
+        }
+      ]
+    },
+    {
+      "n": "κυβέρνησις | 2941",
+      "orth": "κυβέρνησις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "governing, government"
+        },
+        {
+          "role": "full",
+          "text": "(lit: steering, piloting), governing, government."
+        }
+      ]
+    },
+    {
+      "n": "κυβερνήτης | 2942",
+      "orth": "κυβερνήτης, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a steersman, pilot"
+        },
+        {
+          "role": "full",
+          "text": "a steersman, pilot; met: a guide, governor."
+        }
+      ]
+    },
+    {
+      "n": "κυκλόθεν | 2943",
+      "orth": "κυκλόθεν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "in a circle round"
+        },
+        {
+          "role": "full",
+          "text": "in a circle round, round about."
+        }
+      ]
+    },
+    {
+      "n": "κυκλόω | 2944",
+      "orth": "κυκλόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I encircle, besiege, surround"
+        },
+        {
+          "role": "full",
+          "text": "I encircle, besiege, surround."
+        }
+      ]
+    },
+    {
+      "n": "κύκλος | 2945",
+      "orth": "κύκλος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a circle"
+        },
+        {
+          "role": "full",
+          "text": "a circle, ring."
+        }
+      ]
+    },
+    {
+      "n": "κύλισμα | 2946",
+      "orth": "κύλισμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "rolling, wallowing"
+        },
+        {
+          "role": "full",
+          "text": "a place of wallowing."
+        }
+      ]
+    },
+    {
+      "n": "κυλίω | 2947",
+      "orth": "κυλίω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I roll"
+        },
+        {
+          "role": "full",
+          "text": "I roll, roll along, wallow."
+        }
+      ]
+    },
+    {
+      "n": "κυλλός | 2948",
+      "orth": "κυλλός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "crippled, lame"
+        },
+        {
+          "role": "full",
+          "text": "crippled, lame, especially in the hands."
+        }
+      ]
+    },
+    {
+      "n": "κῦμα | 2949",
+      "orth": "κῦμα, ατος, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a wave"
+        },
+        {
+          "role": "full",
+          "text": "a wave, surge, billow."
+        }
+      ]
+    },
+    {
+      "n": "κύμβαλον | 2950",
+      "orth": "κύμβαλον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a cymbal"
+        },
+        {
+          "role": "full",
+          "text": "a cymbal."
+        }
+      ]
+    },
+    {
+      "n": "κύμινον | 2951",
+      "orth": "κύμινον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "cumin"
+        },
+        {
+          "role": "full",
+          "text": "cumin, a plant used as a spice."
+        }
+      ]
+    },
+    {
+      "n": "κυνάριον | 2952",
+      "orth": "κυνάριον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a little dog"
+        },
+        {
+          "role": "full",
+          "text": "a little dog, a house dog."
+        }
+      ]
+    },
+    {
+      "n": "Κύπριος | 2953",
+      "orth": "Κύπριος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a Cypriote, belonging to Cyprus"
+        },
+        {
+          "role": "full",
+          "text": "a Cypriote, belonging to Cyprus."
+        }
+      ]
+    },
+    {
+      "n": "Κύπρος | 2954",
+      "orth": "Κύπρος, ου, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cyprus"
+        },
+        {
+          "role": "full",
+          "text": "Cyprus."
+        }
+      ]
+    },
+    {
+      "n": "κύπτω | 2955",
+      "orth": "κύπτω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I bend, stoop down"
+        },
+        {
+          "role": "full",
+          "text": "I bend, stoop down, bow the head."
+        }
+      ]
+    },
+    {
+      "n": "Κυρηναῖος | 2956",
+      "orth": "Κυρηναῖος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "belonging to Cyrene, a Cyrenaean"
+        },
+        {
+          "role": "full",
+          "text": "belonging to Cyrene, a Cyrenaean."
+        }
+      ]
+    },
+    {
+      "n": "Κυρήνη | 2957",
+      "orth": "Κυρήνη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cyrene"
+        },
+        {
+          "role": "full",
+          "text": "Cyrene, a district west of Egypt on the Mediterranean coast, forming\n                  with Crete a Roman province."
+        }
+      ]
+    },
+    {
+      "n": "Κυρήνιος | 2958",
+      "orth": "Κυρήνιος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Quirinius"
+        },
+        {
+          "role": "full",
+          "text": "Cyrenius or Quirinius, governor of Syria."
+        }
+      ]
+    },
+    {
+      "n": "κυρία | 2959",
+      "orth": "κυρία, ας, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a lady"
+        },
+        {
+          "role": "full",
+          "text": "a lady."
+        }
+      ]
+    },
+    {
+      "n": "κυριακός | 2960",
+      "orth": "κυριακός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "of the Lord"
+        },
+        {
+          "role": "full",
+          "text": "of the Lord, special to the Lord."
+        }
+      ]
+    },
+    {
+      "n": "κυριεύω | 2961",
+      "orth": "κυριεύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I have authority, rule over"
+        },
+        {
+          "role": "full",
+          "text": "I have authority, rule over."
+        }
+      ]
+    },
+    {
+      "n": "κύριος | 2962",
+      "orth": "κύριος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "lord, Lord, master, sir"
+        },
+        {
+          "role": "full",
+          "text": "lord, master, sir; the Lord."
+        }
+      ]
+    },
+    {
+      "n": "κυριότης | 2963",
+      "orth": "κυριότης, τητος, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "lordship, domination, dignity"
+        },
+        {
+          "role": "full",
+          "text": "(a) abstr: lordship, (b) concr: divine or angelic lordship, domination,\n                  dignity, usually with reference to a celestial hierarchy."
+        }
+      ]
+    },
+    {
+      "n": "κυρόω | 2964",
+      "orth": "κυρόω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I ratify, confirm"
+        },
+        {
+          "role": "full",
+          "text": "I ratify, confirm, make valid, reaffirm, assure."
+        }
+      ]
+    },
+    {
+      "n": "κύων | 2965",
+      "orth": "κύων, κυνός, ὁ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a dog"
+        },
+        {
+          "role": "full",
+          "text": "a dog, universally despised in the East."
+        }
+      ]
+    },
+    {
+      "n": "κῶλον | 2966",
+      "orth": "κῶλον, ου, τό",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a limb, bodies"
+        },
+        {
+          "role": "full",
+          "text": "a limb, member of a body; fig: a corpse, carcass."
+        }
+      ]
+    },
+    {
+      "n": "κωλύω | 2967",
+      "orth": "κωλύω",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "I prevent, hinder"
+        },
+        {
+          "role": "full",
+          "text": "I prevent, debar, hinder; with infin: from doing so and so."
+        }
+      ]
+    },
+    {
+      "n": "κώμη | 2968",
+      "orth": "κώμη, ης, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a village"
+        },
+        {
+          "role": "full",
+          "text": "a village, country town."
+        }
+      ]
+    },
+    {
+      "n": "κωμόπολις | 2969",
+      "orth": "κωμόπολις, εως, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a large village"
+        },
+        {
+          "role": "full",
+          "text": "a large village, a city which in constitution has only the status of a\n                  village; a country town."
+        }
+      ]
+    },
+    {
+      "n": "κῶμος | 2970",
+      "orth": "κῶμος, ου, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a feasting, reveling"
+        },
+        {
+          "role": "full",
+          "text": "a feasting, reveling, carousal."
+        }
+      ]
+    },
+    {
+      "n": "κώνωψ | 2971",
+      "orth": "κώνωψ, ωπος, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "a gnat, mosquito"
+        },
+        {
+          "role": "full",
+          "text": "a gnat, mosquito, referred to proverbially as something small."
+        }
+      ]
+    },
+    {
+      "n": "Κῶς | 2972",
+      "orth": "Κῶς, ῶ, ἡ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cos"
+        },
+        {
+          "role": "full",
+          "text": "Cos, an island in the Aegean Sea, south-west of Asia Minor."
+        }
+      ]
+    },
+    {
+      "n": "Κωσάμ | 2973",
+      "orth": "Κωσάμ, ὁ",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "Cosam"
+        },
+        {
+          "role": "full",
+          "text": "Cosam, son of Elmadam and father of Addi."
+        }
+      ]
+    },
+    {
+      "n": "κωφός | 2974",
+      "orth": "κωφός, ή, όν",
+      "definitions": [
+        {
+          "role": "brief",
+          "text": "dumb, deaf"
+        },
+        {
+          "role": "full",
+          "text": "(lit: blunted) dumb, dull, deaf."
+        }
+      ]
+    }
+  ]
+}
